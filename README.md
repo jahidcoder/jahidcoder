@@ -46,56 +46,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=GWu2-nXRgjM" target="_blank">
+      <a href="https://www.youtube.com/watch?v=yrgzszEY4wI" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=GWu2-nXRgjM&title=How+is+China+using+AI+in+the+classroom%3F+%7C+The+Take&lang=en&timestamp=1781880989&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1305">
-          <img src="https://ytcards.demolab.com/?id=GWu2-nXRgjM&title=How+is+China+using+AI+in+the+classroom%3F+%7C+The+Take&lang=en&timestamp=1781880989&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1305" alt="How is China using AI in the classroom? | The Take" title="How is China using AI in the classroom? | The Take">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=yrgzszEY4wI&title=Is+Gen+Z+trapped+by+AI%3F+%7C+BBC+News&lang=en&timestamp=1781958422&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1572">
+          <img src="https://ytcards.demolab.com/?id=yrgzszEY4wI&title=Is+Gen+Z+trapped+by+AI%3F+%7C+BBC+News&lang=en&timestamp=1781958422&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1572" alt="Is Gen Z trapped by AI? | BBC News" title="Is Gen Z trapped by AI? | BBC News">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=ACyYB3rkVw0" target="_blank">
+      <a href="https://www.youtube.com/watch?v=Cus0-etR1tQ" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ACyYB3rkVw0&title=Rick+Beato%27s+%22I+Was+Right+About+AI%22+Um....+Rick%3F%3F%3F+Hello%3F&lang=en&timestamp=1781841389&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2865">
-          <img src="https://ytcards.demolab.com/?id=ACyYB3rkVw0&title=Rick+Beato%27s+%22I+Was+Right+About+AI%22+Um....+Rick%3F%3F%3F+Hello%3F&lang=en&timestamp=1781841389&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2865" alt="Rick Beato's &quot;I Was Right About AI&quot; Um.... Rick??? Hello?" title="Rick Beato's &quot;I Was Right About AI&quot; Um.... Rick??? Hello?">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Cus0-etR1tQ&title=Will+Artificial+Intelligence+Replace+Indian+IT+Professionals+in+the+US%3F+%7C+Rahul+Reddy+%7C+Eha+TV&lang=en&timestamp=1781962022&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2365">
+          <img src="https://ytcards.demolab.com/?id=Cus0-etR1tQ&title=Will+Artificial+Intelligence+Replace+Indian+IT+Professionals+in+the+US%3F+%7C+Rahul+Reddy+%7C+Eha+TV&lang=en&timestamp=1781962022&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2365" alt="Will Artificial Intelligence Replace Indian IT Professionals in the US? | Rahul Reddy | Eha TV" title="Will Artificial Intelligence Replace Indian IT Professionals in the US? | Rahul Reddy | Eha TV">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=D-Q4Ccvdl2A" target="_blank">
+      <a href="https://www.youtube.com/watch?v=u_POle-4ecE" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=D-Q4Ccvdl2A&title=Recursive+Self-Improvement+Has+Already+Begun+%7C+Anthony+Aguirre&lang=en&timestamp=1781888189&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5647">
-          <img src="https://ytcards.demolab.com/?id=D-Q4Ccvdl2A&title=Recursive+Self-Improvement+Has+Already+Begun+%7C+Anthony+Aguirre&lang=en&timestamp=1781888189&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=5647" alt="Recursive Self-Improvement Has Already Begun | Anthony Aguirre" title="Recursive Self-Improvement Has Already Begun | Anthony Aguirre">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=u_POle-4ecE&title=Why+Meta+Turned+to+Nuclear+Power&lang=en&timestamp=1781969222&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=573">
+          <img src="https://ytcards.demolab.com/?id=u_POle-4ecE&title=Why+Meta+Turned+to+Nuclear+Power&lang=en&timestamp=1781969222&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=573" alt="Why Meta Turned to Nuclear Power" title="Why Meta Turned to Nuclear Power">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=12pycx6VUsw" target="_blank">
+      <a href="https://www.youtube.com/watch?v=Zfd5zvhYJvw" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=12pycx6VUsw&title=Inside+Elon+Musk%27s+empire+%7C+BBC+Americast&lang=en&timestamp=1781880989&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1661">
-          <img src="https://ytcards.demolab.com/?id=12pycx6VUsw&title=Inside+Elon+Musk%27s+empire+%7C+BBC+Americast&lang=en&timestamp=1781880989&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1661" alt="Inside Elon Musk's empire | BBC Americast" title="Inside Elon Musk's empire | BBC Americast">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Zfd5zvhYJvw&title=Capitalism%2C+Productiveness+and+Artificial+Intelligence+%7C+Yaron+Brook+Show&lang=en&timestamp=1781990822&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5687">
+          <img src="https://ytcards.demolab.com/?id=Zfd5zvhYJvw&title=Capitalism%2C+Productiveness+and+Artificial+Intelligence+%7C+Yaron+Brook+Show&lang=en&timestamp=1781990822&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=5687" alt="Capitalism, Productiveness and Artificial Intelligence | Yaron Brook Show" title="Capitalism, Productiveness and Artificial Intelligence | Yaron Brook Show">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=s80fSqj39lk" target="_blank">
+      <a href="https://www.youtube.com/watch?v=xgJ0qm1viRk" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=s80fSqj39lk&title=Will+AI+Actually+Destroy+Humanity%3F+1+Doomer+vs+9+Rationalists+at+LessOnline+2026&lang=en&timestamp=1781859389&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2416">
-          <img src="https://ytcards.demolab.com/?id=s80fSqj39lk&title=Will+AI+Actually+Destroy+Humanity%3F+1+Doomer+vs+9+Rationalists+at+LessOnline+2026&lang=en&timestamp=1781859389&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2416" alt="Will AI Actually Destroy Humanity? 1 Doomer vs 9 Rationalists at LessOnline 2026" title="Will AI Actually Destroy Humanity? 1 Doomer vs 9 Rationalists at LessOnline 2026">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=xgJ0qm1viRk&title=Why+AI+Just+Crashed+Accenture%2C+TCS%2C+Infosys+%26+Indian+IT+Stocks&lang=en&timestamp=1781962022&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=564">
+          <img src="https://ytcards.demolab.com/?id=xgJ0qm1viRk&title=Why+AI+Just+Crashed+Accenture%2C+TCS%2C+Infosys+%26+Indian+IT+Stocks&lang=en&timestamp=1781962022&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=564" alt="Why AI Just Crashed Accenture, TCS, Infosys & Indian IT Stocks" title="Why AI Just Crashed Accenture, TCS, Infosys & Indian IT Stocks">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=cRaV8jYSKDs" target="_blank">
+      <a href="https://www.youtube.com/watch?v=m558IisrWf0" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=cRaV8jYSKDs&title=Full+video%3A+A+peaceful+day+in+the+European+countryside+%7C+Baking+Sweet+Treats+with+a+DIY+Oven&lang=en&timestamp=1781880989&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=10965">
-          <img src="https://ytcards.demolab.com/?id=cRaV8jYSKDs&title=Full+video%3A+A+peaceful+day+in+the+European+countryside+%7C+Baking+Sweet+Treats+with+a+DIY+Oven&lang=en&timestamp=1781880989&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=10965" alt="Full video: A peaceful day in the European countryside | Baking Sweet Treats with a DIY Oven" title="Full video: A peaceful day in the European countryside | Baking Sweet Treats with a DIY Oven">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=m558IisrWf0&title=A+Quick+Talk+Among+Trees++-+Why+AI+Sucks+%28Berkeley%2C+CA%29&lang=en&timestamp=1782012422&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=621">
+          <img src="https://ytcards.demolab.com/?id=m558IisrWf0&title=A+Quick+Talk+Among+Trees++-+Why+AI+Sucks+%28Berkeley%2C+CA%29&lang=en&timestamp=1782012422&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=621" alt="A Quick Talk Among Trees  - Why AI Sucks (Berkeley, CA)" title="A Quick Talk Among Trees  - Why AI Sucks (Berkeley, CA)">
         </picture>
       </a>
     </td>
