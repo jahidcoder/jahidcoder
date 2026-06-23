@@ -47,56 +47,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=yrgzszEY4wI" target="_blank">
+      <a href="https://www.youtube.com/watch?v=uLO_KBhuQCY" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=yrgzszEY4wI&title=Is+Gen+Z+trapped+by+AI%3F+%7C+BBC+News&lang=en&timestamp=1781958422&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1572">
-          <img src="https://ytcards.demolab.com/?id=yrgzszEY4wI&title=Is+Gen+Z+trapped+by+AI%3F+%7C+BBC+News&lang=en&timestamp=1781958422&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1572" alt="Is Gen Z trapped by AI? | BBC News" title="Is Gen Z trapped by AI? | BBC News">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=uLO_KBhuQCY&title=Microsoft+CEO%3A+%E2%80%98We+CAN%E2%80%99T+let+AI+giants+eat+the+economy%E2%80%99&lang=en&timestamp=1782182927&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=608">
+          <img src="https://ytcards.demolab.com/?id=uLO_KBhuQCY&title=Microsoft+CEO%3A+%E2%80%98We+CAN%E2%80%99T+let+AI+giants+eat+the+economy%E2%80%99&lang=en&timestamp=1782182927&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=608" alt="Microsoft CEO: ‘We CAN’T let AI giants eat the economy’" title="Microsoft CEO: ‘We CAN’T let AI giants eat the economy’">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=Cus0-etR1tQ" target="_blank">
+      <a href="https://www.youtube.com/watch?v=HkVpSoaIKsc" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Cus0-etR1tQ&title=Will+Artificial+Intelligence+Replace+Indian+IT+Professionals+in+the+US%3F+%7C+Rahul+Reddy+%7C+Eha+TV&lang=en&timestamp=1781962022&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2365">
-          <img src="https://ytcards.demolab.com/?id=Cus0-etR1tQ&title=Will+Artificial+Intelligence+Replace+Indian+IT+Professionals+in+the+US%3F+%7C+Rahul+Reddy+%7C+Eha+TV&lang=en&timestamp=1781962022&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2365" alt="Will Artificial Intelligence Replace Indian IT Professionals in the US? | Rahul Reddy | Eha TV" title="Will Artificial Intelligence Replace Indian IT Professionals in the US? | Rahul Reddy | Eha TV">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=HkVpSoaIKsc&title=Why+AI+Users+Are+Raving+About+GLM+5.2&lang=en&timestamp=1782157727&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1507">
+          <img src="https://ytcards.demolab.com/?id=HkVpSoaIKsc&title=Why+AI+Users+Are+Raving+About+GLM+5.2&lang=en&timestamp=1782157727&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1507" alt="Why AI Users Are Raving About GLM 5.2" title="Why AI Users Are Raving About GLM 5.2">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=u_POle-4ecE" target="_blank">
+      <a href="https://www.youtube.com/watch?v=tiGq88_rLMQ" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=u_POle-4ecE&title=Why+Meta+Turned+to+Nuclear+Power&lang=en&timestamp=1781969222&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=573">
-          <img src="https://ytcards.demolab.com/?id=u_POle-4ecE&title=Why+Meta+Turned+to+Nuclear+Power&lang=en&timestamp=1781969222&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=573" alt="Why Meta Turned to Nuclear Power" title="Why Meta Turned to Nuclear Power">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=tiGq88_rLMQ&title=AI+Godfather%3A%C2%A0You+Have+No+Idea%C2%A0%22We%27re+Near+The+End%22+-%C2%A0Geoffrey+Hinton&lang=en&timestamp=1782146927&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1137">
+          <img src="https://ytcards.demolab.com/?id=tiGq88_rLMQ&title=AI+Godfather%3A%C2%A0You+Have+No+Idea%C2%A0%22We%27re+Near+The+End%22+-%C2%A0Geoffrey+Hinton&lang=en&timestamp=1782146927&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1137" alt="AI Godfather: You Have No Idea &quot;We're Near The End&quot; - Geoffrey Hinton" title="AI Godfather: You Have No Idea &quot;We're Near The End&quot; - Geoffrey Hinton">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=Zfd5zvhYJvw" target="_blank">
+      <a href="https://www.youtube.com/watch?v=_LcbEZT-_RE" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Zfd5zvhYJvw&title=Capitalism%2C+Productiveness+and+Artificial+Intelligence+%7C+Yaron+Brook+Show&lang=en&timestamp=1781990822&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5687">
-          <img src="https://ytcards.demolab.com/?id=Zfd5zvhYJvw&title=Capitalism%2C+Productiveness+and+Artificial+Intelligence+%7C+Yaron+Brook+Show&lang=en&timestamp=1781990822&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=5687" alt="Capitalism, Productiveness and Artificial Intelligence | Yaron Brook Show" title="Capitalism, Productiveness and Artificial Intelligence | Yaron Brook Show">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=_LcbEZT-_RE&title=The+Pope+and+Mormon+Apostle+Unite+Against+Artificial+Intelligence&lang=en&timestamp=1782157727&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3030">
+          <img src="https://ytcards.demolab.com/?id=_LcbEZT-_RE&title=The+Pope+and+Mormon+Apostle+Unite+Against+Artificial+Intelligence&lang=en&timestamp=1782157727&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3030" alt="The Pope and Mormon Apostle Unite Against Artificial Intelligence" title="The Pope and Mormon Apostle Unite Against Artificial Intelligence">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=xgJ0qm1viRk" target="_blank">
+      <a href="https://www.youtube.com/watch?v=EAFamlCmN0I" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=xgJ0qm1viRk&title=Why+AI+Just+Crashed+Accenture%2C+TCS%2C+Infosys+%26+Indian+IT+Stocks&lang=en&timestamp=1781962022&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=564">
-          <img src="https://ytcards.demolab.com/?id=xgJ0qm1viRk&title=Why+AI+Just+Crashed+Accenture%2C+TCS%2C+Infosys+%26+Indian+IT+Stocks&lang=en&timestamp=1781962022&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=564" alt="Why AI Just Crashed Accenture, TCS, Infosys & Indian IT Stocks" title="Why AI Just Crashed Accenture, TCS, Infosys & Indian IT Stocks">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=EAFamlCmN0I&title=The+Next+5+Years+of+Artificial+Intelligence&lang=en&timestamp=1782146927&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=679">
+          <img src="https://ytcards.demolab.com/?id=EAFamlCmN0I&title=The+Next+5+Years+of+Artificial+Intelligence&lang=en&timestamp=1782146927&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=679" alt="The Next 5 Years of Artificial Intelligence" title="The Next 5 Years of Artificial Intelligence">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=m558IisrWf0" target="_blank">
+      <a href="https://www.youtube.com/watch?v=XYp2d8wax08" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=m558IisrWf0&title=A+Quick+Talk+Among+Trees++-+Why+AI+Sucks+%28Berkeley%2C+CA%29&lang=en&timestamp=1782012422&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=621">
-          <img src="https://ytcards.demolab.com/?id=m558IisrWf0&title=A+Quick+Talk+Among+Trees++-+Why+AI+Sucks+%28Berkeley%2C+CA%29&lang=en&timestamp=1782012422&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=621" alt="A Quick Talk Among Trees  - Why AI Sucks (Berkeley, CA)" title="A Quick Talk Among Trees  - Why AI Sucks (Berkeley, CA)">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=XYp2d8wax08&title=The+Lies+of+AI%3A+MACHINE&lang=en&timestamp=1782139727&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=756">
+          <img src="https://ytcards.demolab.com/?id=XYp2d8wax08&title=The+Lies+of+AI%3A+MACHINE&lang=en&timestamp=1782139727&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=756" alt="The Lies of AI: MACHINE" title="The Lies of AI: MACHINE">
         </picture>
       </a>
     </td>
