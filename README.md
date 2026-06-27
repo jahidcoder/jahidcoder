@@ -50,56 +50,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=OBUzl_IaWIw" target="_blank">
+      <a href="https://www.youtube.com/watch?v=oKvee9qkOUA" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=OBUzl_IaWIw&title=%22How+to+Think+About+AI%22%3A+Cory+Doctorow+on+Big+Tech%2C+Understanding+AI%2C+Labor+Automation+%26+More&lang=en&timestamp=1782399453&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=897">
-          <img src="https://ytcards.demolab.com/?id=OBUzl_IaWIw&title=%22How+to+Think+About+AI%22%3A+Cory+Doctorow+on+Big+Tech%2C+Understanding+AI%2C+Labor+Automation+%26+More&lang=en&timestamp=1782399453&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=897" alt="&quot;How to Think About AI&quot;: Cory Doctorow on Big Tech, Understanding AI, Labor Automation & More" title="&quot;How to Think About AI&quot;: Cory Doctorow on Big Tech, Understanding AI, Labor Automation & More">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=oKvee9qkOUA&title=Former+Indiana+governor+explains+how+his+nonprofit+will+help+workers+impacted+by+AI+boom&lang=en&timestamp=1782502820&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=303">
+          <img src="https://ytcards.demolab.com/?id=oKvee9qkOUA&title=Former+Indiana+governor+explains+how+his+nonprofit+will+help+workers+impacted+by+AI+boom&lang=en&timestamp=1782502820&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=303" alt="Former Indiana governor explains how his nonprofit will help workers impacted by AI boom" title="Former Indiana governor explains how his nonprofit will help workers impacted by AI boom">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=IwKuv4LrCVk" target="_blank">
+      <a href="https://www.youtube.com/watch?v=dy-AzXzBKvo" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=IwKuv4LrCVk&title=Anthropic+is+coming+for+EVERYTHING&lang=en&timestamp=1782431853&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=903">
-          <img src="https://ytcards.demolab.com/?id=IwKuv4LrCVk&title=Anthropic+is+coming+for+EVERYTHING&lang=en&timestamp=1782431853&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=903" alt="Anthropic is coming for EVERYTHING" title="Anthropic is coming for EVERYTHING">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=dy-AzXzBKvo&title=Is+Apple%27s+Massive+Price+Hike+of+MacBooks%2C+iPads+Justified%3F+%7C+Vantage+on+Firstpost%C2%A0%7C+N18G+%7C+4K&lang=en&timestamp=1782502820&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=409">
+          <img src="https://ytcards.demolab.com/?id=dy-AzXzBKvo&title=Is+Apple%27s+Massive+Price+Hike+of+MacBooks%2C+iPads+Justified%3F+%7C+Vantage+on+Firstpost%C2%A0%7C+N18G+%7C+4K&lang=en&timestamp=1782502820&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=409" alt="Is Apple's Massive Price Hike of MacBooks, iPads Justified? | Vantage on Firstpost | N18G | 4K" title="Is Apple's Massive Price Hike of MacBooks, iPads Justified? | Vantage on Firstpost | N18G | 4K">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=ZY6RVj3yP2U" target="_blank">
+      <a href="https://www.youtube.com/watch?v=ztRtkiMaaVI" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ZY6RVj3yP2U&title=WHAT+THE+TECH%3F+Could+Artificial+Intelligence+Raise+Your+Electric+Bill%3F&lang=en&timestamp=1782428253&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=134">
-          <img src="https://ytcards.demolab.com/?id=ZY6RVj3yP2U&title=WHAT+THE+TECH%3F+Could+Artificial+Intelligence+Raise+Your+Electric+Bill%3F&lang=en&timestamp=1782428253&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=134" alt="WHAT THE TECH? Could Artificial Intelligence Raise Your Electric Bill?" title="WHAT THE TECH? Could Artificial Intelligence Raise Your Electric Bill?">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ztRtkiMaaVI&title=Elon+Musk%27s+AI+Was+Asked+%22Who+Is+Jesus%3F%22+%E2%80%94+Its+Answer+Left+Both+Christians+and+Atheists+Speechless&lang=en&timestamp=1782495620&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1718">
+          <img src="https://ytcards.demolab.com/?id=ztRtkiMaaVI&title=Elon+Musk%27s+AI+Was+Asked+%22Who+Is+Jesus%3F%22+%E2%80%94+Its+Answer+Left+Both+Christians+and+Atheists+Speechless&lang=en&timestamp=1782495620&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1718" alt="Elon Musk's AI Was Asked &quot;Who Is Jesus?&quot; — Its Answer Left Both Christians and Atheists Speechless" title="Elon Musk's AI Was Asked &quot;Who Is Jesus?&quot; — Its Answer Left Both Christians and Atheists Speechless">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=XbTF0XsfCuA" target="_blank">
+      <a href="https://www.youtube.com/watch?v=m4JmkiGgHBM" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=XbTF0XsfCuA&title=Beyond+the+Hype%3A+A+Data+Analyst%E2%80%99s+Real-World+Take+on+AI+%7C+%23GirlsWhoL&lang=en&timestamp=1782359853&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=4214">
-          <img src="https://ytcards.demolab.com/?id=XbTF0XsfCuA&title=Beyond+the+Hype%3A+A+Data+Analyst%E2%80%99s+Real-World+Take+on+AI+%7C+%23GirlsWhoL&lang=en&timestamp=1782359853&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=4214" alt="Beyond the Hype: A Data Analyst’s Real-World Take on AI | #GirlsWhoL" title="Beyond the Hype: A Data Analyst’s Real-World Take on AI | #GirlsWhoL">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=m4JmkiGgHBM&title=The+AI+That%E2%80%99s+Quietly+Becoming+Indispensable&lang=en&timestamp=1782492020&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=599">
+          <img src="https://ytcards.demolab.com/?id=m4JmkiGgHBM&title=The+AI+That%E2%80%99s+Quietly+Becoming+Indispensable&lang=en&timestamp=1782492020&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=599" alt="The AI That’s Quietly Becoming Indispensable" title="The AI That’s Quietly Becoming Indispensable">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=QqrSb8HmPRA" target="_blank">
+      <a href="https://www.youtube.com/watch?v=77UKuKbaIFc" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=QqrSb8HmPRA&title=Master+of+Management+in+Artificial+Intelligence+-+Program+Overview+%7C+June+25%2C+2026&lang=en&timestamp=1782417453&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3500">
-          <img src="https://ytcards.demolab.com/?id=QqrSb8HmPRA&title=Master+of+Management+in+Artificial+Intelligence+-+Program+Overview+%7C+June+25%2C+2026&lang=en&timestamp=1782417453&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3500" alt="Master of Management in Artificial Intelligence - Program Overview | June 25, 2026" title="Master of Management in Artificial Intelligence - Program Overview | June 25, 2026">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=77UKuKbaIFc&title=We%27re+Using+Computers+the+Wrong+Way&lang=en&timestamp=1782502820&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1340">
+          <img src="https://ytcards.demolab.com/?id=77UKuKbaIFc&title=We%27re+Using+Computers+the+Wrong+Way&lang=en&timestamp=1782502820&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1340" alt="We're Using Computers the Wrong Way" title="We're Using Computers the Wrong Way">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=q9iTiBsIheA" target="_blank">
+      <a href="https://www.youtube.com/watch?v=NxtJHGiMap0" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=q9iTiBsIheA&title=Who+Benefits+Most+from+AI%3F+The+Complete+AI+Ecosystem+Breakdown%21&lang=en&timestamp=1782399453&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1367">
-          <img src="https://ytcards.demolab.com/?id=q9iTiBsIheA&title=Who+Benefits+Most+from+AI%3F+The+Complete+AI+Ecosystem+Breakdown%21&lang=en&timestamp=1782399453&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1367" alt="Who Benefits Most from AI? The Complete AI Ecosystem Breakdown!" title="Who Benefits Most from AI? The Complete AI Ecosystem Breakdown!">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=NxtJHGiMap0&title=Vancouver+Police+facing+backlash+over+possible+use+of+AI+in+post+online&lang=en&timestamp=1782495620&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=76">
+          <img src="https://ytcards.demolab.com/?id=NxtJHGiMap0&title=Vancouver+Police+facing+backlash+over+possible+use+of+AI+in+post+online&lang=en&timestamp=1782495620&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=76" alt="Vancouver Police facing backlash over possible use of AI in post online" title="Vancouver Police facing backlash over possible use of AI in post online">
         </picture>
       </a>
     </td>
