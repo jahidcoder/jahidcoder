@@ -70,56 +70,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=x-ls5wXeAzc" target="_blank">
+      <a href="https://www.youtube.com/watch?v=8v5T7Gk0_b8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=x-ls5wXeAzc&title=LIVE%3A+World+Artificial+Intelligence+Conference+kicks-off+in+Shanghai&lang=en&timestamp=1784281207&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3887">
-          <img src="https://ytcards.demolab.com/?id=x-ls5wXeAzc&title=LIVE%3A+World+Artificial+Intelligence+Conference+kicks-off+in+Shanghai&lang=en&timestamp=1784281207&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3887" alt="LIVE: World Artificial Intelligence Conference kicks-off in Shanghai" title="LIVE: World Artificial Intelligence Conference kicks-off in Shanghai">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=8v5T7Gk0_b8&title=Chinese+AI+Model+Raises+Pressure+on+US+Spending&lang=en&timestamp=1784375699&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=747">
+          <img src="https://ytcards.demolab.com/?id=8v5T7Gk0_b8&title=Chinese+AI+Model+Raises+Pressure+on+US+Spending&lang=en&timestamp=1784375699&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=747" alt="Chinese AI Model Raises Pressure on US Spending" title="Chinese AI Model Raises Pressure on US Spending">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=wh2Qe4sSnw8" target="_blank">
+      <a href="https://www.youtube.com/watch?v=e9aUAnwRtM4" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=wh2Qe4sSnw8&title=LIVE%3A+Xi+Jinping+Delivers+Keynote+Speech+at+World+AI+Conference+2026+%7C+WAIC+Shanghai+%7C+AI1Z&lang=en&timestamp=1784266807&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=7470">
-          <img src="https://ytcards.demolab.com/?id=wh2Qe4sSnw8&title=LIVE%3A+Xi+Jinping+Delivers+Keynote+Speech+at+World+AI+Conference+2026+%7C+WAIC+Shanghai+%7C+AI1Z&lang=en&timestamp=1784266807&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=7470" alt="LIVE: Xi Jinping Delivers Keynote Speech at World AI Conference 2026 | WAIC Shanghai | AI1Z" title="LIVE: Xi Jinping Delivers Keynote Speech at World AI Conference 2026 | WAIC Shanghai | AI1Z">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=e9aUAnwRtM4&title=Aspen+Security+Forum+puts+focus+on+issue+of+artificial+intelligence&lang=en&timestamp=1784404499&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=185">
+          <img src="https://ytcards.demolab.com/?id=e9aUAnwRtM4&title=Aspen+Security+Forum+puts+focus+on+issue+of+artificial+intelligence&lang=en&timestamp=1784404499&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=185" alt="Aspen Security Forum puts focus on issue of artificial intelligence" title="Aspen Security Forum puts focus on issue of artificial intelligence">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=ebqX46CHTaY" target="_blank">
+      <a href="https://www.youtube.com/watch?v=WSHdRupUPd4" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ebqX46CHTaY&title=Build+a+Custom+PC+for+AI+and+Local+LLMs%21&lang=en&timestamp=1784310007&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=416">
-          <img src="https://ytcards.demolab.com/?id=ebqX46CHTaY&title=Build+a+Custom+PC+for+AI+and+Local+LLMs%21&lang=en&timestamp=1784310007&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=416" alt="Build a Custom PC for AI and Local LLMs!" title="Build a Custom PC for AI and Local LLMs!">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=WSHdRupUPd4&title=Billionaire+Investor+WARNS%3A++AI+Will+END+UP+Destroying+The+Human+Species+-+Jeremy+Grantham&lang=en&timestamp=1784393699&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=767">
+          <img src="https://ytcards.demolab.com/?id=WSHdRupUPd4&title=Billionaire+Investor+WARNS%3A++AI+Will+END+UP+Destroying+The+Human+Species+-+Jeremy+Grantham&lang=en&timestamp=1784393699&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=767" alt="Billionaire Investor WARNS:  AI Will END UP Destroying The Human Species - Jeremy Grantham" title="Billionaire Investor WARNS:  AI Will END UP Destroying The Human Species - Jeremy Grantham">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=6CDPSJJ7cMk" target="_blank">
+      <a href="https://www.youtube.com/watch?v=4tdhW7PFbqM" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=6CDPSJJ7cMk&title=Artificial+Intelligence+and+the+Future+of+Work%3A+AI%E2%80%99s+Current+and+Expected+Impacts+on+the+Workforce&lang=en&timestamp=1784256007&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3800">
-          <img src="https://ytcards.demolab.com/?id=6CDPSJJ7cMk&title=Artificial+Intelligence+and+the+Future+of+Work%3A+AI%E2%80%99s+Current+and+Expected+Impacts+on+the+Workforce&lang=en&timestamp=1784256007&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3800" alt="Artificial Intelligence and the Future of Work: AI’s Current and Expected Impacts on the Workforce" title="Artificial Intelligence and the Future of Work: AI’s Current and Expected Impacts on the Workforce">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=4tdhW7PFbqM&title=The+Last+Supper+Has+Been+Reanalyzed+by+AI+%E2%80%94+The+Result+Shocked+the+Entire+World&lang=en&timestamp=1784397299&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1763">
+          <img src="https://ytcards.demolab.com/?id=4tdhW7PFbqM&title=The+Last+Supper+Has+Been+Reanalyzed+by+AI+%E2%80%94+The+Result+Shocked+the+Entire+World&lang=en&timestamp=1784397299&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1763" alt="The Last Supper Has Been Reanalyzed by AI — The Result Shocked the Entire World" title="The Last Supper Has Been Reanalyzed by AI — The Result Shocked the Entire World">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=uvFbZr2X5jE" target="_blank">
+      <a href="https://www.youtube.com/watch?v=vAghx3KJUQU" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=uvFbZr2X5jE&title=LIVE+%7C+China%E2%80%99s+Xi+Jinping+Addresses+World+AI+Conference+As+Us+Tech+Rivalry+Heats+Up+%7C+China+News&lang=en&timestamp=1784266807&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=11213">
-          <img src="https://ytcards.demolab.com/?id=uvFbZr2X5jE&title=LIVE+%7C+China%E2%80%99s+Xi+Jinping+Addresses+World+AI+Conference+As+Us+Tech+Rivalry+Heats+Up+%7C+China+News&lang=en&timestamp=1784266807&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=11213" alt="LIVE | China’s Xi Jinping Addresses World AI Conference As Us Tech Rivalry Heats Up | China News" title="LIVE | China’s Xi Jinping Addresses World AI Conference As Us Tech Rivalry Heats Up | China News">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=vAghx3KJUQU&title=They+Saw+%27A.I.+Films%27...+and+Thought+It+Meant+Artificial+Intelligence+%F0%9F%A4%A6%E2%80%8D%E2%99%82%EF%B8%8F+%7C+1957+Documentary+PROOF&lang=en&timestamp=1784418899&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=6665">
+          <img src="https://ytcards.demolab.com/?id=vAghx3KJUQU&title=They+Saw+%27A.I.+Films%27...+and+Thought+It+Meant+Artificial+Intelligence+%F0%9F%A4%A6%E2%80%8D%E2%99%82%EF%B8%8F+%7C+1957+Documentary+PROOF&lang=en&timestamp=1784418899&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=6665" alt="They Saw 'A.I. Films'... and Thought It Meant Artificial Intelligence 🤦‍♂️ | 1957 Documentary PROOF" title="They Saw 'A.I. Films'... and Thought It Meant Artificial Intelligence 🤦‍♂️ | 1957 Documentary PROOF">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=bzwG-e-NJpc" target="_blank">
+      <a href="https://www.youtube.com/watch?v=Xd_MwVcXGZU" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=bzwG-e-NJpc&title=FULL%3A+World+Artificial+Intelligence+Conference+Opens+in+Shanghai+%7C+AC1W&lang=en&timestamp=1784284807&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5155">
-          <img src="https://ytcards.demolab.com/?id=bzwG-e-NJpc&title=FULL%3A+World+Artificial+Intelligence+Conference+Opens+in+Shanghai+%7C+AC1W&lang=en&timestamp=1784284807&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=5155" alt="FULL: World Artificial Intelligence Conference Opens in Shanghai | AC1W" title="FULL: World Artificial Intelligence Conference Opens in Shanghai | AC1W">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Xd_MwVcXGZU&title=Artificial+Intelligence+could+hurt+new+college+grads+more+in+the+job+market&lang=en&timestamp=1784386499&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=216">
+          <img src="https://ytcards.demolab.com/?id=Xd_MwVcXGZU&title=Artificial+Intelligence+could+hurt+new+college+grads+more+in+the+job+market&lang=en&timestamp=1784386499&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=216" alt="Artificial Intelligence could hurt new college grads more in the job market" title="Artificial Intelligence could hurt new college grads more in the job market">
         </picture>
       </a>
     </td>
