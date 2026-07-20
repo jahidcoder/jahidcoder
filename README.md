@@ -71,56 +71,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=8v5T7Gk0_b8" target="_blank">
+      <a href="https://www.youtube.com/watch?v=wZCCTKjwXzg" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=8v5T7Gk0_b8&title=Chinese+AI+Model+Raises+Pressure+on+US+Spending&lang=en&timestamp=1784375699&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=747">
-          <img src="https://ytcards.demolab.com/?id=8v5T7Gk0_b8&title=Chinese+AI+Model+Raises+Pressure+on+US+Spending&lang=en&timestamp=1784375699&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=747" alt="Chinese AI Model Raises Pressure on US Spending" title="Chinese AI Model Raises Pressure on US Spending">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=wZCCTKjwXzg&title=AI+Robots+Are+Here%21+No+Jobs+Will+be+Safe%21+Live+From+World+Artificial+Intelligence+Conference+%28WAIC%29&lang=en&timestamp=1784474613&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=818">
+          <img src="https://ytcards.demolab.com/?id=wZCCTKjwXzg&title=AI+Robots+Are+Here%21+No+Jobs+Will+be+Safe%21+Live+From+World+Artificial+Intelligence+Conference+%28WAIC%29&lang=en&timestamp=1784474613&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=818" alt="AI Robots Are Here! No Jobs Will be Safe! Live From World Artificial Intelligence Conference (WAIC)" title="AI Robots Are Here! No Jobs Will be Safe! Live From World Artificial Intelligence Conference (WAIC)">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=e9aUAnwRtM4" target="_blank">
+      <a href="https://www.youtube.com/watch?v=ptaRoFeN8Gs" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=e9aUAnwRtM4&title=Aspen+Security+Forum+puts+focus+on+issue+of+artificial+intelligence&lang=en&timestamp=1784404499&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=185">
-          <img src="https://ytcards.demolab.com/?id=e9aUAnwRtM4&title=Aspen+Security+Forum+puts+focus+on+issue+of+artificial+intelligence&lang=en&timestamp=1784404499&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=185" alt="Aspen Security Forum puts focus on issue of artificial intelligence" title="Aspen Security Forum puts focus on issue of artificial intelligence">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ptaRoFeN8Gs&title=10+Times+AI+Behaved+In+Ways+That+Terrified+The+Scientists+Who+Built+It+-+Part+2&lang=en&timestamp=1784474613&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=640">
+          <img src="https://ytcards.demolab.com/?id=ptaRoFeN8Gs&title=10+Times+AI+Behaved+In+Ways+That+Terrified+The+Scientists+Who+Built+It+-+Part+2&lang=en&timestamp=1784474613&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=640" alt="10 Times AI Behaved In Ways That Terrified The Scientists Who Built It - Part 2" title="10 Times AI Behaved In Ways That Terrified The Scientists Who Built It - Part 2">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=WSHdRupUPd4" target="_blank">
+      <a href="https://www.youtube.com/watch?v=8kNxcuYlIxc" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=WSHdRupUPd4&title=Billionaire+Investor+WARNS%3A++AI+Will+END+UP+Destroying+The+Human+Species+-+Jeremy+Grantham&lang=en&timestamp=1784393699&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=767">
-          <img src="https://ytcards.demolab.com/?id=WSHdRupUPd4&title=Billionaire+Investor+WARNS%3A++AI+Will+END+UP+Destroying+The+Human+Species+-+Jeremy+Grantham&lang=en&timestamp=1784393699&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=767" alt="Billionaire Investor WARNS:  AI Will END UP Destroying The Human Species - Jeremy Grantham" title="Billionaire Investor WARNS:  AI Will END UP Destroying The Human Species - Jeremy Grantham">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=8kNxcuYlIxc&title=Humanoid+Robots+Steal+The+Show+At+Shanghai+AI+Conference+%7C+Future+Of+Artificial+Intelligence&lang=en&timestamp=1784460213&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=112">
+          <img src="https://ytcards.demolab.com/?id=8kNxcuYlIxc&title=Humanoid+Robots+Steal+The+Show+At+Shanghai+AI+Conference+%7C+Future+Of+Artificial+Intelligence&lang=en&timestamp=1784460213&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=112" alt="Humanoid Robots Steal The Show At Shanghai AI Conference | Future Of Artificial Intelligence" title="Humanoid Robots Steal The Show At Shanghai AI Conference | Future Of Artificial Intelligence">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=4tdhW7PFbqM" target="_blank">
+      <a href="https://www.youtube.com/watch?v=668e9L6G-qw" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=4tdhW7PFbqM&title=The+Last+Supper+Has+Been+Reanalyzed+by+AI+%E2%80%94+The+Result+Shocked+the+Entire+World&lang=en&timestamp=1784397299&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1763">
-          <img src="https://ytcards.demolab.com/?id=4tdhW7PFbqM&title=The+Last+Supper+Has+Been+Reanalyzed+by+AI+%E2%80%94+The+Result+Shocked+the+Entire+World&lang=en&timestamp=1784397299&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1763" alt="The Last Supper Has Been Reanalyzed by AI — The Result Shocked the Entire World" title="The Last Supper Has Been Reanalyzed by AI — The Result Shocked the Entire World">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=668e9L6G-qw&title=How+Artificial+Intelligence+Is+Creating+Millionaires+and+Changing+Luxury+Spending+%7C+Tech+%26+Trade&lang=en&timestamp=1784474613&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=563">
+          <img src="https://ytcards.demolab.com/?id=668e9L6G-qw&title=How+Artificial+Intelligence+Is+Creating+Millionaires+and+Changing+Luxury+Spending+%7C+Tech+%26+Trade&lang=en&timestamp=1784474613&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=563" alt="How Artificial Intelligence Is Creating Millionaires and Changing Luxury Spending | Tech & Trade" title="How Artificial Intelligence Is Creating Millionaires and Changing Luxury Spending | Tech & Trade">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=vAghx3KJUQU" target="_blank">
+      <a href="https://www.youtube.com/watch?v=-Yy7jymPd90" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=vAghx3KJUQU&title=They+Saw+%27A.I.+Films%27...+and+Thought+It+Meant+Artificial+Intelligence+%F0%9F%A4%A6%E2%80%8D%E2%99%82%EF%B8%8F+%7C+1957+Documentary+PROOF&lang=en&timestamp=1784418899&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=6665">
-          <img src="https://ytcards.demolab.com/?id=vAghx3KJUQU&title=They+Saw+%27A.I.+Films%27...+and+Thought+It+Meant+Artificial+Intelligence+%F0%9F%A4%A6%E2%80%8D%E2%99%82%EF%B8%8F+%7C+1957+Documentary+PROOF&lang=en&timestamp=1784418899&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=6665" alt="They Saw 'A.I. Films'... and Thought It Meant Artificial Intelligence 🤦‍♂️ | 1957 Documentary PROOF" title="They Saw 'A.I. Films'... and Thought It Meant Artificial Intelligence 🤦‍♂️ | 1957 Documentary PROOF">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=-Yy7jymPd90&title=Palantir+Could+Become+a+%242+Trillion+Giant%E2%80%A6+But+Why+Are+Investors+Watching+%2480%3F&lang=en&timestamp=1784489013&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=689">
+          <img src="https://ytcards.demolab.com/?id=-Yy7jymPd90&title=Palantir+Could+Become+a+%242+Trillion+Giant%E2%80%A6+But+Why+Are+Investors+Watching+%2480%3F&lang=en&timestamp=1784489013&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=689" alt="Palantir Could Become a $2 Trillion Giant… But Why Are Investors Watching $80?" title="Palantir Could Become a $2 Trillion Giant… But Why Are Investors Watching $80?">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=Xd_MwVcXGZU" target="_blank">
+      <a href="https://www.youtube.com/watch?v=VVbsCuC0CMg" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Xd_MwVcXGZU&title=Artificial+Intelligence+could+hurt+new+college+grads+more+in+the+job+market&lang=en&timestamp=1784386499&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=216">
-          <img src="https://ytcards.demolab.com/?id=Xd_MwVcXGZU&title=Artificial+Intelligence+could+hurt+new+college+grads+more+in+the+job+market&lang=en&timestamp=1784386499&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=216" alt="Artificial Intelligence could hurt new college grads more in the job market" title="Artificial Intelligence could hurt new college grads more in the job market">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=VVbsCuC0CMg&title=Something+is+wrong+with+artificial+intelligence&lang=en&timestamp=1784463813&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1749">
+          <img src="https://ytcards.demolab.com/?id=VVbsCuC0CMg&title=Something+is+wrong+with+artificial+intelligence&lang=en&timestamp=1784463813&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1749" alt="Something is wrong with artificial intelligence" title="Something is wrong with artificial intelligence">
         </picture>
       </a>
     </td>
