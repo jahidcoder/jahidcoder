@@ -73,56 +73,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=4DUXr4zM9tg" target="_blank">
+      <a href="https://www.youtube.com/watch?v=ohmmQax8AHg" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=4DUXr4zM9tg&title=OpenAI+chairman+Bret+Taylor+on+AI+tokenomics%2C+token+efficiency&lang=en&timestamp=1784555466&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=493">
-          <img src="https://ytcards.demolab.com/?id=4DUXr4zM9tg&title=OpenAI+chairman+Bret+Taylor+on+AI+tokenomics%2C+token+efficiency&lang=en&timestamp=1784555466&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=493" alt="OpenAI chairman Bret Taylor on AI tokenomics, token efficiency" title="OpenAI chairman Bret Taylor on AI tokenomics, token efficiency">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ohmmQax8AHg&title=OpenAI+says+its+AI+models+went+rogue+and+hacked+another+tech+company+during+test&lang=en&timestamp=1784760924&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=290">
+          <img src="https://ytcards.demolab.com/?id=ohmmQax8AHg&title=OpenAI+says+its+AI+models+went+rogue+and+hacked+another+tech+company+during+test&lang=en&timestamp=1784760924&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=290" alt="OpenAI says its AI models went rogue and hacked another tech company during test" title="OpenAI says its AI models went rogue and hacked another tech company during test">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=f-csVpmT13I" target="_blank">
+      <a href="https://www.youtube.com/watch?v=Z33xRzQRIb4" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=f-csVpmT13I&title=Disney%E2%80%99s+New+AI+Cartoon+is%E2%80%A6&lang=en&timestamp=1784577066&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=175">
-          <img src="https://ytcards.demolab.com/?id=f-csVpmT13I&title=Disney%E2%80%99s+New+AI+Cartoon+is%E2%80%A6&lang=en&timestamp=1784577066&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=175" alt="Disney’s New AI Cartoon is…" title="Disney’s New AI Cartoon is…">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Z33xRzQRIb4&title=The+AI+That+Learned+To+Hack+%7C+How+Autonomous+Artificial+Intelligence+Is+Changing+The+Cyber+War&lang=en&timestamp=1784768124&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=498">
+          <img src="https://ytcards.demolab.com/?id=Z33xRzQRIb4&title=The+AI+That+Learned+To+Hack+%7C+How+Autonomous+Artificial+Intelligence+Is+Changing+The+Cyber+War&lang=en&timestamp=1784768124&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=498" alt="The AI That Learned To Hack | How Autonomous Artificial Intelligence Is Changing The Cyber War" title="The AI That Learned To Hack | How Autonomous Artificial Intelligence Is Changing The Cyber War">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=HIV3_UUzZtY" target="_blank">
+      <a href="https://www.youtube.com/watch?v=SKg7WFnQX8A" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=HIV3_UUzZtY&title=AI+and+the+next+decade+of+human+progress+%7C+Ray+Kurzweil&lang=en&timestamp=1784559066&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1836">
-          <img src="https://ytcards.demolab.com/?id=HIV3_UUzZtY&title=AI+and+the+next+decade+of+human+progress+%7C+Ray+Kurzweil&lang=en&timestamp=1784559066&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1836" alt="AI and the next decade of human progress | Ray Kurzweil" title="AI and the next decade of human progress | Ray Kurzweil">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=SKg7WFnQX8A&title=OpenAI+says+AI+models+went+rogue+during+testing%2C+triggering+%27unprecedented%27+breach&lang=en&timestamp=1784757324&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=277">
+          <img src="https://ytcards.demolab.com/?id=SKg7WFnQX8A&title=OpenAI+says+AI+models+went+rogue+during+testing%2C+triggering+%27unprecedented%27+breach&lang=en&timestamp=1784757324&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=277" alt="OpenAI says AI models went rogue during testing, triggering 'unprecedented' breach" title="OpenAI says AI models went rogue during testing, triggering 'unprecedented' breach">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=9nUmVktlwvA" target="_blank">
+      <a href="https://www.youtube.com/watch?v=34mXNv9zQB4" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=9nUmVktlwvA&title=The+AI+Industry+Just+Got+What+It+Deserved&lang=en&timestamp=1784566266&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1459">
-          <img src="https://ytcards.demolab.com/?id=9nUmVktlwvA&title=The+AI+Industry+Just+Got+What+It+Deserved&lang=en&timestamp=1784566266&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1459" alt="The AI Industry Just Got What It Deserved" title="The AI Industry Just Got What It Deserved">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=34mXNv9zQB4&title=Sen.+Warner+proposes+legislation+to+regulate+artificial+intelligence&lang=en&timestamp=1784753724&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=35">
+          <img src="https://ytcards.demolab.com/?id=34mXNv9zQB4&title=Sen.+Warner+proposes+legislation+to+regulate+artificial+intelligence&lang=en&timestamp=1784753724&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=35" alt="Sen. Warner proposes legislation to regulate artificial intelligence" title="Sen. Warner proposes legislation to regulate artificial intelligence">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=phHhqt2df6I" target="_blank">
+      <a href="https://www.youtube.com/watch?v=bGjeYLDCPNU" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=phHhqt2df6I&title=China%27s+New+Robotic+Bricklayer+Built+a+Wall+6x+Faster+Than+Humans%E2%80%94Construction+Unions+are+Stunned&lang=en&timestamp=1784573466&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1171">
-          <img src="https://ytcards.demolab.com/?id=phHhqt2df6I&title=China%27s+New+Robotic+Bricklayer+Built+a+Wall+6x+Faster+Than+Humans%E2%80%94Construction+Unions+are+Stunned&lang=en&timestamp=1784573466&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1171" alt="China's New Robotic Bricklayer Built a Wall 6x Faster Than Humans—Construction Unions are Stunned" title="China's New Robotic Bricklayer Built a Wall 6x Faster Than Humans—Construction Unions are Stunned">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=bGjeYLDCPNU&title=AI+TRANSFORMS+breast+cancer+screening&lang=en&timestamp=1784732124&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=249">
+          <img src="https://ytcards.demolab.com/?id=bGjeYLDCPNU&title=AI+TRANSFORMS+breast+cancer+screening&lang=en&timestamp=1784732124&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=249" alt="AI TRANSFORMS breast cancer screening" title="AI TRANSFORMS breast cancer screening">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=aS2hs2XVVaE" target="_blank">
+      <a href="https://www.youtube.com/watch?v=ORu-Z8xNIoE" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=aS2hs2XVVaE&title=USA+AI+vs+China+AI.+Who+is+Winning%3F&lang=en&timestamp=1784559066&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=848">
-          <img src="https://ytcards.demolab.com/?id=aS2hs2XVVaE&title=USA+AI+vs+China+AI.+Who+is+Winning%3F&lang=en&timestamp=1784559066&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=848" alt="USA AI vs China AI. Who is Winning?" title="USA AI vs China AI. Who is Winning?">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ORu-Z8xNIoE&title=A+real+AI+plan+that+actually+meets+the+moment&lang=en&timestamp=1784735724&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=588">
+          <img src="https://ytcards.demolab.com/?id=ORu-Z8xNIoE&title=A+real+AI+plan+that+actually+meets+the+moment&lang=en&timestamp=1784735724&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=588" alt="A real AI plan that actually meets the moment" title="A real AI plan that actually meets the moment">
         </picture>
       </a>
     </td>
