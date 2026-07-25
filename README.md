@@ -74,56 +74,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=ohmmQax8AHg" target="_blank">
+      <a href="https://www.youtube.com/watch?v=o8uAVqMX_Ig" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ohmmQax8AHg&title=OpenAI+says+its+AI+models+went+rogue+and+hacked+another+tech+company+during+test&lang=en&timestamp=1784760924&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=290">
-          <img src="https://ytcards.demolab.com/?id=ohmmQax8AHg&title=OpenAI+says+its+AI+models+went+rogue+and+hacked+another+tech+company+during+test&lang=en&timestamp=1784760924&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=290" alt="OpenAI says its AI models went rogue and hacked another tech company during test" title="OpenAI says its AI models went rogue and hacked another tech company during test">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=o8uAVqMX_Ig&title=Answers+To+Your+Biggest+AI+Questions&lang=en&timestamp=1784911749&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=7352">
+          <img src="https://ytcards.demolab.com/?id=o8uAVqMX_Ig&title=Answers+To+Your+Biggest+AI+Questions&lang=en&timestamp=1784911749&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=7352" alt="Answers To Your Biggest AI Questions" title="Answers To Your Biggest AI Questions">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=Z33xRzQRIb4" target="_blank">
+      <a href="https://www.youtube.com/watch?v=H20c4Zw8D9I" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Z33xRzQRIb4&title=The+AI+That+Learned+To+Hack+%7C+How+Autonomous+Artificial+Intelligence+Is+Changing+The+Cyber+War&lang=en&timestamp=1784768124&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=498">
-          <img src="https://ytcards.demolab.com/?id=Z33xRzQRIb4&title=The+AI+That+Learned+To+Hack+%7C+How+Autonomous+Artificial+Intelligence+Is+Changing+The+Cyber+War&lang=en&timestamp=1784768124&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=498" alt="The AI That Learned To Hack | How Autonomous Artificial Intelligence Is Changing The Cyber War" title="The AI That Learned To Hack | How Autonomous Artificial Intelligence Is Changing The Cyber War">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=H20c4Zw8D9I&title=The+state+of+artificial+intelligence&lang=en&timestamp=1784918949&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1468">
+          <img src="https://ytcards.demolab.com/?id=H20c4Zw8D9I&title=The+state+of+artificial+intelligence&lang=en&timestamp=1784918949&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1468" alt="The state of artificial intelligence" title="The state of artificial intelligence">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=SKg7WFnQX8A" target="_blank">
+      <a href="https://www.youtube.com/watch?v=lZhofisZogM" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=SKg7WFnQX8A&title=OpenAI+says+AI+models+went+rogue+during+testing%2C+triggering+%27unprecedented%27+breach&lang=en&timestamp=1784757324&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=277">
-          <img src="https://ytcards.demolab.com/?id=SKg7WFnQX8A&title=OpenAI+says+AI+models+went+rogue+during+testing%2C+triggering+%27unprecedented%27+breach&lang=en&timestamp=1784757324&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=277" alt="OpenAI says AI models went rogue during testing, triggering 'unprecedented' breach" title="OpenAI says AI models went rogue during testing, triggering 'unprecedented' breach">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=lZhofisZogM&title=China+Positions+Itself+As+Leader+Of+New+Global+AI+Order+%7C+Gravitas+%7C+WION&lang=en&timestamp=1784915349&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=181">
+          <img src="https://ytcards.demolab.com/?id=lZhofisZogM&title=China+Positions+Itself+As+Leader+Of+New+Global+AI+Order+%7C+Gravitas+%7C+WION&lang=en&timestamp=1784915349&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=181" alt="China Positions Itself As Leader Of New Global AI Order | Gravitas | WION" title="China Positions Itself As Leader Of New Global AI Order | Gravitas | WION">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=34mXNv9zQB4" target="_blank">
+      <a href="https://www.youtube.com/watch?v=-WrpttWybc0" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=34mXNv9zQB4&title=Sen.+Warner+proposes+legislation+to+regulate+artificial+intelligence&lang=en&timestamp=1784753724&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=35">
-          <img src="https://ytcards.demolab.com/?id=34mXNv9zQB4&title=Sen.+Warner+proposes+legislation+to+regulate+artificial+intelligence&lang=en&timestamp=1784753724&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=35" alt="Sen. Warner proposes legislation to regulate artificial intelligence" title="Sen. Warner proposes legislation to regulate artificial intelligence">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=-WrpttWybc0&title=Bernie+Sanders+Goes+All+Out+Against+Tech+Billionaires+In+Fiery+Senate+Speech+%7C+AI+%7C+US+News&lang=en&timestamp=1784915349&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=605">
+          <img src="https://ytcards.demolab.com/?id=-WrpttWybc0&title=Bernie+Sanders+Goes+All+Out+Against+Tech+Billionaires+In+Fiery+Senate+Speech+%7C+AI+%7C+US+News&lang=en&timestamp=1784915349&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=605" alt="Bernie Sanders Goes All Out Against Tech Billionaires In Fiery Senate Speech | AI | US News" title="Bernie Sanders Goes All Out Against Tech Billionaires In Fiery Senate Speech | AI | US News">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=bGjeYLDCPNU" target="_blank">
+      <a href="https://www.youtube.com/watch?v=zVWgjWbL0FQ" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=bGjeYLDCPNU&title=AI+TRANSFORMS+breast+cancer+screening&lang=en&timestamp=1784732124&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=249">
-          <img src="https://ytcards.demolab.com/?id=bGjeYLDCPNU&title=AI+TRANSFORMS+breast+cancer+screening&lang=en&timestamp=1784732124&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=249" alt="AI TRANSFORMS breast cancer screening" title="AI TRANSFORMS breast cancer screening">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=zVWgjWbL0FQ&title=Digital+Economics+and+Artificial+Intelligence+JOINT+Industrial+Organization%2C+NBER+Summer+Institute&lang=en&timestamp=1784926149&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=25094">
+          <img src="https://ytcards.demolab.com/?id=zVWgjWbL0FQ&title=Digital+Economics+and+Artificial+Intelligence+JOINT+Industrial+Organization%2C+NBER+Summer+Institute&lang=en&timestamp=1784926149&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=25094" alt="Digital Economics and Artificial Intelligence JOINT Industrial Organization, NBER Summer Institute" title="Digital Economics and Artificial Intelligence JOINT Industrial Organization, NBER Summer Institute">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=ORu-Z8xNIoE" target="_blank">
+      <a href="https://www.youtube.com/watch?v=zlR8aneS-0k" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ORu-Z8xNIoE&title=A+real+AI+plan+that+actually+meets+the+moment&lang=en&timestamp=1784735724&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=588">
-          <img src="https://ytcards.demolab.com/?id=ORu-Z8xNIoE&title=A+real+AI+plan+that+actually+meets+the+moment&lang=en&timestamp=1784735724&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=588" alt="A real AI plan that actually meets the moment" title="A real AI plan that actually meets the moment">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=zlR8aneS-0k&title=AI+Spending+Spooks+Wall+Street+As+Investors+Question+Rising+Costs+%7C+WION&lang=en&timestamp=1784904549&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=162">
+          <img src="https://ytcards.demolab.com/?id=zlR8aneS-0k&title=AI+Spending+Spooks+Wall+Street+As+Investors+Question+Rising+Costs+%7C+WION&lang=en&timestamp=1784904549&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=162" alt="AI Spending Spooks Wall Street As Investors Question Rising Costs | WION" title="AI Spending Spooks Wall Street As Investors Question Rising Costs | WION">
         </picture>
       </a>
     </td>
