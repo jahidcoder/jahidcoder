@@ -75,56 +75,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=o8uAVqMX_Ig" target="_blank">
+      <a href="https://www.youtube.com/watch?v=PaVJ_rTtriI" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=o8uAVqMX_Ig&title=Answers+To+Your+Biggest+AI+Questions&lang=en&timestamp=1784911749&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=7352">
-          <img src="https://ytcards.demolab.com/?id=o8uAVqMX_Ig&title=Answers+To+Your+Biggest+AI+Questions&lang=en&timestamp=1784911749&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=7352" alt="Answers To Your Biggest AI Questions" title="Answers To Your Biggest AI Questions">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=PaVJ_rTtriI&title=AI+Safety+Expert+WARNS%3A+Humanity+Probably+Won%27t+Survive+This&lang=en&timestamp=1785082993&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=888">
+          <img src="https://ytcards.demolab.com/?id=PaVJ_rTtriI&title=AI+Safety+Expert+WARNS%3A+Humanity+Probably+Won%27t+Survive+This&lang=en&timestamp=1785082993&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=888" alt="AI Safety Expert WARNS: Humanity Probably Won't Survive This" title="AI Safety Expert WARNS: Humanity Probably Won't Survive This">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=H20c4Zw8D9I" target="_blank">
+      <a href="https://www.youtube.com/watch?v=x8awWAj5fUI" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=H20c4Zw8D9I&title=The+state+of+artificial+intelligence&lang=en&timestamp=1784918949&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1468">
-          <img src="https://ytcards.demolab.com/?id=H20c4Zw8D9I&title=The+state+of+artificial+intelligence&lang=en&timestamp=1784918949&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1468" alt="The state of artificial intelligence" title="The state of artificial intelligence">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=x8awWAj5fUI&title=Something%E2%80%99s+Not+Right+With+Artificial+Intelligence&lang=en&timestamp=1785082993&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1621">
+          <img src="https://ytcards.demolab.com/?id=x8awWAj5fUI&title=Something%E2%80%99s+Not+Right+With+Artificial+Intelligence&lang=en&timestamp=1785082993&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1621" alt="Something’s Not Right With Artificial Intelligence" title="Something’s Not Right With Artificial Intelligence">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=lZhofisZogM" target="_blank">
+      <a href="https://www.youtube.com/watch?v=36OMMx1uHA8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=lZhofisZogM&title=China+Positions+Itself+As+Leader+Of+New+Global+AI+Order+%7C+Gravitas+%7C+WION&lang=en&timestamp=1784915349&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=181">
-          <img src="https://ytcards.demolab.com/?id=lZhofisZogM&title=China+Positions+Itself+As+Leader+Of+New+Global+AI+Order+%7C+Gravitas+%7C+WION&lang=en&timestamp=1784915349&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=181" alt="China Positions Itself As Leader Of New Global AI Order | Gravitas | WION" title="China Positions Itself As Leader Of New Global AI Order | Gravitas | WION">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=36OMMx1uHA8&title=AI+Will+Replace+Your+Smartphone+Sooner+Than+You+Think&lang=en&timestamp=1785072193&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=592">
+          <img src="https://ytcards.demolab.com/?id=36OMMx1uHA8&title=AI+Will+Replace+Your+Smartphone+Sooner+Than+You+Think&lang=en&timestamp=1785072193&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=592" alt="AI Will Replace Your Smartphone Sooner Than You Think" title="AI Will Replace Your Smartphone Sooner Than You Think">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=-WrpttWybc0" target="_blank">
+      <a href="https://www.youtube.com/watch?v=l-QPwk_f4eE" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=-WrpttWybc0&title=Bernie+Sanders+Goes+All+Out+Against+Tech+Billionaires+In+Fiery+Senate+Speech+%7C+AI+%7C+US+News&lang=en&timestamp=1784915349&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=605">
-          <img src="https://ytcards.demolab.com/?id=-WrpttWybc0&title=Bernie+Sanders+Goes+All+Out+Against+Tech+Billionaires+In+Fiery+Senate+Speech+%7C+AI+%7C+US+News&lang=en&timestamp=1784915349&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=605" alt="Bernie Sanders Goes All Out Against Tech Billionaires In Fiery Senate Speech | AI | US News" title="Bernie Sanders Goes All Out Against Tech Billionaires In Fiery Senate Speech | AI | US News">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=l-QPwk_f4eE&title=Why+AI+Makes+the+Humanities+More+Important+Than+Ever&lang=en&timestamp=1785064993&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=872">
+          <img src="https://ytcards.demolab.com/?id=l-QPwk_f4eE&title=Why+AI+Makes+the+Humanities+More+Important+Than+Ever&lang=en&timestamp=1785064993&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=872" alt="Why AI Makes the Humanities More Important Than Ever" title="Why AI Makes the Humanities More Important Than Ever">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=zVWgjWbL0FQ" target="_blank">
+      <a href="https://www.youtube.com/watch?v=7j9BDCdHmlA" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=zVWgjWbL0FQ&title=Digital+Economics+and+Artificial+Intelligence+JOINT+Industrial+Organization%2C+NBER+Summer+Institute&lang=en&timestamp=1784926149&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=25094">
-          <img src="https://ytcards.demolab.com/?id=zVWgjWbL0FQ&title=Digital+Economics+and+Artificial+Intelligence+JOINT+Industrial+Organization%2C+NBER+Summer+Institute&lang=en&timestamp=1784926149&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=25094" alt="Digital Economics and Artificial Intelligence JOINT Industrial Organization, NBER Summer Institute" title="Digital Economics and Artificial Intelligence JOINT Industrial Organization, NBER Summer Institute">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=7j9BDCdHmlA&title=OpenAI+is+Calling+China%E2%80%99s+Free+AI+a+%E2%80%9CDystopian+Hellscape%E2%80%9D&lang=en&timestamp=1785050593&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=716">
+          <img src="https://ytcards.demolab.com/?id=7j9BDCdHmlA&title=OpenAI+is+Calling+China%E2%80%99s+Free+AI+a+%E2%80%9CDystopian+Hellscape%E2%80%9D&lang=en&timestamp=1785050593&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=716" alt="OpenAI is Calling China’s Free AI a “Dystopian Hellscape”" title="OpenAI is Calling China’s Free AI a “Dystopian Hellscape”">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=zlR8aneS-0k" target="_blank">
+      <a href="https://www.youtube.com/watch?v=Oott0a8bzPc" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=zlR8aneS-0k&title=AI+Spending+Spooks+Wall+Street+As+Investors+Question+Rising+Costs+%7C+WION&lang=en&timestamp=1784904549&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=162">
-          <img src="https://ytcards.demolab.com/?id=zlR8aneS-0k&title=AI+Spending+Spooks+Wall+Street+As+Investors+Question+Rising+Costs+%7C+WION&lang=en&timestamp=1784904549&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=162" alt="AI Spending Spooks Wall Street As Investors Question Rising Costs | WION" title="AI Spending Spooks Wall Street As Investors Question Rising Costs | WION">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Oott0a8bzPc&title=OpenAI+is+in+SERIOUS+trouble...+Is+this+GREAT+news%3F&lang=en&timestamp=1785082993&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1475">
+          <img src="https://ytcards.demolab.com/?id=Oott0a8bzPc&title=OpenAI+is+in+SERIOUS+trouble...+Is+this+GREAT+news%3F&lang=en&timestamp=1785082993&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1475" alt="OpenAI is in SERIOUS trouble... Is this GREAT news?" title="OpenAI is in SERIOUS trouble... Is this GREAT news?">
         </picture>
       </a>
     </td>
