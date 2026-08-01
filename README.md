@@ -78,56 +78,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=VBMLb6dZrMA" target="_blank">
+      <a href="https://www.youtube.com/watch?v=ZZMFWlcPdu8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=VBMLb6dZrMA&title=Artificial+intelligence+finds+a+growing+role+in+healthcare&lang=en&timestamp=1785456839&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=141">
-          <img src="https://ytcards.demolab.com/?id=VBMLb6dZrMA&title=Artificial+intelligence+finds+a+growing+role+in+healthcare&lang=en&timestamp=1785456839&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=141" alt="Artificial intelligence finds a growing role in healthcare" title="Artificial intelligence finds a growing role in healthcare">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ZZMFWlcPdu8&title=What+Would+George+Carlin+Say+About+Artificial+Intelligence%3F&lang=en&timestamp=1785539682&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=350">
+          <img src="https://ytcards.demolab.com/?id=ZZMFWlcPdu8&title=What+Would+George+Carlin+Say+About+Artificial+Intelligence%3F&lang=en&timestamp=1785539682&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=350" alt="What Would George Carlin Say About Artificial Intelligence?" title="What Would George Carlin Say About Artificial Intelligence?">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=4CTtlpi7Lic" target="_blank">
+      <a href="https://www.youtube.com/watch?v=CZezvsT2i_I" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=4CTtlpi7Lic&title=AI+Goes+Rogue%3A+OpenAI+Agent+Hacks+Other+Firms+as+Growing+Coalition+Demands+Safeguards&lang=en&timestamp=1785424439&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1277">
-          <img src="https://ytcards.demolab.com/?id=4CTtlpi7Lic&title=AI+Goes+Rogue%3A+OpenAI+Agent+Hacks+Other+Firms+as+Growing+Coalition+Demands+Safeguards&lang=en&timestamp=1785424439&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1277" alt="AI Goes Rogue: OpenAI Agent Hacks Other Firms as Growing Coalition Demands Safeguards" title="AI Goes Rogue: OpenAI Agent Hacks Other Firms as Growing Coalition Demands Safeguards">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=CZezvsT2i_I&title=Navigating+artificial+intelligence+in+the+workplace&lang=en&timestamp=1785521682&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=360">
+          <img src="https://ytcards.demolab.com/?id=CZezvsT2i_I&title=Navigating+artificial+intelligence+in+the+workplace&lang=en&timestamp=1785521682&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=360" alt="Navigating artificial intelligence in the workplace" title="Navigating artificial intelligence in the workplace">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=YFaHjv1PNMc" target="_blank">
+      <a href="https://www.youtube.com/watch?v=JrGeAk4MdBE" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=YFaHjv1PNMc&title=AI+Companies+Are+Destroying+Rare+Physical+Books+To+Feed+Their+Chatbots+%7C+Vantage+on+Firstpost+%7C+4K&lang=en&timestamp=1785438839&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=411">
-          <img src="https://ytcards.demolab.com/?id=YFaHjv1PNMc&title=AI+Companies+Are+Destroying+Rare+Physical+Books+To+Feed+Their+Chatbots+%7C+Vantage+on+Firstpost+%7C+4K&lang=en&timestamp=1785438839&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=411" alt="AI Companies Are Destroying Rare Physical Books To Feed Their Chatbots | Vantage on Firstpost | 4K" title="AI Companies Are Destroying Rare Physical Books To Feed Their Chatbots | Vantage on Firstpost | 4K">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=JrGeAk4MdBE&title=AI+Finally+Decoded+Whale+Language%E2%80%94The+First+Message+Left+Scientists+Speechless%21&lang=en&timestamp=1785514482&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1443">
+          <img src="https://ytcards.demolab.com/?id=JrGeAk4MdBE&title=AI+Finally+Decoded+Whale+Language%E2%80%94The+First+Message+Left+Scientists+Speechless%21&lang=en&timestamp=1785514482&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1443" alt="AI Finally Decoded Whale Language—The First Message Left Scientists Speechless!" title="AI Finally Decoded Whale Language—The First Message Left Scientists Speechless!">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=Vgp5_-xeY_s" target="_blank">
+      <a href="https://www.youtube.com/watch?v=RmdFYpcAL3U" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Vgp5_-xeY_s&title=Reimagining+AI%3A+Beyond+Fear+and+Moral+Panic.+%7C+Dr+Agnieszka+Piotrowska+%7C+TEDxHeaton&lang=en&timestamp=1785428039&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=639">
-          <img src="https://ytcards.demolab.com/?id=Vgp5_-xeY_s&title=Reimagining+AI%3A+Beyond+Fear+and+Moral+Panic.+%7C+Dr+Agnieszka+Piotrowska+%7C+TEDxHeaton&lang=en&timestamp=1785428039&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=639" alt="Reimagining AI: Beyond Fear and Moral Panic. | Dr Agnieszka Piotrowska | TEDxHeaton" title="Reimagining AI: Beyond Fear and Moral Panic. | Dr Agnieszka Piotrowska | TEDxHeaton">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=RmdFYpcAL3U&title=AI+to+Challenge+CCP%27s+Grip+Over+China%3F+%7C+Wion+News&lang=en&timestamp=1785521682&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=263">
+          <img src="https://ytcards.demolab.com/?id=RmdFYpcAL3U&title=AI+to+Challenge+CCP%27s+Grip+Over+China%3F+%7C+Wion+News&lang=en&timestamp=1785521682&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=263" alt="AI to Challenge CCP's Grip Over China? | Wion News" title="AI to Challenge CCP's Grip Over China? | Wion News">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=4rZQKRpGBf0" target="_blank">
+      <a href="https://www.youtube.com/watch?v=RSeamYzaH64" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=4rZQKRpGBf0&title=AI+Weekly%3A+Trump+mulls+AI+controls%2C+semiconductor+stocks+slump&lang=en&timestamp=1785417239&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=150">
-          <img src="https://ytcards.demolab.com/?id=4rZQKRpGBf0&title=AI+Weekly%3A+Trump+mulls+AI+controls%2C+semiconductor+stocks+slump&lang=en&timestamp=1785417239&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=150" alt="AI Weekly: Trump mulls AI controls, semiconductor stocks slump" title="AI Weekly: Trump mulls AI controls, semiconductor stocks slump">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=RSeamYzaH64&title=YouTuber+Claims+My+Videos+Are+AI+GENERATED&lang=en&timestamp=1785518082&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=830">
+          <img src="https://ytcards.demolab.com/?id=RSeamYzaH64&title=YouTuber+Claims+My+Videos+Are+AI+GENERATED&lang=en&timestamp=1785518082&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=830" alt="YouTuber Claims My Videos Are AI GENERATED" title="YouTuber Claims My Videos Are AI GENERATED">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=yPxFKDKeFMU" target="_blank">
+      <a href="https://www.youtube.com/watch?v=eZGNzXR6SM8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=yPxFKDKeFMU&title=LIVE%3A+Senate+Commerce+Committee+Holds+Hearing+on+AI+and+Communications+Networks&lang=en&timestamp=1785428039&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5935">
-          <img src="https://ytcards.demolab.com/?id=yPxFKDKeFMU&title=LIVE%3A+Senate+Commerce+Committee+Holds+Hearing+on+AI+and+Communications+Networks&lang=en&timestamp=1785428039&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=5935" alt="LIVE: Senate Commerce Committee Holds Hearing on AI and Communications Networks" title="LIVE: Senate Commerce Committee Holds Hearing on AI and Communications Networks">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=eZGNzXR6SM8&title=AI+is+the+new+book+burning&lang=en&timestamp=1785525282&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1008">
+          <img src="https://ytcards.demolab.com/?id=eZGNzXR6SM8&title=AI+is+the+new+book+burning&lang=en&timestamp=1785525282&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1008" alt="AI is the new book burning" title="AI is the new book burning">
         </picture>
       </a>
     </td>
