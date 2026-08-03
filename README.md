@@ -79,56 +79,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=ZZMFWlcPdu8" target="_blank">
+      <a href="https://www.youtube.com/watch?v=0Xtd8vhytuo" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ZZMFWlcPdu8&title=What+Would+George+Carlin+Say+About+Artificial+Intelligence%3F&lang=en&timestamp=1785539682&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=350">
-          <img src="https://ytcards.demolab.com/?id=ZZMFWlcPdu8&title=What+Would+George+Carlin+Say+About+Artificial+Intelligence%3F&lang=en&timestamp=1785539682&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=350" alt="What Would George Carlin Say About Artificial Intelligence?" title="What Would George Carlin Say About Artificial Intelligence?">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=0Xtd8vhytuo&title=How+You%27ll+Know+When+It%27s+AI&lang=en&timestamp=1785654882&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=65">
+          <img src="https://ytcards.demolab.com/?id=0Xtd8vhytuo&title=How+You%27ll+Know+When+It%27s+AI&lang=en&timestamp=1785654882&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=65" alt="How You'll Know When It's AI" title="How You'll Know When It's AI">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=CZezvsT2i_I" target="_blank">
+      <a href="https://www.youtube.com/watch?v=VH0D4G25RfA" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=CZezvsT2i_I&title=Navigating+artificial+intelligence+in+the+workplace&lang=en&timestamp=1785521682&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=360">
-          <img src="https://ytcards.demolab.com/?id=CZezvsT2i_I&title=Navigating+artificial+intelligence+in+the+workplace&lang=en&timestamp=1785521682&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=360" alt="Navigating artificial intelligence in the workplace" title="Navigating artificial intelligence in the workplace">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=VH0D4G25RfA&title=URGENT+MESSAGE+CONCERNING+ARTIFICIAL+INTELLIGENCE+%28AI%29&lang=en&timestamp=1785723282&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=721">
+          <img src="https://ytcards.demolab.com/?id=VH0D4G25RfA&title=URGENT+MESSAGE+CONCERNING+ARTIFICIAL+INTELLIGENCE+%28AI%29&lang=en&timestamp=1785723282&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=721" alt="URGENT MESSAGE CONCERNING ARTIFICIAL INTELLIGENCE (AI)" title="URGENT MESSAGE CONCERNING ARTIFICIAL INTELLIGENCE (AI)">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=JrGeAk4MdBE" target="_blank">
+      <a href="https://www.youtube.com/watch?v=KK86M1amYmA" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=JrGeAk4MdBE&title=AI+Finally+Decoded+Whale+Language%E2%80%94The+First+Message+Left+Scientists+Speechless%21&lang=en&timestamp=1785514482&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1443">
-          <img src="https://ytcards.demolab.com/?id=JrGeAk4MdBE&title=AI+Finally+Decoded+Whale+Language%E2%80%94The+First+Message+Left+Scientists+Speechless%21&lang=en&timestamp=1785514482&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1443" alt="AI Finally Decoded Whale Language—The First Message Left Scientists Speechless!" title="AI Finally Decoded Whale Language—The First Message Left Scientists Speechless!">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=KK86M1amYmA&title=Artificial+Intelligence+From+Metropolis+to+Stargate&lang=en&timestamp=1785719682&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2679">
+          <img src="https://ytcards.demolab.com/?id=KK86M1amYmA&title=Artificial+Intelligence+From+Metropolis+to+Stargate&lang=en&timestamp=1785719682&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2679" alt="Artificial Intelligence From Metropolis to Stargate" title="Artificial Intelligence From Metropolis to Stargate">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=RmdFYpcAL3U" target="_blank">
+      <a href="https://www.youtube.com/watch?v=yvS__pMmbyc" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=RmdFYpcAL3U&title=AI+to+Challenge+CCP%27s+Grip+Over+China%3F+%7C+Wion+News&lang=en&timestamp=1785521682&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=263">
-          <img src="https://ytcards.demolab.com/?id=RmdFYpcAL3U&title=AI+to+Challenge+CCP%27s+Grip+Over+China%3F+%7C+Wion+News&lang=en&timestamp=1785521682&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=263" alt="AI to Challenge CCP's Grip Over China? | Wion News" title="AI to Challenge CCP's Grip Over China? | Wion News">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=yvS__pMmbyc&title=The+Experiment+That+Woke+Up+Artificial+Intelligence.+Is+This+The+End%3F+%7C+Full+Sci-Fi+Movie&lang=en&timestamp=1785669282&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=6942">
+          <img src="https://ytcards.demolab.com/?id=yvS__pMmbyc&title=The+Experiment+That+Woke+Up+Artificial+Intelligence.+Is+This+The+End%3F+%7C+Full+Sci-Fi+Movie&lang=en&timestamp=1785669282&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=6942" alt="The Experiment That Woke Up Artificial Intelligence. Is This The End? | Full Sci-Fi Movie" title="The Experiment That Woke Up Artificial Intelligence. Is This The End? | Full Sci-Fi Movie">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=RSeamYzaH64" target="_blank">
+      <a href="https://www.youtube.com/watch?v=CUhhpKFlfZM" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=RSeamYzaH64&title=YouTuber+Claims+My+Videos+Are+AI+GENERATED&lang=en&timestamp=1785518082&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=830">
-          <img src="https://ytcards.demolab.com/?id=RSeamYzaH64&title=YouTuber+Claims+My+Videos+Are+AI+GENERATED&lang=en&timestamp=1785518082&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=830" alt="YouTuber Claims My Videos Are AI GENERATED" title="YouTuber Claims My Videos Are AI GENERATED">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=CUhhpKFlfZM&title=Is+There+Any+Real+Hope+Left+for+Regulating+Artificial+Intelligence%3F&lang=en&timestamp=1785705282&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=647">
+          <img src="https://ytcards.demolab.com/?id=CUhhpKFlfZM&title=Is+There+Any+Real+Hope+Left+for+Regulating+Artificial+Intelligence%3F&lang=en&timestamp=1785705282&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=647" alt="Is There Any Real Hope Left for Regulating Artificial Intelligence?" title="Is There Any Real Hope Left for Regulating Artificial Intelligence?">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=eZGNzXR6SM8" target="_blank">
+      <a href="https://www.youtube.com/watch?v=riON4xNvaJY" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=eZGNzXR6SM8&title=AI+is+the+new+book+burning&lang=en&timestamp=1785525282&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1008">
-          <img src="https://ytcards.demolab.com/?id=eZGNzXR6SM8&title=AI+is+the+new+book+burning&lang=en&timestamp=1785525282&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1008" alt="AI is the new book burning" title="AI is the new book burning">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=riON4xNvaJY&title=You+Will+Only+Get+Money+If+You+BEHAVE+In+The+Future.+They%27re+Building+The+Systems+Now.&lang=en&timestamp=1785694482&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=817">
+          <img src="https://ytcards.demolab.com/?id=riON4xNvaJY&title=You+Will+Only+Get+Money+If+You+BEHAVE+In+The+Future.+They%27re+Building+The+Systems+Now.&lang=en&timestamp=1785694482&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=817" alt="You Will Only Get Money If You BEHAVE In The Future. They're Building The Systems Now." title="You Will Only Get Money If You BEHAVE In The Future. They're Building The Systems Now.">
         </picture>
       </a>
     </td>
