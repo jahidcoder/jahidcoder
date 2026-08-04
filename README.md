@@ -80,56 +80,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=0Xtd8vhytuo" target="_blank">
+      <a href="https://www.youtube.com/watch?v=S0oBkjWzBAg" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=0Xtd8vhytuo&title=How+You%27ll+Know+When+It%27s+AI&lang=en&timestamp=1785654882&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=65">
-          <img src="https://ytcards.demolab.com/?id=0Xtd8vhytuo&title=How+You%27ll+Know+When+It%27s+AI&lang=en&timestamp=1785654882&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=65" alt="How You'll Know When It's AI" title="How You'll Know When It's AI">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=S0oBkjWzBAg&title=Who+Invented+AI%3F+%F0%9F%A4%96+The+Real+Story+Behind+Artificial+Intelligence%21+%23usa+&lang=en&timestamp=1785797008&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=56">
+          <img src="https://ytcards.demolab.com/?id=S0oBkjWzBAg&title=Who+Invented+AI%3F+%F0%9F%A4%96+The+Real+Story+Behind+Artificial+Intelligence%21+%23usa+&lang=en&timestamp=1785797008&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=56" alt="Who Invented AI? 🤖 The Real Story Behind Artificial Intelligence! #usa " title="Who Invented AI? 🤖 The Real Story Behind Artificial Intelligence! #usa ">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=VH0D4G25RfA" target="_blank">
+      <a href="https://www.youtube.com/watch?v=8EeJwLaTzoI" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=VH0D4G25RfA&title=URGENT+MESSAGE+CONCERNING+ARTIFICIAL+INTELLIGENCE+%28AI%29&lang=en&timestamp=1785723282&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=721">
-          <img src="https://ytcards.demolab.com/?id=VH0D4G25RfA&title=URGENT+MESSAGE+CONCERNING+ARTIFICIAL+INTELLIGENCE+%28AI%29&lang=en&timestamp=1785723282&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=721" alt="URGENT MESSAGE CONCERNING ARTIFICIAL INTELLIGENCE (AI)" title="URGENT MESSAGE CONCERNING ARTIFICIAL INTELLIGENCE (AI)">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=8EeJwLaTzoI&title=AI+Learns+Physics+Through+Satisfying+Simulations&lang=en&timestamp=1785761008&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=664">
+          <img src="https://ytcards.demolab.com/?id=8EeJwLaTzoI&title=AI+Learns+Physics+Through+Satisfying+Simulations&lang=en&timestamp=1785761008&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=664" alt="AI Learns Physics Through Satisfying Simulations" title="AI Learns Physics Through Satisfying Simulations">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=KK86M1amYmA" target="_blank">
+      <a href="https://www.youtube.com/watch?v=d4fZJuSl8mc" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=KK86M1amYmA&title=Artificial+Intelligence+From+Metropolis+to+Stargate&lang=en&timestamp=1785719682&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2679">
-          <img src="https://ytcards.demolab.com/?id=KK86M1amYmA&title=Artificial+Intelligence+From+Metropolis+to+Stargate&lang=en&timestamp=1785719682&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2679" alt="Artificial Intelligence From Metropolis to Stargate" title="Artificial Intelligence From Metropolis to Stargate">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=d4fZJuSl8mc&title=Is+AI+Really+Intelligent%3F&lang=en&timestamp=1785753808&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1094">
+          <img src="https://ytcards.demolab.com/?id=d4fZJuSl8mc&title=Is+AI+Really+Intelligent%3F&lang=en&timestamp=1785753808&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1094" alt="Is AI Really Intelligent?" title="Is AI Really Intelligent?">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=yvS__pMmbyc" target="_blank">
+      <a href="https://www.youtube.com/watch?v=wAf8BozOtfA" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=yvS__pMmbyc&title=The+Experiment+That+Woke+Up+Artificial+Intelligence.+Is+This+The+End%3F+%7C+Full+Sci-Fi+Movie&lang=en&timestamp=1785669282&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=6942">
-          <img src="https://ytcards.demolab.com/?id=yvS__pMmbyc&title=The+Experiment+That+Woke+Up+Artificial+Intelligence.+Is+This+The+End%3F+%7C+Full+Sci-Fi+Movie&lang=en&timestamp=1785669282&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=6942" alt="The Experiment That Woke Up Artificial Intelligence. Is This The End? | Full Sci-Fi Movie" title="The Experiment That Woke Up Artificial Intelligence. Is This The End? | Full Sci-Fi Movie">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=wAf8BozOtfA&title=Israel+Embeds+ZIONIST+Content+In+Artificial+Intelligence%21+w%2F+Nick+Cruse&lang=en&timestamp=1785771808&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=846">
+          <img src="https://ytcards.demolab.com/?id=wAf8BozOtfA&title=Israel+Embeds+ZIONIST+Content+In+Artificial+Intelligence%21+w%2F+Nick+Cruse&lang=en&timestamp=1785771808&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=846" alt="Israel Embeds ZIONIST Content In Artificial Intelligence! w/ Nick Cruse" title="Israel Embeds ZIONIST Content In Artificial Intelligence! w/ Nick Cruse">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=CUhhpKFlfZM" target="_blank">
+      <a href="https://www.youtube.com/watch?v=lRxbEU6KlnY" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=CUhhpKFlfZM&title=Is+There+Any+Real+Hope+Left+for+Regulating+Artificial+Intelligence%3F&lang=en&timestamp=1785705282&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=647">
-          <img src="https://ytcards.demolab.com/?id=CUhhpKFlfZM&title=Is+There+Any+Real+Hope+Left+for+Regulating+Artificial+Intelligence%3F&lang=en&timestamp=1785705282&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=647" alt="Is There Any Real Hope Left for Regulating Artificial Intelligence?" title="Is There Any Real Hope Left for Regulating Artificial Intelligence?">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=lRxbEU6KlnY&title=A+YouTuber+Was+Caught+Using+AI.+Then+He+Was+Forced+to+Quit+YouTube&lang=en&timestamp=1785786208&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2219">
+          <img src="https://ytcards.demolab.com/?id=lRxbEU6KlnY&title=A+YouTuber+Was+Caught+Using+AI.+Then+He+Was+Forced+to+Quit+YouTube&lang=en&timestamp=1785786208&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2219" alt="A YouTuber Was Caught Using AI. Then He Was Forced to Quit YouTube" title="A YouTuber Was Caught Using AI. Then He Was Forced to Quit YouTube">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=riON4xNvaJY" target="_blank">
+      <a href="https://www.youtube.com/watch?v=IX98OnQqw3U" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=riON4xNvaJY&title=You+Will+Only+Get+Money+If+You+BEHAVE+In+The+Future.+They%27re+Building+The+Systems+Now.&lang=en&timestamp=1785694482&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=817">
-          <img src="https://ytcards.demolab.com/?id=riON4xNvaJY&title=You+Will+Only+Get+Money+If+You+BEHAVE+In+The+Future.+They%27re+Building+The+Systems+Now.&lang=en&timestamp=1785694482&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=817" alt="You Will Only Get Money If You BEHAVE In The Future. They're Building The Systems Now." title="You Will Only Get Money If You BEHAVE In The Future. They're Building The Systems Now.">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=IX98OnQqw3U&title=This+AI+Creates+Hundreds+of+Listings+in+Seconds+%7C+AnywherePOD+Tutorial&lang=en&timestamp=1785775408&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=4990">
+          <img src="https://ytcards.demolab.com/?id=IX98OnQqw3U&title=This+AI+Creates+Hundreds+of+Listings+in+Seconds+%7C+AnywherePOD+Tutorial&lang=en&timestamp=1785775408&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=4990" alt="This AI Creates Hundreds of Listings in Seconds | AnywherePOD Tutorial" title="This AI Creates Hundreds of Listings in Seconds | AnywherePOD Tutorial">
         </picture>
       </a>
     </td>
