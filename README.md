@@ -81,56 +81,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=S0oBkjWzBAg" target="_blank">
+      <a href="https://www.youtube.com/watch?v=ElmRyxLfOog" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=S0oBkjWzBAg&title=Who+Invented+AI%3F+%F0%9F%A4%96+The+Real+Story+Behind+Artificial+Intelligence%21+%23usa+&lang=en&timestamp=1785797008&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=56">
-          <img src="https://ytcards.demolab.com/?id=S0oBkjWzBAg&title=Who+Invented+AI%3F+%F0%9F%A4%96+The+Real+Story+Behind+Artificial+Intelligence%21+%23usa+&lang=en&timestamp=1785797008&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=56" alt="Who Invented AI? 🤖 The Real Story Behind Artificial Intelligence! #usa " title="Who Invented AI? 🤖 The Real Story Behind Artificial Intelligence! #usa ">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ElmRyxLfOog&title=Top+AI+company+executives+to+meet+with+White+House+officials%2C+according+to+reports&lang=en&timestamp=1785865296&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=297">
+          <img src="https://ytcards.demolab.com/?id=ElmRyxLfOog&title=Top+AI+company+executives+to+meet+with+White+House+officials%2C+according+to+reports&lang=en&timestamp=1785865296&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=297" alt="Top AI company executives to meet with White House officials, according to reports" title="Top AI company executives to meet with White House officials, according to reports">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=8EeJwLaTzoI" target="_blank">
+      <a href="https://www.youtube.com/watch?v=7CwfBxcm29Q" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=8EeJwLaTzoI&title=AI+Learns+Physics+Through+Satisfying+Simulations&lang=en&timestamp=1785761008&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=664">
-          <img src="https://ytcards.demolab.com/?id=8EeJwLaTzoI&title=AI+Learns+Physics+Through+Satisfying+Simulations&lang=en&timestamp=1785761008&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=664" alt="AI Learns Physics Through Satisfying Simulations" title="AI Learns Physics Through Satisfying Simulations">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=7CwfBxcm29Q&title=Japan%E2%80%99s+AI+War+Plan%3F+Tokyo+Prepares+For+Threat+From+Beijing+%7C+AI+%26+Drone+Warfare+Take+Center+Stage&lang=en&timestamp=1785840096&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=504">
+          <img src="https://ytcards.demolab.com/?id=7CwfBxcm29Q&title=Japan%E2%80%99s+AI+War+Plan%3F+Tokyo+Prepares+For+Threat+From+Beijing+%7C+AI+%26+Drone+Warfare+Take+Center+Stage&lang=en&timestamp=1785840096&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=504" alt="Japan’s AI War Plan? Tokyo Prepares For Threat From Beijing | AI & Drone Warfare Take Center Stage" title="Japan’s AI War Plan? Tokyo Prepares For Threat From Beijing | AI & Drone Warfare Take Center Stage">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=d4fZJuSl8mc" target="_blank">
+      <a href="https://www.youtube.com/watch?v=ZmFUr6OOETw" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=d4fZJuSl8mc&title=Is+AI+Really+Intelligent%3F&lang=en&timestamp=1785753808&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1094">
-          <img src="https://ytcards.demolab.com/?id=d4fZJuSl8mc&title=Is+AI+Really+Intelligent%3F&lang=en&timestamp=1785753808&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1094" alt="Is AI Really Intelligent?" title="Is AI Really Intelligent?">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ZmFUr6OOETw&title=Iraq+crowd+surveillance%3A+AI+used+to+monitor+crowds+for+the+Arbaeen+pilgrimage&lang=en&timestamp=1785836496&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=119">
+          <img src="https://ytcards.demolab.com/?id=ZmFUr6OOETw&title=Iraq+crowd+surveillance%3A+AI+used+to+monitor+crowds+for+the+Arbaeen+pilgrimage&lang=en&timestamp=1785836496&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=119" alt="Iraq crowd surveillance: AI used to monitor crowds for the Arbaeen pilgrimage" title="Iraq crowd surveillance: AI used to monitor crowds for the Arbaeen pilgrimage">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=wAf8BozOtfA" target="_blank">
+      <a href="https://www.youtube.com/watch?v=nWdL7fvOUXA" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=wAf8BozOtfA&title=Israel+Embeds+ZIONIST+Content+In+Artificial+Intelligence%21+w%2F+Nick+Cruse&lang=en&timestamp=1785771808&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=846">
-          <img src="https://ytcards.demolab.com/?id=wAf8BozOtfA&title=Israel+Embeds+ZIONIST+Content+In+Artificial+Intelligence%21+w%2F+Nick+Cruse&lang=en&timestamp=1785771808&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=846" alt="Israel Embeds ZIONIST Content In Artificial Intelligence! w/ Nick Cruse" title="Israel Embeds ZIONIST Content In Artificial Intelligence! w/ Nick Cruse">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=nWdL7fvOUXA&title=How+Significant+Are+AI%27s+Latest+Math+Breakthroughs%3F&lang=en&timestamp=1785850896&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1523">
+          <img src="https://ytcards.demolab.com/?id=nWdL7fvOUXA&title=How+Significant+Are+AI%27s+Latest+Math+Breakthroughs%3F&lang=en&timestamp=1785850896&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1523" alt="How Significant Are AI's Latest Math Breakthroughs?" title="How Significant Are AI's Latest Math Breakthroughs?">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=lRxbEU6KlnY" target="_blank">
+      <a href="https://www.youtube.com/watch?v=WA8Z_sVYxMU" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=lRxbEU6KlnY&title=A+YouTuber+Was+Caught+Using+AI.+Then+He+Was+Forced+to+Quit+YouTube&lang=en&timestamp=1785786208&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2219">
-          <img src="https://ytcards.demolab.com/?id=lRxbEU6KlnY&title=A+YouTuber+Was+Caught+Using+AI.+Then+He+Was+Forced+to+Quit+YouTube&lang=en&timestamp=1785786208&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2219" alt="A YouTuber Was Caught Using AI. Then He Was Forced to Quit YouTube" title="A YouTuber Was Caught Using AI. Then He Was Forced to Quit YouTube">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=WA8Z_sVYxMU&title=Why+Recraft+AI+Is+Transforming+Graphic+Design+with+Artificial+Intelligence+explained+by+Professor&lang=en&timestamp=1785897636&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=381">
+          <img src="https://ytcards.demolab.com/?id=WA8Z_sVYxMU&title=Why+Recraft+AI+Is+Transforming+Graphic+Design+with+Artificial+Intelligence+explained+by+Professor&lang=en&timestamp=1785897636&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=381" alt="Why Recraft AI Is Transforming Graphic Design with Artificial Intelligence explained by Professor" title="Why Recraft AI Is Transforming Graphic Design with Artificial Intelligence explained by Professor">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=IX98OnQqw3U" target="_blank">
+      <a href="https://www.youtube.com/watch?v=Iy5SMxQWdOI" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=IX98OnQqw3U&title=This+AI+Creates+Hundreds+of+Listings+in+Seconds+%7C+AnywherePOD+Tutorial&lang=en&timestamp=1785775408&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=4990">
-          <img src="https://ytcards.demolab.com/?id=IX98OnQqw3U&title=This+AI+Creates+Hundreds+of+Listings+in+Seconds+%7C+AnywherePOD+Tutorial&lang=en&timestamp=1785775408&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=4990" alt="This AI Creates Hundreds of Listings in Seconds | AnywherePOD Tutorial" title="This AI Creates Hundreds of Listings in Seconds | AnywherePOD Tutorial">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Iy5SMxQWdOI&title=China+Just+Built+Exactly+What+Experts+Warned+About%21&lang=en&timestamp=1785840096&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=811">
+          <img src="https://ytcards.demolab.com/?id=Iy5SMxQWdOI&title=China+Just+Built+Exactly+What+Experts+Warned+About%21&lang=en&timestamp=1785840096&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=811" alt="China Just Built Exactly What Experts Warned About!" title="China Just Built Exactly What Experts Warned About!">
         </picture>
       </a>
     </td>
