@@ -82,56 +82,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=ElmRyxLfOog" target="_blank">
+      <a href="https://www.youtube.com/watch?v=mRF99to28sA" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ElmRyxLfOog&title=Top+AI+company+executives+to+meet+with+White+House+officials%2C+according+to+reports&lang=en&timestamp=1785865296&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=297">
-          <img src="https://ytcards.demolab.com/?id=ElmRyxLfOog&title=Top+AI+company+executives+to+meet+with+White+House+officials%2C+according+to+reports&lang=en&timestamp=1785865296&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=297" alt="Top AI company executives to meet with White House officials, according to reports" title="Top AI company executives to meet with White House officials, according to reports">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=mRF99to28sA&title=The+Real+AI+Threat+ISN%27T+Sci-Fi+%28It%E2%80%99s+So+Much+Worse%29&lang=en&timestamp=1785955433&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1296">
+          <img src="https://ytcards.demolab.com/?id=mRF99to28sA&title=The+Real+AI+Threat+ISN%27T+Sci-Fi+%28It%E2%80%99s+So+Much+Worse%29&lang=en&timestamp=1785955433&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1296" alt="The Real AI Threat ISN'T Sci-Fi (It’s So Much Worse)" title="The Real AI Threat ISN'T Sci-Fi (It’s So Much Worse)">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=7CwfBxcm29Q" target="_blank">
+      <a href="https://www.youtube.com/watch?v=m91WUa2A6pU" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=7CwfBxcm29Q&title=Japan%E2%80%99s+AI+War+Plan%3F+Tokyo+Prepares+For+Threat+From+Beijing+%7C+AI+%26+Drone+Warfare+Take+Center+Stage&lang=en&timestamp=1785840096&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=504">
-          <img src="https://ytcards.demolab.com/?id=7CwfBxcm29Q&title=Japan%E2%80%99s+AI+War+Plan%3F+Tokyo+Prepares+For+Threat+From+Beijing+%7C+AI+%26+Drone+Warfare+Take+Center+Stage&lang=en&timestamp=1785840096&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=504" alt="Japan’s AI War Plan? Tokyo Prepares For Threat From Beijing | AI & Drone Warfare Take Center Stage" title="Japan’s AI War Plan? Tokyo Prepares For Threat From Beijing | AI & Drone Warfare Take Center Stage">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=m91WUa2A6pU&title=An+AI+bust+is+coming.+But+when%3F+And+who+will+be+hit+hardest%3F&lang=en&timestamp=1785959033&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1441">
+          <img src="https://ytcards.demolab.com/?id=m91WUa2A6pU&title=An+AI+bust+is+coming.+But+when%3F+And+who+will+be+hit+hardest%3F&lang=en&timestamp=1785959033&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1441" alt="An AI bust is coming. But when? And who will be hit hardest?" title="An AI bust is coming. But when? And who will be hit hardest?">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=ZmFUr6OOETw" target="_blank">
+      <a href="https://www.youtube.com/watch?v=NW4pBD2dVJ8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ZmFUr6OOETw&title=Iraq+crowd+surveillance%3A+AI+used+to+monitor+crowds+for+the+Arbaeen+pilgrimage&lang=en&timestamp=1785836496&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=119">
-          <img src="https://ytcards.demolab.com/?id=ZmFUr6OOETw&title=Iraq+crowd+surveillance%3A+AI+used+to+monitor+crowds+for+the+Arbaeen+pilgrimage&lang=en&timestamp=1785836496&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=119" alt="Iraq crowd surveillance: AI used to monitor crowds for the Arbaeen pilgrimage" title="Iraq crowd surveillance: AI used to monitor crowds for the Arbaeen pilgrimage">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=NW4pBD2dVJ8&title=AI+Just+Cracked+4%2C000-Year-Old+Sumerian+Texts+%E2%80%94+Quantum+Could+Go+Even+Further&lang=en&timestamp=1785962633&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1690">
+          <img src="https://ytcards.demolab.com/?id=NW4pBD2dVJ8&title=AI+Just+Cracked+4%2C000-Year-Old+Sumerian+Texts+%E2%80%94+Quantum+Could+Go+Even+Further&lang=en&timestamp=1785962633&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1690" alt="AI Just Cracked 4,000-Year-Old Sumerian Texts — Quantum Could Go Even Further" title="AI Just Cracked 4,000-Year-Old Sumerian Texts — Quantum Could Go Even Further">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=nWdL7fvOUXA" target="_blank">
+      <a href="https://www.youtube.com/watch?v=ANdc0hi5PV4" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=nWdL7fvOUXA&title=How+Significant+Are+AI%27s+Latest+Math+Breakthroughs%3F&lang=en&timestamp=1785850896&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1523">
-          <img src="https://ytcards.demolab.com/?id=nWdL7fvOUXA&title=How+Significant+Are+AI%27s+Latest+Math+Breakthroughs%3F&lang=en&timestamp=1785850896&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1523" alt="How Significant Are AI's Latest Math Breakthroughs?" title="How Significant Are AI's Latest Math Breakthroughs?">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ANdc0hi5PV4&title=The+Era+of+Human+Certainty+Is+Over&lang=en&timestamp=1785944633&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=679">
+          <img src="https://ytcards.demolab.com/?id=ANdc0hi5PV4&title=The+Era+of+Human+Certainty+Is+Over&lang=en&timestamp=1785944633&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=679" alt="The Era of Human Certainty Is Over" title="The Era of Human Certainty Is Over">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=WA8Z_sVYxMU" target="_blank">
+      <a href="https://www.youtube.com/watch?v=iv-pFBE8was" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=WA8Z_sVYxMU&title=Why+Recraft+AI+Is+Transforming+Graphic+Design+with+Artificial+Intelligence+explained+by+Professor&lang=en&timestamp=1785897636&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=381">
-          <img src="https://ytcards.demolab.com/?id=WA8Z_sVYxMU&title=Why+Recraft+AI+Is+Transforming+Graphic+Design+with+Artificial+Intelligence+explained+by+Professor&lang=en&timestamp=1785897636&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=381" alt="Why Recraft AI Is Transforming Graphic Design with Artificial Intelligence explained by Professor" title="Why Recraft AI Is Transforming Graphic Design with Artificial Intelligence explained by Professor">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=iv-pFBE8was&title=He+Quit+A+S%2410K+Tech+Job+To+Sell+Hokkien+Mee%3A+Was+It+Worth+It%3F+%7C+Money+Mind&lang=en&timestamp=1785941033&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=538">
+          <img src="https://ytcards.demolab.com/?id=iv-pFBE8was&title=He+Quit+A+S%2410K+Tech+Job+To+Sell+Hokkien+Mee%3A+Was+It+Worth+It%3F+%7C+Money+Mind&lang=en&timestamp=1785941033&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=538" alt="He Quit A S$10K Tech Job To Sell Hokkien Mee: Was It Worth It? | Money Mind" title="He Quit A S$10K Tech Job To Sell Hokkien Mee: Was It Worth It? | Money Mind">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=Iy5SMxQWdOI" target="_blank">
+      <a href="https://www.youtube.com/watch?v=PP7T4G4cLTQ" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Iy5SMxQWdOI&title=China+Just+Built+Exactly+What+Experts+Warned+About%21&lang=en&timestamp=1785840096&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=811">
-          <img src="https://ytcards.demolab.com/?id=Iy5SMxQWdOI&title=China+Just+Built+Exactly+What+Experts+Warned+About%21&lang=en&timestamp=1785840096&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=811" alt="China Just Built Exactly What Experts Warned About!" title="China Just Built Exactly What Experts Warned About!">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=PP7T4G4cLTQ&title=AI+Companies+Are+Destroying+Millions+of+Books&lang=en&timestamp=1785930233&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1293">
+          <img src="https://ytcards.demolab.com/?id=PP7T4G4cLTQ&title=AI+Companies+Are+Destroying+Millions+of+Books&lang=en&timestamp=1785930233&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1293" alt="AI Companies Are Destroying Millions of Books" title="AI Companies Are Destroying Millions of Books">
         </picture>
       </a>
     </td>
