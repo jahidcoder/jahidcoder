@@ -83,56 +83,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=mRF99to28sA" target="_blank">
+      <a href="https://www.youtube.com/watch?v=s-MgHZ_oGl0" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=mRF99to28sA&title=The+Real+AI+Threat+ISN%27T+Sci-Fi+%28It%E2%80%99s+So+Much+Worse%29&lang=en&timestamp=1785955433&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1296">
-          <img src="https://ytcards.demolab.com/?id=mRF99to28sA&title=The+Real+AI+Threat+ISN%27T+Sci-Fi+%28It%E2%80%99s+So+Much+Worse%29&lang=en&timestamp=1785955433&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1296" alt="The Real AI Threat ISN'T Sci-Fi (It’s So Much Worse)" title="The Real AI Threat ISN'T Sci-Fi (It’s So Much Worse)">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=s-MgHZ_oGl0&title=The+Fermi+Paradox+Just+Got+Much+Worse&lang=en&timestamp=1786031135&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=473">
+          <img src="https://ytcards.demolab.com/?id=s-MgHZ_oGl0&title=The+Fermi+Paradox+Just+Got+Much+Worse&lang=en&timestamp=1786031135&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=473" alt="The Fermi Paradox Just Got Much Worse" title="The Fermi Paradox Just Got Much Worse">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=m91WUa2A6pU" target="_blank">
+      <a href="https://www.youtube.com/watch?v=ctDtDtkqKZA" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=m91WUa2A6pU&title=An+AI+bust+is+coming.+But+when%3F+And+who+will+be+hit+hardest%3F&lang=en&timestamp=1785959033&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1441">
-          <img src="https://ytcards.demolab.com/?id=m91WUa2A6pU&title=An+AI+bust+is+coming.+But+when%3F+And+who+will+be+hit+hardest%3F&lang=en&timestamp=1785959033&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1441" alt="An AI bust is coming. But when? And who will be hit hardest?" title="An AI bust is coming. But when? And who will be hit hardest?">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ctDtDtkqKZA&title=%27Godfather+of+AI%27+Warns+About+Future+of+Artificial+Intelligence&lang=en&timestamp=1786049135&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=556">
+          <img src="https://ytcards.demolab.com/?id=ctDtDtkqKZA&title=%27Godfather+of+AI%27+Warns+About+Future+of+Artificial+Intelligence&lang=en&timestamp=1786049135&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=556" alt="'Godfather of AI' Warns About Future of Artificial Intelligence" title="'Godfather of AI' Warns About Future of Artificial Intelligence">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=NW4pBD2dVJ8" target="_blank">
+      <a href="https://www.youtube.com/watch?v=j9_3TcUEVj0" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=NW4pBD2dVJ8&title=AI+Just+Cracked+4%2C000-Year-Old+Sumerian+Texts+%E2%80%94+Quantum+Could+Go+Even+Further&lang=en&timestamp=1785962633&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1690">
-          <img src="https://ytcards.demolab.com/?id=NW4pBD2dVJ8&title=AI+Just+Cracked+4%2C000-Year-Old+Sumerian+Texts+%E2%80%94+Quantum+Could+Go+Even+Further&lang=en&timestamp=1785962633&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1690" alt="AI Just Cracked 4,000-Year-Old Sumerian Texts — Quantum Could Go Even Further" title="AI Just Cracked 4,000-Year-Old Sumerian Texts — Quantum Could Go Even Further">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=j9_3TcUEVj0&title=The+Quantum+Breakthrough+That+Could+Kill+AI+Data+Centers+%E2%80%94+Here%27s+What%27s+Next&lang=en&timestamp=1786027535&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1771">
+          <img src="https://ytcards.demolab.com/?id=j9_3TcUEVj0&title=The+Quantum+Breakthrough+That+Could+Kill+AI+Data+Centers+%E2%80%94+Here%27s+What%27s+Next&lang=en&timestamp=1786027535&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1771" alt="The Quantum Breakthrough That Could Kill AI Data Centers — Here's What's Next" title="The Quantum Breakthrough That Could Kill AI Data Centers — Here's What's Next">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=ANdc0hi5PV4" target="_blank">
+      <a href="https://www.youtube.com/watch?v=IxwJ-0Xv8MY" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ANdc0hi5PV4&title=The+Era+of+Human+Certainty+Is+Over&lang=en&timestamp=1785944633&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=679">
-          <img src="https://ytcards.demolab.com/?id=ANdc0hi5PV4&title=The+Era+of+Human+Certainty+Is+Over&lang=en&timestamp=1785944633&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=679" alt="The Era of Human Certainty Is Over" title="The Era of Human Certainty Is Over">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=IxwJ-0Xv8MY&title=Mr.+Freeman%2C+part+16&lang=en&timestamp=1786027535&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=252">
+          <img src="https://ytcards.demolab.com/?id=IxwJ-0Xv8MY&title=Mr.+Freeman%2C+part+16&lang=en&timestamp=1786027535&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=252" alt="Mr. Freeman, part 16" title="Mr. Freeman, part 16">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=iv-pFBE8was" target="_blank">
+      <a href="https://www.youtube.com/watch?v=e5rSGSYJCPA" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=iv-pFBE8was&title=He+Quit+A+S%2410K+Tech+Job+To+Sell+Hokkien+Mee%3A+Was+It+Worth+It%3F+%7C+Money+Mind&lang=en&timestamp=1785941033&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=538">
-          <img src="https://ytcards.demolab.com/?id=iv-pFBE8was&title=He+Quit+A+S%2410K+Tech+Job+To+Sell+Hokkien+Mee%3A+Was+It+Worth+It%3F+%7C+Money+Mind&lang=en&timestamp=1785941033&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=538" alt="He Quit A S$10K Tech Job To Sell Hokkien Mee: Was It Worth It? | Money Mind" title="He Quit A S$10K Tech Job To Sell Hokkien Mee: Was It Worth It? | Money Mind">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=e5rSGSYJCPA&title=Artificial+intelligence+is+a+THIRSTY+BEAST%21&lang=en&timestamp=1786063535&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=680">
+          <img src="https://ytcards.demolab.com/?id=e5rSGSYJCPA&title=Artificial+intelligence+is+a+THIRSTY+BEAST%21&lang=en&timestamp=1786063535&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=680" alt="Artificial intelligence is a THIRSTY BEAST!" title="Artificial intelligence is a THIRSTY BEAST!">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=PP7T4G4cLTQ" target="_blank">
+      <a href="https://www.youtube.com/watch?v=JYgyvyCccHE" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=PP7T4G4cLTQ&title=AI+Companies+Are+Destroying+Millions+of+Books&lang=en&timestamp=1785930233&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1293">
-          <img src="https://ytcards.demolab.com/?id=PP7T4G4cLTQ&title=AI+Companies+Are+Destroying+Millions+of+Books&lang=en&timestamp=1785930233&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1293" alt="AI Companies Are Destroying Millions of Books" title="AI Companies Are Destroying Millions of Books">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=JYgyvyCccHE&title=Is+AI+Becoming+Another+Dot-Com+Bubble%3F+Nvidia+%26+The+Hidden+Risk+%7C+Money+Mind&lang=en&timestamp=1786027535&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=324">
+          <img src="https://ytcards.demolab.com/?id=JYgyvyCccHE&title=Is+AI+Becoming+Another+Dot-Com+Bubble%3F+Nvidia+%26+The+Hidden+Risk+%7C+Money+Mind&lang=en&timestamp=1786027535&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=324" alt="Is AI Becoming Another Dot-Com Bubble? Nvidia & The Hidden Risk | Money Mind" title="Is AI Becoming Another Dot-Com Bubble? Nvidia & The Hidden Risk | Money Mind">
         </picture>
       </a>
     </td>
