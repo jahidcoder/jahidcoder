@@ -86,56 +86,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=aWsS_KbrcLw" target="_blank">
+      <a href="https://www.youtube.com/watch?v=3JH_Zd2mNRs" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=aWsS_KbrcLw&title=This+is+%27EXTREMELY+DANGEROUS%27+and+we+need+to+get+ahead+of+it%3A+Rep+Beth+Van+Duyne&lang=en&timestamp=1786193573&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=198">
-          <img src="https://ytcards.demolab.com/?id=aWsS_KbrcLw&title=This+is+%27EXTREMELY+DANGEROUS%27+and+we+need+to+get+ahead+of+it%3A+Rep+Beth+Van+Duyne&lang=en&timestamp=1786193573&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=198" alt="This is 'EXTREMELY DANGEROUS' and we need to get ahead of it: Rep Beth Van Duyne" title="This is 'EXTREMELY DANGEROUS' and we need to get ahead of it: Rep Beth Van Duyne">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=3JH_Zd2mNRs&title=an+AI+actually+went+rogue.&lang=en&timestamp=1786280253&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1060">
+          <img src="https://ytcards.demolab.com/?id=3JH_Zd2mNRs&title=an+AI+actually+went+rogue.&lang=en&timestamp=1786280253&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1060" alt="an AI actually went rogue." title="an AI actually went rogue.">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=9G-X4enTr5M" target="_blank">
+      <a href="https://www.youtube.com/watch?v=e0mWS-E7G5U" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=9G-X4enTr5M&title=AI+Could+Predict+Your+Breakup+From+the+Start&lang=en&timestamp=1786175573&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=237">
-          <img src="https://ytcards.demolab.com/?id=9G-X4enTr5M&title=AI+Could+Predict+Your+Breakup+From+the+Start&lang=en&timestamp=1786175573&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=237" alt="AI Could Predict Your Breakup From the Start" title="AI Could Predict Your Breakup From the Start">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=e0mWS-E7G5U&title=The+Mirror+of+the+Machine%3A+Why+the+AI+Crisis+is+actually+a+Human+Evolutionary+Imperative&lang=en&timestamp=1786287453&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=310">
+          <img src="https://ytcards.demolab.com/?id=e0mWS-E7G5U&title=The+Mirror+of+the+Machine%3A+Why+the+AI+Crisis+is+actually+a+Human+Evolutionary+Imperative&lang=en&timestamp=1786287453&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=310" alt="The Mirror of the Machine: Why the AI Crisis is actually a Human Evolutionary Imperative" title="The Mirror of the Machine: Why the AI Crisis is actually a Human Evolutionary Imperative">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=-CUf34ZIk6s" target="_blank">
+      <a href="https://www.youtube.com/watch?v=KTZiAxTvgFk" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=-CUf34ZIk6s&title=AI+data+centers+are+too+hot%E2%80%94how+can+we+fix+it%3F+%7C+Greg+Ryder+%7C+TEDxWollongong&lang=en&timestamp=1786197173&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=602">
-          <img src="https://ytcards.demolab.com/?id=-CUf34ZIk6s&title=AI+data+centers+are+too+hot%E2%80%94how+can+we+fix+it%3F+%7C+Greg+Ryder+%7C+TEDxWollongong&lang=en&timestamp=1786197173&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=602" alt="AI data centers are too hot—how can we fix it? | Greg Ryder | TEDxWollongong" title="AI data centers are too hot—how can we fix it? | Greg Ryder | TEDxWollongong">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=KTZiAxTvgFk&title=MAGA+Supporters+RAGE+At+Trump+Over+Nightmare+Tech+Takeover&lang=en&timestamp=1786316253&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=235">
+          <img src="https://ytcards.demolab.com/?id=KTZiAxTvgFk&title=MAGA+Supporters+RAGE+At+Trump+Over+Nightmare+Tech+Takeover&lang=en&timestamp=1786316253&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=235" alt="MAGA Supporters RAGE At Trump Over Nightmare Tech Takeover" title="MAGA Supporters RAGE At Trump Over Nightmare Tech Takeover">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=pIS80L6bb7g" target="_blank">
+      <a href="https://www.youtube.com/watch?v=4nKrDhnSN08" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=pIS80L6bb7g&title=China+Launches+World%27s+First+AI+Credit+Card%2C+Here%27s+How+It+Works+%7C+FP+Explains&lang=en&timestamp=1786182773&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=302">
-          <img src="https://ytcards.demolab.com/?id=pIS80L6bb7g&title=China+Launches+World%27s+First+AI+Credit+Card%2C+Here%27s+How+It+Works+%7C+FP+Explains&lang=en&timestamp=1786182773&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=302" alt="China Launches World's First AI Credit Card, Here's How It Works | FP Explains" title="China Launches World's First AI Credit Card, Here's How It Works | FP Explains">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=4nKrDhnSN08&title=%E2%9D%93Economic+Royalism%2C+Royalists%2C+and+Supply+Side+vs+Artificial+Intelligence%3A+THE+PLAYLIST&lang=en&timestamp=1786269453&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=21691">
+          <img src="https://ytcards.demolab.com/?id=4nKrDhnSN08&title=%E2%9D%93Economic+Royalism%2C+Royalists%2C+and+Supply+Side+vs+Artificial+Intelligence%3A+THE+PLAYLIST&lang=en&timestamp=1786269453&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=21691" alt="❓Economic Royalism, Royalists, and Supply Side vs Artificial Intelligence: THE PLAYLIST" title="❓Economic Royalism, Royalists, and Supply Side vs Artificial Intelligence: THE PLAYLIST">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=BhMpTncwFBw" target="_blank">
+      <a href="https://www.youtube.com/watch?v=yp14scVP1L8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=BhMpTncwFBw&title=OpenAIs+Astra+%28GPT-6%29+Will+Shock+The+World&lang=en&timestamp=1786193573&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=771">
-          <img src="https://ytcards.demolab.com/?id=BhMpTncwFBw&title=OpenAIs+Astra+%28GPT-6%29+Will+Shock+The+World&lang=en&timestamp=1786193573&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=771" alt="OpenAIs Astra (GPT-6) Will Shock The World" title="OpenAIs Astra (GPT-6) Will Shock The World">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=yp14scVP1L8&title=US+schools+trialling+AI+weapon+detectors+in+expanding+security+program&lang=en&timestamp=1786262253&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=60">
+          <img src="https://ytcards.demolab.com/?id=yp14scVP1L8&title=US+schools+trialling+AI+weapon+detectors+in+expanding+security+program&lang=en&timestamp=1786262253&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=60" alt="US schools trialling AI weapon detectors in expanding security program" title="US schools trialling AI weapon detectors in expanding security program">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=5Rcm4sy1RZg" target="_blank">
+      <a href="https://www.youtube.com/watch?v=SLfaCm8iGpo" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=5Rcm4sy1RZg&title=DARPA+Just+Put+Quantum+Against+the+AI+Bubble+%E2%80%94+NVIDIA+and+Microsoft+Are+Watching&lang=en&timestamp=1786218773&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2639">
-          <img src="https://ytcards.demolab.com/?id=5Rcm4sy1RZg&title=DARPA+Just+Put+Quantum+Against+the+AI+Bubble+%E2%80%94+NVIDIA+and+Microsoft+Are+Watching&lang=en&timestamp=1786218773&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2639" alt="DARPA Just Put Quantum Against the AI Bubble — NVIDIA and Microsoft Are Watching" title="DARPA Just Put Quantum Against the AI Bubble — NVIDIA and Microsoft Are Watching">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=SLfaCm8iGpo&title=3+MINUTES+AGO%3A+Google%E2%80%99s+Quantum+AI+JUST+STOPPED+The+World&lang=en&timestamp=1786283853&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=749">
+          <img src="https://ytcards.demolab.com/?id=SLfaCm8iGpo&title=3+MINUTES+AGO%3A+Google%E2%80%99s+Quantum+AI+JUST+STOPPED+The+World&lang=en&timestamp=1786283853&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=749" alt="3 MINUTES AGO: Google’s Quantum AI JUST STOPPED The World" title="3 MINUTES AGO: Google’s Quantum AI JUST STOPPED The World">
         </picture>
       </a>
     </td>
