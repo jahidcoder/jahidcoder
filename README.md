@@ -87,56 +87,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=3JH_Zd2mNRs" target="_blank">
+      <a href="https://www.youtube.com/watch?v=Q-E7hkZ5NdI" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=3JH_Zd2mNRs&title=an+AI+actually+went+rogue.&lang=en&timestamp=1786280253&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1060">
-          <img src="https://ytcards.demolab.com/?id=3JH_Zd2mNRs&title=an+AI+actually+went+rogue.&lang=en&timestamp=1786280253&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1060" alt="an AI actually went rogue." title="an AI actually went rogue.">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Q-E7hkZ5NdI&title=Trump+to+revise+AI+policy+as+technology+grows+DANGEROUSLY+powerful%3A+%27Can+HACK+the+Pentagon%27&lang=en&timestamp=1786637134&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=514">
+          <img src="https://ytcards.demolab.com/?id=Q-E7hkZ5NdI&title=Trump+to+revise+AI+policy+as+technology+grows+DANGEROUSLY+powerful%3A+%27Can+HACK+the+Pentagon%27&lang=en&timestamp=1786637134&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=514" alt="Trump to revise AI policy as technology grows DANGEROUSLY powerful: 'Can HACK the Pentagon'" title="Trump to revise AI policy as technology grows DANGEROUSLY powerful: 'Can HACK the Pentagon'">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=e0mWS-E7G5U" target="_blank">
+      <a href="https://www.youtube.com/watch?v=aCB-NQtsKrs" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=e0mWS-E7G5U&title=The+Mirror+of+the+Machine%3A+Why+the+AI+Crisis+is+actually+a+Human+Evolutionary+Imperative&lang=en&timestamp=1786287453&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=310">
-          <img src="https://ytcards.demolab.com/?id=e0mWS-E7G5U&title=The+Mirror+of+the+Machine%3A+Why+the+AI+Crisis+is+actually+a+Human+Evolutionary+Imperative&lang=en&timestamp=1786287453&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=310" alt="The Mirror of the Machine: Why the AI Crisis is actually a Human Evolutionary Imperative" title="The Mirror of the Machine: Why the AI Crisis is actually a Human Evolutionary Imperative">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=aCB-NQtsKrs&title=%22Deep+Unlearning%22%3A+Timnit+Gebru+on+AI+Hype%2C+Ethics+%26+Algorithmic+Racial+Bias&lang=en&timestamp=1786633534&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1076">
+          <img src="https://ytcards.demolab.com/?id=aCB-NQtsKrs&title=%22Deep+Unlearning%22%3A+Timnit+Gebru+on+AI+Hype%2C+Ethics+%26+Algorithmic+Racial+Bias&lang=en&timestamp=1786633534&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1076" alt="&quot;Deep Unlearning&quot;: Timnit Gebru on AI Hype, Ethics & Algorithmic Racial Bias" title="&quot;Deep Unlearning&quot;: Timnit Gebru on AI Hype, Ethics & Algorithmic Racial Bias">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=KTZiAxTvgFk" target="_blank">
+      <a href="https://www.youtube.com/watch?v=KIo9qL2LD90" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=KTZiAxTvgFk&title=MAGA+Supporters+RAGE+At+Trump+Over+Nightmare+Tech+Takeover&lang=en&timestamp=1786316253&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=235">
-          <img src="https://ytcards.demolab.com/?id=KTZiAxTvgFk&title=MAGA+Supporters+RAGE+At+Trump+Over+Nightmare+Tech+Takeover&lang=en&timestamp=1786316253&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=235" alt="MAGA Supporters RAGE At Trump Over Nightmare Tech Takeover" title="MAGA Supporters RAGE At Trump Over Nightmare Tech Takeover">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=KIo9qL2LD90&title=John+Lennox%3A+Will+Technology+Change+What+It+Means+to+be+Human%3F&lang=en&timestamp=1786637134&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2786">
+          <img src="https://ytcards.demolab.com/?id=KIo9qL2LD90&title=John+Lennox%3A+Will+Technology+Change+What+It+Means+to+be+Human%3F&lang=en&timestamp=1786637134&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2786" alt="John Lennox: Will Technology Change What It Means to be Human?" title="John Lennox: Will Technology Change What It Means to be Human?">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=4nKrDhnSN08" target="_blank">
+      <a href="https://www.youtube.com/watch?v=T76AnLgAxS4" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=4nKrDhnSN08&title=%E2%9D%93Economic+Royalism%2C+Royalists%2C+and+Supply+Side+vs+Artificial+Intelligence%3A+THE+PLAYLIST&lang=en&timestamp=1786269453&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=21691">
-          <img src="https://ytcards.demolab.com/?id=4nKrDhnSN08&title=%E2%9D%93Economic+Royalism%2C+Royalists%2C+and+Supply+Side+vs+Artificial+Intelligence%3A+THE+PLAYLIST&lang=en&timestamp=1786269453&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=21691" alt="❓Economic Royalism, Royalists, and Supply Side vs Artificial Intelligence: THE PLAYLIST" title="❓Economic Royalism, Royalists, and Supply Side vs Artificial Intelligence: THE PLAYLIST">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=T76AnLgAxS4&title=2026+State+of+AI+Exposed%3A+The+Future+of+Work+Is+Here&lang=en&timestamp=1786662334&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=650">
+          <img src="https://ytcards.demolab.com/?id=T76AnLgAxS4&title=2026+State+of+AI+Exposed%3A+The+Future+of+Work+Is+Here&lang=en&timestamp=1786662334&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=650" alt="2026 State of AI Exposed: The Future of Work Is Here" title="2026 State of AI Exposed: The Future of Work Is Here">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=yp14scVP1L8" target="_blank">
+      <a href="https://www.youtube.com/watch?v=jAkB_qeATag" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=yp14scVP1L8&title=US+schools+trialling+AI+weapon+detectors+in+expanding+security+program&lang=en&timestamp=1786262253&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=60">
-          <img src="https://ytcards.demolab.com/?id=yp14scVP1L8&title=US+schools+trialling+AI+weapon+detectors+in+expanding+security+program&lang=en&timestamp=1786262253&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=60" alt="US schools trialling AI weapon detectors in expanding security program" title="US schools trialling AI weapon detectors in expanding security program">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=jAkB_qeATag&title=AI+%26+Data+Science+Periodic+Tables%3A+How+They+Work+Together&lang=en&timestamp=1786619134&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=801">
+          <img src="https://ytcards.demolab.com/?id=jAkB_qeATag&title=AI+%26+Data+Science+Periodic+Tables%3A+How+They+Work+Together&lang=en&timestamp=1786619134&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=801" alt="AI & Data Science Periodic Tables: How They Work Together" title="AI & Data Science Periodic Tables: How They Work Together">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=SLfaCm8iGpo" target="_blank">
+      <a href="https://www.youtube.com/watch?v=EzSeU83v20w" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=SLfaCm8iGpo&title=3+MINUTES+AGO%3A+Google%E2%80%99s+Quantum+AI+JUST+STOPPED+The+World&lang=en&timestamp=1786283853&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=749">
-          <img src="https://ytcards.demolab.com/?id=SLfaCm8iGpo&title=3+MINUTES+AGO%3A+Google%E2%80%99s+Quantum+AI+JUST+STOPPED+The+World&lang=en&timestamp=1786283853&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=749" alt="3 MINUTES AGO: Google’s Quantum AI JUST STOPPED The World" title="3 MINUTES AGO: Google’s Quantum AI JUST STOPPED The World">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=EzSeU83v20w&title=AI+is+solving+problems+that+science+had+been+unable+to+solve+for+decades&lang=en&timestamp=1786644334&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5320">
+          <img src="https://ytcards.demolab.com/?id=EzSeU83v20w&title=AI+is+solving+problems+that+science+had+been+unable+to+solve+for+decades&lang=en&timestamp=1786644334&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=5320" alt="AI is solving problems that science had been unable to solve for decades" title="AI is solving problems that science had been unable to solve for decades">
         </picture>
       </a>
     </td>
