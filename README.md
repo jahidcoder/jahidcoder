@@ -88,56 +88,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=Q-E7hkZ5NdI" target="_blank">
+      <a href="https://www.youtube.com/watch?v=wmmqWCICTCk" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Q-E7hkZ5NdI&title=Trump+to+revise+AI+policy+as+technology+grows+DANGEROUSLY+powerful%3A+%27Can+HACK+the+Pentagon%27&lang=en&timestamp=1786637134&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=514">
-          <img src="https://ytcards.demolab.com/?id=Q-E7hkZ5NdI&title=Trump+to+revise+AI+policy+as+technology+grows+DANGEROUSLY+powerful%3A+%27Can+HACK+the+Pentagon%27&lang=en&timestamp=1786637134&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=514" alt="Trump to revise AI policy as technology grows DANGEROUSLY powerful: 'Can HACK the Pentagon'" title="Trump to revise AI policy as technology grows DANGEROUSLY powerful: 'Can HACK the Pentagon'">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=wmmqWCICTCk&title=How+to+Be+More+Articulate+-+Basics+of+Real+Intelligence+by+Ansh+Mehra&lang=en&timestamp=1786713600&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=437">
+          <img src="https://ytcards.demolab.com/?id=wmmqWCICTCk&title=How+to+Be+More+Articulate+-+Basics+of+Real+Intelligence+by+Ansh+Mehra&lang=en&timestamp=1786713600&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=437" alt="How to Be More Articulate - Basics of Real Intelligence by Ansh Mehra" title="How to Be More Articulate - Basics of Real Intelligence by Ansh Mehra">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=aCB-NQtsKrs" target="_blank">
+      <a href="https://www.youtube.com/watch?v=Gmusm_q6i7A" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=aCB-NQtsKrs&title=%22Deep+Unlearning%22%3A+Timnit+Gebru+on+AI+Hype%2C+Ethics+%26+Algorithmic+Racial+Bias&lang=en&timestamp=1786633534&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1076">
-          <img src="https://ytcards.demolab.com/?id=aCB-NQtsKrs&title=%22Deep+Unlearning%22%3A+Timnit+Gebru+on+AI+Hype%2C+Ethics+%26+Algorithmic+Racial+Bias&lang=en&timestamp=1786633534&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1076" alt="&quot;Deep Unlearning&quot;: Timnit Gebru on AI Hype, Ethics & Algorithmic Racial Bias" title="&quot;Deep Unlearning&quot;: Timnit Gebru on AI Hype, Ethics & Algorithmic Racial Bias">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Gmusm_q6i7A&title=Chicago+startup+SplitSec+uses+your+phone+to+detect+gunshots+%7C+ChicagoLIVE&lang=en&timestamp=1786735200&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=737">
+          <img src="https://ytcards.demolab.com/?id=Gmusm_q6i7A&title=Chicago+startup+SplitSec+uses+your+phone+to+detect+gunshots+%7C+ChicagoLIVE&lang=en&timestamp=1786735200&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=737" alt="Chicago startup SplitSec uses your phone to detect gunshots | ChicagoLIVE" title="Chicago startup SplitSec uses your phone to detect gunshots | ChicagoLIVE">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=KIo9qL2LD90" target="_blank">
+      <a href="https://www.youtube.com/watch?v=BiWK3miW0EY" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=KIo9qL2LD90&title=John+Lennox%3A+Will+Technology+Change+What+It+Means+to+be+Human%3F&lang=en&timestamp=1786637134&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2786">
-          <img src="https://ytcards.demolab.com/?id=KIo9qL2LD90&title=John+Lennox%3A+Will+Technology+Change+What+It+Means+to+be+Human%3F&lang=en&timestamp=1786637134&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2786" alt="John Lennox: Will Technology Change What It Means to be Human?" title="John Lennox: Will Technology Change What It Means to be Human?">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=BiWK3miW0EY&title=Dr.+Jeremy+Heffner+%7C+The+Most+Interesting+Conversation+I+Have+Had+On+AI&lang=en&timestamp=1786706400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5727">
+          <img src="https://ytcards.demolab.com/?id=BiWK3miW0EY&title=Dr.+Jeremy+Heffner+%7C+The+Most+Interesting+Conversation+I+Have+Had+On+AI&lang=en&timestamp=1786706400&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=5727" alt="Dr. Jeremy Heffner | The Most Interesting Conversation I Have Had On AI" title="Dr. Jeremy Heffner | The Most Interesting Conversation I Have Had On AI">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=T76AnLgAxS4" target="_blank">
+      <a href="https://www.youtube.com/watch?v=kCXXzARVIvU" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=T76AnLgAxS4&title=2026+State+of+AI+Exposed%3A+The+Future+of+Work+Is+Here&lang=en&timestamp=1786662334&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=650">
-          <img src="https://ytcards.demolab.com/?id=T76AnLgAxS4&title=2026+State+of+AI+Exposed%3A+The+Future+of+Work+Is+Here&lang=en&timestamp=1786662334&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=650" alt="2026 State of AI Exposed: The Future of Work Is Here" title="2026 State of AI Exposed: The Future of Work Is Here">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=kCXXzARVIvU&title=Why+Are+World+AI+Experts+Focusing+on+the+Pope%3F+The+Pope+and+the+Vatican+Resurface+%7C+Prophecy+of+R...&lang=en&timestamp=1786713600&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2874">
+          <img src="https://ytcards.demolab.com/?id=kCXXzARVIvU&title=Why+Are+World+AI+Experts+Focusing+on+the+Pope%3F+The+Pope+and+the+Vatican+Resurface+%7C+Prophecy+of+R...&lang=en&timestamp=1786713600&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2874" alt="Why Are World AI Experts Focusing on the Pope? The Pope and the Vatican Resurface | Prophecy of R..." title="Why Are World AI Experts Focusing on the Pope? The Pope and the Vatican Resurface | Prophecy of R...">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=jAkB_qeATag" target="_blank">
+      <a href="https://www.youtube.com/watch?v=6jnOnAaonbI" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=jAkB_qeATag&title=AI+%26+Data+Science+Periodic+Tables%3A+How+They+Work+Together&lang=en&timestamp=1786619134&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=801">
-          <img src="https://ytcards.demolab.com/?id=jAkB_qeATag&title=AI+%26+Data+Science+Periodic+Tables%3A+How+They+Work+Together&lang=en&timestamp=1786619134&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=801" alt="AI & Data Science Periodic Tables: How They Work Together" title="AI & Data Science Periodic Tables: How They Work Together">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=6jnOnAaonbI&title=%27DEBUNK+THIS+CONCEPT%27%3A+Top+strategist%27s+message+before+volatility+hits&lang=en&timestamp=1786755660&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=442">
+          <img src="https://ytcards.demolab.com/?id=6jnOnAaonbI&title=%27DEBUNK+THIS+CONCEPT%27%3A+Top+strategist%27s+message+before+volatility+hits&lang=en&timestamp=1786755660&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=442" alt="'DEBUNK THIS CONCEPT': Top strategist's message before volatility hits" title="'DEBUNK THIS CONCEPT': Top strategist's message before volatility hits">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=EzSeU83v20w" target="_blank">
+      <a href="https://www.youtube.com/watch?v=D8GCXwxbCaw" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=EzSeU83v20w&title=AI+is+solving+problems+that+science+had+been+unable+to+solve+for+decades&lang=en&timestamp=1786644334&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5320">
-          <img src="https://ytcards.demolab.com/?id=EzSeU83v20w&title=AI+is+solving+problems+that+science+had+been+unable+to+solve+for+decades&lang=en&timestamp=1786644334&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=5320" alt="AI is solving problems that science had been unable to solve for decades" title="AI is solving problems that science had been unable to solve for decades">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=D8GCXwxbCaw&title=7+AI+Careers+after+AI+takes+over+for+Study+Abroad+Roadmap&lang=en&timestamp=1786710000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=687">
+          <img src="https://ytcards.demolab.com/?id=D8GCXwxbCaw&title=7+AI+Careers+after+AI+takes+over+for+Study+Abroad+Roadmap&lang=en&timestamp=1786710000&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=687" alt="7 AI Careers after AI takes over for Study Abroad Roadmap" title="7 AI Careers after AI takes over for Study Abroad Roadmap">
         </picture>
       </a>
     </td>
