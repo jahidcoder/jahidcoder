@@ -90,56 +90,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=WklCnG9yfWQ" target="_blank">
+      <a href="https://www.youtube.com/watch?v=aOo-Tz5C-GY" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=WklCnG9yfWQ&title=Trump+grapples+with+the+AI+data+centre+debate+-+The+President%27s+Path+podcast%2C+BBC+World+Service&lang=en&timestamp=1786796716&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=973">
-          <img src="https://ytcards.demolab.com/?id=WklCnG9yfWQ&title=Trump+grapples+with+the+AI+data+centre+debate+-+The+President%27s+Path+podcast%2C+BBC+World+Service&lang=en&timestamp=1786796716&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=973" alt="Trump grapples with the AI data centre debate - The President's Path podcast, BBC World Service" title="Trump grapples with the AI data centre debate - The President's Path podcast, BBC World Service">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=aOo-Tz5C-GY&title=How+AI+Has+Become+a+Fixture+in+Classrooms+and+Homes&lang=en&timestamp=1787059265&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=349">
+          <img src="https://ytcards.demolab.com/?id=aOo-Tz5C-GY&title=How+AI+Has+Become+a+Fixture+in+Classrooms+and+Homes&lang=en&timestamp=1787059265&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=349" alt="How AI Has Become a Fixture in Classrooms and Homes" title="How AI Has Become a Fixture in Classrooms and Homes">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=IsZaPUFmwck" target="_blank">
+      <a href="https://www.youtube.com/watch?v=-MUDG2_DhJc" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=IsZaPUFmwck&title=%E0%B4%B2%E0%B4%BE%E0%B4%AC%E0%B4%BF%E0%B5%BD+%E0%B4%AA%E0%B4%BF%E0%B4%B1%E0%B4%A8%E0%B5%8D%E0%B4%A8+AI+%E0%B4%B5%E0%B5%88%E0%B4%B1%E0%B4%B8%E0%B5%8D%21+%E0%B4%A8%E0%B4%BE%E0%B4%B3%E0%B5%86+%E0%B4%AE%E0%B4%A8%E0%B5%81%E0%B4%B7%E0%B5%8D%E0%B4%AF%E0%B4%A8%E0%B5%8D+%E0%B4%A8%E0%B5%87%E0%B5%BC%E0%B4%95%E0%B5%8D%E0%B4%95%E0%B5%81%E0%B4%B3%E0%B5%8D%E0%B4%B3+%E0%B4%AC%E0%B4%AF%E0%B5%8B%E0%B4%B5%E0%B5%86%E0%B4%AA%E0%B5%8D%E0%B4%AA%E0%B4%A3%E0%B4%BE%E0%B4%95%E0%B5%81%E0%B4%AE%E0%B5%8B%E0%B4%AF%E0%B5%86%E0%B4%A8%E0%B5%8D%E0%B4%A8%E0%B5%8D+%E0%B4%86%E0%B4%B3%E0%B5%81%E0%B4%95%E0%B5%BE+%7C+AI+Virus&lang=en&timestamp=1786796716&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=210">
-          <img src="https://ytcards.demolab.com/?id=IsZaPUFmwck&title=%E0%B4%B2%E0%B4%BE%E0%B4%AC%E0%B4%BF%E0%B5%BD+%E0%B4%AA%E0%B4%BF%E0%B4%B1%E0%B4%A8%E0%B5%8D%E0%B4%A8+AI+%E0%B4%B5%E0%B5%88%E0%B4%B1%E0%B4%B8%E0%B5%8D%21+%E0%B4%A8%E0%B4%BE%E0%B4%B3%E0%B5%86+%E0%B4%AE%E0%B4%A8%E0%B5%81%E0%B4%B7%E0%B5%8D%E0%B4%AF%E0%B4%A8%E0%B5%8D+%E0%B4%A8%E0%B5%87%E0%B5%BC%E0%B4%95%E0%B5%8D%E0%B4%95%E0%B5%81%E0%B4%B3%E0%B5%8D%E0%B4%B3+%E0%B4%AC%E0%B4%AF%E0%B5%8B%E0%B4%B5%E0%B5%86%E0%B4%AA%E0%B5%8D%E0%B4%AA%E0%B4%A3%E0%B4%BE%E0%B4%95%E0%B5%81%E0%B4%AE%E0%B5%8B%E0%B4%AF%E0%B5%86%E0%B4%A8%E0%B5%8D%E0%B4%A8%E0%B5%8D+%E0%B4%86%E0%B4%B3%E0%B5%81%E0%B4%95%E0%B5%BE+%7C+AI+Virus&lang=en&timestamp=1786796716&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=210" alt="ലാബിൽ പിറന്ന AI വൈറസ്! നാളെ മനുഷ്യന് നേർക്കുള്ള ബയോവെപ്പണാകുമോയെന്ന് ആളുകൾ | AI Virus" title="ലാബിൽ പിറന്ന AI വൈറസ്! നാളെ മനുഷ്യന് നേർക്കുള്ള ബയോവെപ്പണാകുമോയെന്ന് ആളുകൾ | AI Virus">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=-MUDG2_DhJc&title=Will+Al+make+your+degree+pointless%3F+-+What+in+the+World+podcast%2C+BBC+World+Service&lang=en&timestamp=1787055665&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1069">
+          <img src="https://ytcards.demolab.com/?id=-MUDG2_DhJc&title=Will+Al+make+your+degree+pointless%3F+-+What+in+the+World+podcast%2C+BBC+World+Service&lang=en&timestamp=1787055665&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1069" alt="Will Al make your degree pointless? - What in the World podcast, BBC World Service" title="Will Al make your degree pointless? - What in the World podcast, BBC World Service">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=ZOnLqkOSQE0" target="_blank">
+      <a href="https://www.youtube.com/watch?v=NiD3HCB91wk" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ZOnLqkOSQE0&title=RBI+BIG+Warning+%7C+%E0%A4%9A%E0%A5%8C%E0%A4%82%E0%A4%95%E0%A4%BE+%E0%A4%A6%E0%A5%87%E0%A4%97%E0%A4%BE+%E0%A4%AE%E0%A4%82%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%B2%E0%A4%AF+%E0%A4%95%E0%A4%BE+%E0%A4%A1%E0%A5%87%E0%A4%9F%E0%A4%BE%21+%E0%A4%85%E0%A4%97%E0%A4%B2%E0%A5%87+12+%E0%A4%AE%E0%A4%B9%E0%A5%80%E0%A4%A8%E0%A5%8B%E0%A4%82+%E0%A4%AE%E0%A5%87%E0%A4%82+%E0%A4%AC%E0%A4%A1%E0%A4%BC%E0%A4%BE+%E0%A4%B8%E0%A4%82%E0%A4%95%E0%A4%9F%21+RBI-%E0%A4%B8%E0%A4%B0%E0%A4%95%E0%A4%BE%E0%A4%B0+%E0%A4%95%E0%A5%80+%E0%A4%B0%E2%80%8D%E0%A4%BF%E0%A4%AA%E0%A5%8B%E0%A4%B0%E0%A5%8D%E0%A4%9F%21&lang=en&timestamp=1786785916&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=438">
-          <img src="https://ytcards.demolab.com/?id=ZOnLqkOSQE0&title=RBI+BIG+Warning+%7C+%E0%A4%9A%E0%A5%8C%E0%A4%82%E0%A4%95%E0%A4%BE+%E0%A4%A6%E0%A5%87%E0%A4%97%E0%A4%BE+%E0%A4%AE%E0%A4%82%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%B2%E0%A4%AF+%E0%A4%95%E0%A4%BE+%E0%A4%A1%E0%A5%87%E0%A4%9F%E0%A4%BE%21+%E0%A4%85%E0%A4%97%E0%A4%B2%E0%A5%87+12+%E0%A4%AE%E0%A4%B9%E0%A5%80%E0%A4%A8%E0%A5%8B%E0%A4%82+%E0%A4%AE%E0%A5%87%E0%A4%82+%E0%A4%AC%E0%A4%A1%E0%A4%BC%E0%A4%BE+%E0%A4%B8%E0%A4%82%E0%A4%95%E0%A4%9F%21+RBI-%E0%A4%B8%E0%A4%B0%E0%A4%95%E0%A4%BE%E0%A4%B0+%E0%A4%95%E0%A5%80+%E0%A4%B0%E2%80%8D%E0%A4%BF%E0%A4%AA%E0%A5%8B%E0%A4%B0%E0%A5%8D%E0%A4%9F%21&lang=en&timestamp=1786785916&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=438" alt="RBI BIG Warning | चौंका देगा मंत्रालय का डेटा! अगले 12 महीनों में बड़ा संकट! RBI-सरकार की र‍िपोर्ट!" title="RBI BIG Warning | चौंका देगा मंत्रालय का डेटा! अगले 12 महीनों में बड़ा संकट! RBI-सरकार की र‍िपोर्ट!">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=NiD3HCB91wk&title=Americans+Have+Turned+Against+AI&lang=en&timestamp=1787066465&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1046">
+          <img src="https://ytcards.demolab.com/?id=NiD3HCB91wk&title=Americans+Have+Turned+Against+AI&lang=en&timestamp=1787066465&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1046" alt="Americans Have Turned Against AI" title="Americans Have Turned Against AI">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=25t7hdv5ksk" target="_blank">
+      <a href="https://www.youtube.com/watch?v=PHCg9kanGR4" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=25t7hdv5ksk&title=CROSSFIRE%3A+Artificial+Intelligence%3A+Job+Creator+or+Job+Destroyer&lang=en&timestamp=1786793116&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1973">
-          <img src="https://ytcards.demolab.com/?id=25t7hdv5ksk&title=CROSSFIRE%3A+Artificial+Intelligence%3A+Job+Creator+or+Job+Destroyer&lang=en&timestamp=1786793116&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1973" alt="CROSSFIRE: Artificial Intelligence: Job Creator or Job Destroyer" title="CROSSFIRE: Artificial Intelligence: Job Creator or Job Destroyer">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=PHCg9kanGR4&title=Artificial+Intelligence+Confirms+Date+of+the+Rapture+08%2F18%2F2026&lang=en&timestamp=1787041265&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1795">
+          <img src="https://ytcards.demolab.com/?id=PHCg9kanGR4&title=Artificial+Intelligence+Confirms+Date+of+the+Rapture+08%2F18%2F2026&lang=en&timestamp=1787041265&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1795" alt="Artificial Intelligence Confirms Date of the Rapture 08/18/2026" title="Artificial Intelligence Confirms Date of the Rapture 08/18/2026">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=qae7NCvCZ1Q" target="_blank">
+      <a href="https://www.youtube.com/watch?v=1FU8XklmrA8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=qae7NCvCZ1Q&title=DAY+1+-+Vibe+Coding+an+App+Until+I+make+1%2C00%2C000%E2%82%B9+From+my+first+app&lang=en&timestamp=1786793116&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=8243">
-          <img src="https://ytcards.demolab.com/?id=qae7NCvCZ1Q&title=DAY+1+-+Vibe+Coding+an+App+Until+I+make+1%2C00%2C000%E2%82%B9+From+my+first+app&lang=en&timestamp=1786793116&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=8243" alt="DAY 1 - Vibe Coding an App Until I make 1,00,000₹ From my first app" title="DAY 1 - Vibe Coding an App Until I make 1,00,000₹ From my first app">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=1FU8XklmrA8&title=Artificial+Intelligence%2C+Interest+Rates+And+Inflation...Oh%2C+What+A+Tangled+Web+We+Weave&lang=en&timestamp=1787070065&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=755">
+          <img src="https://ytcards.demolab.com/?id=1FU8XklmrA8&title=Artificial+Intelligence%2C+Interest+Rates+And+Inflation...Oh%2C+What+A+Tangled+Web+We+Weave&lang=en&timestamp=1787070065&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=755" alt="Artificial Intelligence, Interest Rates And Inflation...Oh, What A Tangled Web We Weave" title="Artificial Intelligence, Interest Rates And Inflation...Oh, What A Tangled Web We Weave">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=CHcqFEvnDFM" target="_blank">
+      <a href="https://www.youtube.com/watch?v=S4vGBNmaQRk" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=CHcqFEvnDFM&title=AI+on+the+Edge+LESSON+42%3A+Create+Composite+Images+Using+Masks+in+OpenCV+and+MediaPipe&lang=en&timestamp=1786811116&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3123">
-          <img src="https://ytcards.demolab.com/?id=CHcqFEvnDFM&title=AI+on+the+Edge+LESSON+42%3A+Create+Composite+Images+Using+Masks+in+OpenCV+and+MediaPipe&lang=en&timestamp=1786811116&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3123" alt="AI on the Edge LESSON 42: Create Composite Images Using Masks in OpenCV and MediaPipe" title="AI on the Edge LESSON 42: Create Composite Images Using Masks in OpenCV and MediaPipe">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=S4vGBNmaQRk&title=Impacts+of+Artificial+Intelligence+in+the+workplace&lang=en&timestamp=1787095265&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=326">
+          <img src="https://ytcards.demolab.com/?id=S4vGBNmaQRk&title=Impacts+of+Artificial+Intelligence+in+the+workplace&lang=en&timestamp=1787095265&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=326" alt="Impacts of Artificial Intelligence in the workplace" title="Impacts of Artificial Intelligence in the workplace">
         </picture>
       </a>
     </td>
