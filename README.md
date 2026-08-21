@@ -92,56 +92,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=YebvAl6t4_s" target="_blank">
+      <a href="https://www.youtube.com/watch?v=k1tbc1Rqt2k" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=YebvAl6t4_s&title=Robotics+and+AI+converging+to+revolutionise+industries%3A+ABB+Robotics&lang=en&timestamp=1787145593&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=444">
-          <img src="https://ytcards.demolab.com/?id=YebvAl6t4_s&title=Robotics+and+AI+converging+to+revolutionise+industries%3A+ABB+Robotics&lang=en&timestamp=1787145593&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=444" alt="Robotics and AI converging to revolutionise industries: ABB Robotics" title="Robotics and AI converging to revolutionise industries: ABB Robotics">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=k1tbc1Rqt2k&title=Survey+found+70+percent+of+teens+use+artificial+intelligence+for+schoolwork&lang=en&timestamp=1787253844&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=303">
+          <img src="https://ytcards.demolab.com/?id=k1tbc1Rqt2k&title=Survey+found+70+percent+of+teens+use+artificial+intelligence+for+schoolwork&lang=en&timestamp=1787253844&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=303" alt="Survey found 70 percent of teens use artificial intelligence for schoolwork" title="Survey found 70 percent of teens use artificial intelligence for schoolwork">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=m1s8yRt4cAU" target="_blank">
+      <a href="https://www.youtube.com/watch?v=bCfzOVVWknQ" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=m1s8yRt4cAU&title=China+summer+camps%3A+Govt+expands+national+education+in+AI+technologies&lang=en&timestamp=1787127593&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=136">
-          <img src="https://ytcards.demolab.com/?id=m1s8yRt4cAU&title=China+summer+camps%3A+Govt+expands+national+education+in+AI+technologies&lang=en&timestamp=1787127593&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=136" alt="China summer camps: Govt expands national education in AI technologies" title="China summer camps: Govt expands national education in AI technologies">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=bCfzOVVWknQ&title=Book+publishers+forced+to+navigate+AI+and+the+stories+about+misuse+are+stunning&lang=en&timestamp=1787239444&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=130">
+          <img src="https://ytcards.demolab.com/?id=bCfzOVVWknQ&title=Book+publishers+forced+to+navigate+AI+and+the+stories+about+misuse+are+stunning&lang=en&timestamp=1787239444&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=130" alt="Book publishers forced to navigate AI and the stories about misuse are stunning" title="Book publishers forced to navigate AI and the stories about misuse are stunning">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=kzo526Wda5U" target="_blank">
+      <a href="https://www.youtube.com/watch?v=v99DkPP6LVY" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=kzo526Wda5U&title=EMERGENT+TECHNOLOGIES+%7C+THEY+SAY+HUMANS+ARE+BOOTLOADERS+FOR+ARTIFICIAL+INTELLIGENCE&lang=en&timestamp=1787149193&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3589">
-          <img src="https://ytcards.demolab.com/?id=kzo526Wda5U&title=EMERGENT+TECHNOLOGIES+%7C+THEY+SAY+HUMANS+ARE+BOOTLOADERS+FOR+ARTIFICIAL+INTELLIGENCE&lang=en&timestamp=1787149193&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3589" alt="EMERGENT TECHNOLOGIES | THEY SAY HUMANS ARE BOOTLOADERS FOR ARTIFICIAL INTELLIGENCE" title="EMERGENT TECHNOLOGIES | THEY SAY HUMANS ARE BOOTLOADERS FOR ARTIFICIAL INTELLIGENCE">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=v99DkPP6LVY&title=AI+Critic+Connor+Leahy%3A+Push+for+%22Superintelligence%22+Poses+National+Security+Risks&lang=en&timestamp=1787235844&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=815">
+          <img src="https://ytcards.demolab.com/?id=v99DkPP6LVY&title=AI+Critic+Connor+Leahy%3A+Push+for+%22Superintelligence%22+Poses+National+Security+Risks&lang=en&timestamp=1787235844&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=815" alt="AI Critic Connor Leahy: Push for &quot;Superintelligence&quot; Poses National Security Risks" title="AI Critic Connor Leahy: Push for &quot;Superintelligence&quot; Poses National Security Risks">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=sfjFKy0ZOiA" target="_blank">
+      <a href="https://www.youtube.com/watch?v=zr1kOeilDKI" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=sfjFKy0ZOiA&title=2006%3A+When+Will+Intelligent+Machines+Take+Over%3F+%7C+Newsnight+%7C+BBC+Archive&lang=en&timestamp=1787138393&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=419">
-          <img src="https://ytcards.demolab.com/?id=sfjFKy0ZOiA&title=2006%3A+When+Will+Intelligent+Machines+Take+Over%3F+%7C+Newsnight+%7C+BBC+Archive&lang=en&timestamp=1787138393&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=419" alt="2006: When Will Intelligent Machines Take Over? | Newsnight | BBC Archive" title="2006: When Will Intelligent Machines Take Over? | Newsnight | BBC Archive">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=zr1kOeilDKI&title=Do+workers+actually+use+Artificial+Intelligence+on+the+job%3F&lang=en&timestamp=1787271844&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=119">
+          <img src="https://ytcards.demolab.com/?id=zr1kOeilDKI&title=Do+workers+actually+use+Artificial+Intelligence+on+the+job%3F&lang=en&timestamp=1787271844&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=119" alt="Do workers actually use Artificial Intelligence on the job?" title="Do workers actually use Artificial Intelligence on the job?">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=xNvyKezAgao" target="_blank">
+      <a href="https://www.youtube.com/watch?v=JRyo8zvmqaQ" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=xNvyKezAgao&title=Ask+Me+Anything+About+the+Future+%7C+Space%2C+AI%2C+Aliens+%26+Civilization+%7C+SFIA+August+Live+Q%26A&lang=en&timestamp=1787105993&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=4411">
-          <img src="https://ytcards.demolab.com/?id=xNvyKezAgao&title=Ask+Me+Anything+About+the+Future+%7C+Space%2C+AI%2C+Aliens+%26+Civilization+%7C+SFIA+August+Live+Q%26A&lang=en&timestamp=1787105993&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=4411" alt="Ask Me Anything About the Future | Space, AI, Aliens & Civilization | SFIA August Live Q&A" title="Ask Me Anything About the Future | Space, AI, Aliens & Civilization | SFIA August Live Q&A">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=JRyo8zvmqaQ&title=The+Essential+Artificial+Intelligence+Guide+for+Beginners&lang=en&timestamp=1787246644&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=996">
+          <img src="https://ytcards.demolab.com/?id=JRyo8zvmqaQ&title=The+Essential+Artificial+Intelligence+Guide+for+Beginners&lang=en&timestamp=1787246644&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=996" alt="The Essential Artificial Intelligence Guide for Beginners" title="The Essential Artificial Intelligence Guide for Beginners">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=_ZGgGTI-J-g" target="_blank">
+      <a href="https://www.youtube.com/watch?v=B6bnQnvUAmk" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=_ZGgGTI-J-g&title=The+Complexity+Tax%3A+Jobs+for+Humans+in+the+Age+of+Artificial+Intelligence&lang=en&timestamp=1787149193&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1514">
-          <img src="https://ytcards.demolab.com/?id=_ZGgGTI-J-g&title=The+Complexity+Tax%3A+Jobs+for+Humans+in+the+Age+of+Artificial+Intelligence&lang=en&timestamp=1787149193&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1514" alt="The Complexity Tax: Jobs for Humans in the Age of Artificial Intelligence" title="The Complexity Tax: Jobs for Humans in the Age of Artificial Intelligence">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=B6bnQnvUAmk&title=%22Love+Machines%22%3A+James+Muldoon+on+How+AI+Is+Changing+Relationships+%26+the+Global+Workers+Fueling+AI&lang=en&timestamp=1787235844&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=725">
+          <img src="https://ytcards.demolab.com/?id=B6bnQnvUAmk&title=%22Love+Machines%22%3A+James+Muldoon+on+How+AI+Is+Changing+Relationships+%26+the+Global+Workers+Fueling+AI&lang=en&timestamp=1787235844&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=725" alt="&quot;Love Machines&quot;: James Muldoon on How AI Is Changing Relationships & the Global Workers Fueling AI" title="&quot;Love Machines&quot;: James Muldoon on How AI Is Changing Relationships & the Global Workers Fueling AI">
         </picture>
       </a>
     </td>
