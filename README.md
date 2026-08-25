@@ -96,56 +96,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=6WK8ZEsVK_U" target="_blank">
+      <a href="https://www.youtube.com/watch?v=sZW6q8Wit38" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=6WK8ZEsVK_U&title=AI+Is+Already+Doing+Things+Its+Creators+Don%27t+Understand+%7C+Jon+Hern%C3%A1ndez+%23LFDE&lang=en&timestamp=1787484246&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=7192">
-          <img src="https://ytcards.demolab.com/?id=6WK8ZEsVK_U&title=AI+Is+Already+Doing+Things+Its+Creators+Don%27t+Understand+%7C+Jon+Hern%C3%A1ndez+%23LFDE&lang=en&timestamp=1787484246&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=7192" alt="AI Is Already Doing Things Its Creators Don't Understand | Jon Hernández #LFDE" title="AI Is Already Doing Things Its Creators Don't Understand | Jon Hernández #LFDE">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=sZW6q8Wit38&title=AI+costs+are+rising+for+businesses+even+as+tokens+get+cheaper+%7C+The+Business+%7C+ABC+NEWS&lang=en&timestamp=1787563283&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=231">
+          <img src="https://ytcards.demolab.com/?id=sZW6q8Wit38&title=AI+costs+are+rising+for+businesses+even+as+tokens+get+cheaper+%7C+The+Business+%7C+ABC+NEWS&lang=en&timestamp=1787563283&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=231" alt="AI costs are rising for businesses even as tokens get cheaper | The Business | ABC NEWS" title="AI costs are rising for businesses even as tokens get cheaper | The Business | ABC NEWS">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=QEK4o-Di4KY" target="_blank">
+      <a href="https://www.youtube.com/watch?v=fDW6oX46DMg" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=QEK4o-Di4KY&title=Navigating+The+Future%3A+Can+IT+Make+The+AI+Pivot%3F+%7C+AI%3A+The+Next+Frontier&lang=en&timestamp=1787495046&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3683">
-          <img src="https://ytcards.demolab.com/?id=QEK4o-Di4KY&title=Navigating+The+Future%3A+Can+IT+Make+The+AI+Pivot%3F+%7C+AI%3A+The+Next+Frontier&lang=en&timestamp=1787495046&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3683" alt="Navigating The Future: Can IT Make The AI Pivot? | AI: The Next Frontier" title="Navigating The Future: Can IT Make The AI Pivot? | AI: The Next Frontier">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=fDW6oX46DMg&title=Dr.+Dre+%26+DJ+Quik+DISAGREE+on+A.I.+in+MUSIC%E2%80%BC%EF%B8%8F&lang=en&timestamp=1787584883&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=748">
+          <img src="https://ytcards.demolab.com/?id=fDW6oX46DMg&title=Dr.+Dre+%26+DJ+Quik+DISAGREE+on+A.I.+in+MUSIC%E2%80%BC%EF%B8%8F&lang=en&timestamp=1787584883&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=748" alt="Dr. Dre & DJ Quik DISAGREE on A.I. in MUSIC‼️" title="Dr. Dre & DJ Quik DISAGREE on A.I. in MUSIC‼️">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=ABcFmgt0D5I" target="_blank">
+      <a href="https://www.youtube.com/watch?v=MviT93-B7rc" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ABcFmgt0D5I&title=Terrifying+AI+Behavior+Even+Its+Creators+Couldn%27t+Explain&lang=en&timestamp=1787516646&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=6632">
-          <img src="https://ytcards.demolab.com/?id=ABcFmgt0D5I&title=Terrifying+AI+Behavior+Even+Its+Creators+Couldn%27t+Explain&lang=en&timestamp=1787516646&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=6632" alt="Terrifying AI Behavior Even Its Creators Couldn't Explain" title="Terrifying AI Behavior Even Its Creators Couldn't Explain">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=MviT93-B7rc&title=AI+Won%27t+Take+Your+Job%2C+But+Someone+Who+Can+Use+AI+Might&lang=en&timestamp=1787592083&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3068">
+          <img src="https://ytcards.demolab.com/?id=MviT93-B7rc&title=AI+Won%27t+Take+Your+Job%2C+But+Someone+Who+Can+Use+AI+Might&lang=en&timestamp=1787592083&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3068" alt="AI Won't Take Your Job, But Someone Who Can Use AI Might" title="AI Won't Take Your Job, But Someone Who Can Use AI Might">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=DX7d6cf42_E" target="_blank">
+      <a href="https://www.youtube.com/watch?v=u6drxiPTpw4" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=DX7d6cf42_E&title=China%E2%80%99s+Robot+Beats+Human+400m+World+Record+at+Beijing+%E2%80%98Robot+Olympics%E2%80%99+%7C+AI1N&lang=en&timestamp=1787502246&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=82">
-          <img src="https://ytcards.demolab.com/?id=DX7d6cf42_E&title=China%E2%80%99s+Robot+Beats+Human+400m+World+Record+at+Beijing+%E2%80%98Robot+Olympics%E2%80%99+%7C+AI1N&lang=en&timestamp=1787502246&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=82" alt="China’s Robot Beats Human 400m World Record at Beijing ‘Robot Olympics’ | AI1N" title="China’s Robot Beats Human 400m World Record at Beijing ‘Robot Olympics’ | AI1N">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=u6drxiPTpw4&title=AI+Before+vs+AI+Now+%7C+How+Much+Has+Artificial+Intelligence+Changed%3F&lang=en&timestamp=1787581283&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=418">
+          <img src="https://ytcards.demolab.com/?id=u6drxiPTpw4&title=AI+Before+vs+AI+Now+%7C+How+Much+Has+Artificial+Intelligence+Changed%3F&lang=en&timestamp=1787581283&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=418" alt="AI Before vs AI Now | How Much Has Artificial Intelligence Changed?" title="AI Before vs AI Now | How Much Has Artificial Intelligence Changed?">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=eDoqKpLquG0" target="_blank">
+      <a href="https://www.youtube.com/watch?v=C3KAoTbovGc" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=eDoqKpLquG0&title=Expert+says+AI+can+EXPAND+student+thinking+in+classical+education&lang=en&timestamp=1787502246&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=333">
-          <img src="https://ytcards.demolab.com/?id=eDoqKpLquG0&title=Expert+says+AI+can+EXPAND+student+thinking+in+classical+education&lang=en&timestamp=1787502246&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=333" alt="Expert says AI can EXPAND student thinking in classical education" title="Expert says AI can EXPAND student thinking in classical education">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=C3KAoTbovGc&title=Can+Keel+Infrastructure+consistently+outperform+the+Russell+3000%3F+Plus+an+AI+reality+check%21&lang=en&timestamp=1787606483&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=212">
+          <img src="https://ytcards.demolab.com/?id=C3KAoTbovGc&title=Can+Keel+Infrastructure+consistently+outperform+the+Russell+3000%3F+Plus+an+AI+reality+check%21&lang=en&timestamp=1787606483&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=212" alt="Can Keel Infrastructure consistently outperform the Russell 3000? Plus an AI reality check!" title="Can Keel Infrastructure consistently outperform the Russell 3000? Plus an AI reality check!">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=WIxn9k1YSPc" target="_blank">
+      <a href="https://www.youtube.com/watch?v=UIDy_9d4xvU" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=WIxn9k1YSPc&title=The+Overdue+Collapse+Of+Artificial+Intelligence&lang=en&timestamp=1787480646&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=351">
-          <img src="https://ytcards.demolab.com/?id=WIxn9k1YSPc&title=The+Overdue+Collapse+Of+Artificial+Intelligence&lang=en&timestamp=1787480646&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=351" alt="The Overdue Collapse Of Artificial Intelligence" title="The Overdue Collapse Of Artificial Intelligence">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=UIDy_9d4xvU&title=Why+TSMC+Wins+%7C+Inside+The+Secret+Chip+Empire+%7C+Former+TSMC+R%26D+Director+Explains+AI%27s+Future&lang=en&timestamp=1787570483&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1621">
+          <img src="https://ytcards.demolab.com/?id=UIDy_9d4xvU&title=Why+TSMC+Wins+%7C+Inside+The+Secret+Chip+Empire+%7C+Former+TSMC+R%26D+Director+Explains+AI%27s+Future&lang=en&timestamp=1787570483&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1621" alt="Why TSMC Wins | Inside The Secret Chip Empire | Former TSMC R&D Director Explains AI's Future" title="Why TSMC Wins | Inside The Secret Chip Empire | Former TSMC R&D Director Explains AI's Future">
         </picture>
       </a>
     </td>
