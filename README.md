@@ -97,56 +97,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=sZW6q8Wit38" target="_blank">
+      <a href="https://www.youtube.com/watch?v=DYbTzE92jbE" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=sZW6q8Wit38&title=AI+costs+are+rising+for+businesses+even+as+tokens+get+cheaper+%7C+The+Business+%7C+ABC+NEWS&lang=en&timestamp=1787563283&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=231">
-          <img src="https://ytcards.demolab.com/?id=sZW6q8Wit38&title=AI+costs+are+rising+for+businesses+even+as+tokens+get+cheaper+%7C+The+Business+%7C+ABC+NEWS&lang=en&timestamp=1787563283&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=231" alt="AI costs are rising for businesses even as tokens get cheaper | The Business | ABC NEWS" title="AI costs are rising for businesses even as tokens get cheaper | The Business | ABC NEWS">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=DYbTzE92jbE&title=AI+Investing+in+2026%3A+The+Next+Phase+of+Artificial+Intelligence&lang=en&timestamp=1787671473&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=288">
+          <img src="https://ytcards.demolab.com/?id=DYbTzE92jbE&title=AI+Investing+in+2026%3A+The+Next+Phase+of+Artificial+Intelligence&lang=en&timestamp=1787671473&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=288" alt="AI Investing in 2026: The Next Phase of Artificial Intelligence" title="AI Investing in 2026: The Next Phase of Artificial Intelligence">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=fDW6oX46DMg" target="_blank">
+      <a href="https://www.youtube.com/watch?v=QQ4mttkotu4" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=fDW6oX46DMg&title=Dr.+Dre+%26+DJ+Quik+DISAGREE+on+A.I.+in+MUSIC%E2%80%BC%EF%B8%8F&lang=en&timestamp=1787584883&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=748">
-          <img src="https://ytcards.demolab.com/?id=fDW6oX46DMg&title=Dr.+Dre+%26+DJ+Quik+DISAGREE+on+A.I.+in+MUSIC%E2%80%BC%EF%B8%8F&lang=en&timestamp=1787584883&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=748" alt="Dr. Dre & DJ Quik DISAGREE on A.I. in MUSIC‼️" title="Dr. Dre & DJ Quik DISAGREE on A.I. in MUSIC‼️">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=QQ4mttkotu4&title=How+you+can+Make+Money+Online+with+AI+-+Complete+Roadmap%E2%9C%85&lang=en&timestamp=1787664273&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1042">
+          <img src="https://ytcards.demolab.com/?id=QQ4mttkotu4&title=How+you+can+Make+Money+Online+with+AI+-+Complete+Roadmap%E2%9C%85&lang=en&timestamp=1787664273&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1042" alt="How you can Make Money Online with AI - Complete Roadmap✅" title="How you can Make Money Online with AI - Complete Roadmap✅">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=MviT93-B7rc" target="_blank">
+      <a href="https://www.youtube.com/watch?v=3Otga0nxrDU" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=MviT93-B7rc&title=AI+Won%27t+Take+Your+Job%2C+But+Someone+Who+Can+Use+AI+Might&lang=en&timestamp=1787592083&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3068">
-          <img src="https://ytcards.demolab.com/?id=MviT93-B7rc&title=AI+Won%27t+Take+Your+Job%2C+But+Someone+Who+Can+Use+AI+Might&lang=en&timestamp=1787592083&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3068" alt="AI Won't Take Your Job, But Someone Who Can Use AI Might" title="AI Won't Take Your Job, But Someone Who Can Use AI Might">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=3Otga0nxrDU&title=Mark+Zuckerberg+wants+AI+superintelligence.+We+can+say+no.&lang=en&timestamp=1787693073&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1828">
+          <img src="https://ytcards.demolab.com/?id=3Otga0nxrDU&title=Mark+Zuckerberg+wants+AI+superintelligence.+We+can+say+no.&lang=en&timestamp=1787693073&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1828" alt="Mark Zuckerberg wants AI superintelligence. We can say no." title="Mark Zuckerberg wants AI superintelligence. We can say no.">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=u6drxiPTpw4" target="_blank">
+      <a href="https://www.youtube.com/watch?v=b7IryPMK8tQ" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=u6drxiPTpw4&title=AI+Before+vs+AI+Now+%7C+How+Much+Has+Artificial+Intelligence+Changed%3F&lang=en&timestamp=1787581283&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=418">
-          <img src="https://ytcards.demolab.com/?id=u6drxiPTpw4&title=AI+Before+vs+AI+Now+%7C+How+Much+Has+Artificial+Intelligence+Changed%3F&lang=en&timestamp=1787581283&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=418" alt="AI Before vs AI Now | How Much Has Artificial Intelligence Changed?" title="AI Before vs AI Now | How Much Has Artificial Intelligence Changed?">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=b7IryPMK8tQ&title=Experts+weigh+costs%2C+benefits+of+using+artificial+intelligence+in+education&lang=en&timestamp=1787693073&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=135">
+          <img src="https://ytcards.demolab.com/?id=b7IryPMK8tQ&title=Experts+weigh+costs%2C+benefits+of+using+artificial+intelligence+in+education&lang=en&timestamp=1787693073&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=135" alt="Experts weigh costs, benefits of using artificial intelligence in education" title="Experts weigh costs, benefits of using artificial intelligence in education">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=C3KAoTbovGc" target="_blank">
+      <a href="https://www.youtube.com/watch?v=vnGQIQlBja4" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=C3KAoTbovGc&title=Can+Keel+Infrastructure+consistently+outperform+the+Russell+3000%3F+Plus+an+AI+reality+check%21&lang=en&timestamp=1787606483&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=212">
-          <img src="https://ytcards.demolab.com/?id=C3KAoTbovGc&title=Can+Keel+Infrastructure+consistently+outperform+the+Russell+3000%3F+Plus+an+AI+reality+check%21&lang=en&timestamp=1787606483&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=212" alt="Can Keel Infrastructure consistently outperform the Russell 3000? Plus an AI reality check!" title="Can Keel Infrastructure consistently outperform the Russell 3000? Plus an AI reality check!">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=vnGQIQlBja4&title=Expert+Answers+How+Schools+Work+Around+The+World&lang=en&timestamp=1787675073&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1132">
+          <img src="https://ytcards.demolab.com/?id=vnGQIQlBja4&title=Expert+Answers+How+Schools+Work+Around+The+World&lang=en&timestamp=1787675073&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1132" alt="Expert Answers How Schools Work Around The World" title="Expert Answers How Schools Work Around The World">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=UIDy_9d4xvU" target="_blank">
+      <a href="https://www.youtube.com/watch?v=4wLBY0Cu2_Q" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=UIDy_9d4xvU&title=Why+TSMC+Wins+%7C+Inside+The+Secret+Chip+Empire+%7C+Former+TSMC+R%26D+Director+Explains+AI%27s+Future&lang=en&timestamp=1787570483&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1621">
-          <img src="https://ytcards.demolab.com/?id=UIDy_9d4xvU&title=Why+TSMC+Wins+%7C+Inside+The+Secret+Chip+Empire+%7C+Former+TSMC+R%26D+Director+Explains+AI%27s+Future&lang=en&timestamp=1787570483&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1621" alt="Why TSMC Wins | Inside The Secret Chip Empire | Former TSMC R&D Director Explains AI's Future" title="Why TSMC Wins | Inside The Secret Chip Empire | Former TSMC R&D Director Explains AI's Future">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=4wLBY0Cu2_Q&title=Britain+Signs+AI+Defence+Deal+With+Ukraine%2C+Gains+Access+to+Avengers+AI+Labs+%7C+WION&lang=en&timestamp=1787653473&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=140">
+          <img src="https://ytcards.demolab.com/?id=4wLBY0Cu2_Q&title=Britain+Signs+AI+Defence+Deal+With+Ukraine%2C+Gains+Access+to+Avengers+AI+Labs+%7C+WION&lang=en&timestamp=1787653473&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=140" alt="Britain Signs AI Defence Deal With Ukraine, Gains Access to Avengers AI Labs | WION" title="Britain Signs AI Defence Deal With Ukraine, Gains Access to Avengers AI Labs | WION">
         </picture>
       </a>
     </td>
