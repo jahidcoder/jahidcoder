@@ -98,56 +98,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=DYbTzE92jbE" target="_blank">
+      <a href="https://www.youtube.com/watch?v=pJ-TBE7HaiA" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=DYbTzE92jbE&title=AI+Investing+in+2026%3A+The+Next+Phase+of+Artificial+Intelligence&lang=en&timestamp=1787671473&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=288">
-          <img src="https://ytcards.demolab.com/?id=DYbTzE92jbE&title=AI+Investing+in+2026%3A+The+Next+Phase+of+Artificial+Intelligence&lang=en&timestamp=1787671473&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=288" alt="AI Investing in 2026: The Next Phase of Artificial Intelligence" title="AI Investing in 2026: The Next Phase of Artificial Intelligence">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=pJ-TBE7HaiA&title=%27The+turbulent+AI+era+is+here%27%3A+Bill+Gates+gives+his+three+AI+risks&lang=en&timestamp=1787796547&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=562">
+          <img src="https://ytcards.demolab.com/?id=pJ-TBE7HaiA&title=%27The+turbulent+AI+era+is+here%27%3A+Bill+Gates+gives+his+three+AI+risks&lang=en&timestamp=1787796547&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=562" alt="'The turbulent AI era is here': Bill Gates gives his three AI risks" title="'The turbulent AI era is here': Bill Gates gives his three AI risks">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=QQ4mttkotu4" target="_blank">
+      <a href="https://www.youtube.com/watch?v=MLeTQWQiOvg" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=QQ4mttkotu4&title=How+you+can+Make+Money+Online+with+AI+-+Complete+Roadmap%E2%9C%85&lang=en&timestamp=1787664273&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1042">
-          <img src="https://ytcards.demolab.com/?id=QQ4mttkotu4&title=How+you+can+Make+Money+Online+with+AI+-+Complete+Roadmap%E2%9C%85&lang=en&timestamp=1787664273&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1042" alt="How you can Make Money Online with AI - Complete Roadmap✅" title="How you can Make Money Online with AI - Complete Roadmap✅">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=MLeTQWQiOvg&title=The+turbulent+era+of+artificial+intelligence+is+here&lang=en&timestamp=1787792947&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=112">
+          <img src="https://ytcards.demolab.com/?id=MLeTQWQiOvg&title=The+turbulent+era+of+artificial+intelligence+is+here&lang=en&timestamp=1787792947&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=112" alt="The turbulent era of artificial intelligence is here" title="The turbulent era of artificial intelligence is here">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=3Otga0nxrDU" target="_blank">
+      <a href="https://www.youtube.com/watch?v=ksVnN27yzSg" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=3Otga0nxrDU&title=Mark+Zuckerberg+wants+AI+superintelligence.+We+can+say+no.&lang=en&timestamp=1787693073&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1828">
-          <img src="https://ytcards.demolab.com/?id=3Otga0nxrDU&title=Mark+Zuckerberg+wants+AI+superintelligence.+We+can+say+no.&lang=en&timestamp=1787693073&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1828" alt="Mark Zuckerberg wants AI superintelligence. We can say no." title="Mark Zuckerberg wants AI superintelligence. We can say no.">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ksVnN27yzSg&title=Bill+Gates+Sounds+Alarm+On+AI%3A+Jobs%2C+Bioterrorism+%26+Human+Life+At+Risk+%7C+Tech+News+%7C+N18G&lang=en&timestamp=1787771347&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=98">
+          <img src="https://ytcards.demolab.com/?id=ksVnN27yzSg&title=Bill+Gates+Sounds+Alarm+On+AI%3A+Jobs%2C+Bioterrorism+%26+Human+Life+At+Risk+%7C+Tech+News+%7C+N18G&lang=en&timestamp=1787771347&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=98" alt="Bill Gates Sounds Alarm On AI: Jobs, Bioterrorism & Human Life At Risk | Tech News | N18G" title="Bill Gates Sounds Alarm On AI: Jobs, Bioterrorism & Human Life At Risk | Tech News | N18G">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=b7IryPMK8tQ" target="_blank">
+      <a href="https://www.youtube.com/watch?v=hJSo7UV6hBA" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=b7IryPMK8tQ&title=Experts+weigh+costs%2C+benefits+of+using+artificial+intelligence+in+education&lang=en&timestamp=1787693073&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=135">
-          <img src="https://ytcards.demolab.com/?id=b7IryPMK8tQ&title=Experts+weigh+costs%2C+benefits+of+using+artificial+intelligence+in+education&lang=en&timestamp=1787693073&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=135" alt="Experts weigh costs, benefits of using artificial intelligence in education" title="Experts weigh costs, benefits of using artificial intelligence in education">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=hJSo7UV6hBA&title=USA+Bonds+Artificial+Intelligence+Shock&lang=en&timestamp=1787753347&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1107">
+          <img src="https://ytcards.demolab.com/?id=hJSo7UV6hBA&title=USA+Bonds+Artificial+Intelligence+Shock&lang=en&timestamp=1787753347&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1107" alt="USA Bonds Artificial Intelligence Shock" title="USA Bonds Artificial Intelligence Shock">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=vnGQIQlBja4" target="_blank">
+      <a href="https://www.youtube.com/watch?v=M1eT7MJmFl8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=vnGQIQlBja4&title=Expert+Answers+How+Schools+Work+Around+The+World&lang=en&timestamp=1787675073&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1132">
-          <img src="https://ytcards.demolab.com/?id=vnGQIQlBja4&title=Expert+Answers+How+Schools+Work+Around+The+World&lang=en&timestamp=1787675073&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1132" alt="Expert Answers How Schools Work Around The World" title="Expert Answers How Schools Work Around The World">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=M1eT7MJmFl8&title=He+Put+Half+His+Portfolio+Into+AI%3A+What+This+Gen+Z+Investor+Learnt+%7C+Money+Mind&lang=en&timestamp=1787753347&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=366">
+          <img src="https://ytcards.demolab.com/?id=M1eT7MJmFl8&title=He+Put+Half+His+Portfolio+Into+AI%3A+What+This+Gen+Z+Investor+Learnt+%7C+Money+Mind&lang=en&timestamp=1787753347&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=366" alt="He Put Half His Portfolio Into AI: What This Gen Z Investor Learnt | Money Mind" title="He Put Half His Portfolio Into AI: What This Gen Z Investor Learnt | Money Mind">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=4wLBY0Cu2_Q" target="_blank">
+      <a href="https://www.youtube.com/watch?v=BCkxIBe_1b8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=4wLBY0Cu2_Q&title=Britain+Signs+AI+Defence+Deal+With+Ukraine%2C+Gains+Access+to+Avengers+AI+Labs+%7C+WION&lang=en&timestamp=1787653473&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=140">
-          <img src="https://ytcards.demolab.com/?id=4wLBY0Cu2_Q&title=Britain+Signs+AI+Defence+Deal+With+Ukraine%2C+Gains+Access+to+Avengers+AI+Labs+%7C+WION&lang=en&timestamp=1787653473&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=140" alt="Britain Signs AI Defence Deal With Ukraine, Gains Access to Avengers AI Labs | WION" title="Britain Signs AI Defence Deal With Ukraine, Gains Access to Avengers AI Labs | WION">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=BCkxIBe_1b8&title=Building+AI+Fluency+Across+the+Intelligence+Workforce&lang=en&timestamp=1787800147&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=630">
+          <img src="https://ytcards.demolab.com/?id=BCkxIBe_1b8&title=Building+AI+Fluency+Across+the+Intelligence+Workforce&lang=en&timestamp=1787800147&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=630" alt="Building AI Fluency Across the Intelligence Workforce" title="Building AI Fluency Across the Intelligence Workforce">
         </picture>
       </a>
     </td>
