@@ -103,56 +103,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=fDDch9r1gXk" target="_blank">
+      <a href="https://www.youtube.com/watch?v=utu5YACZbPE" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=fDDch9r1gXk&title=Artificial+intelligence+agents+going+rogue+fuel+calls+for+regulation&lang=en&timestamp=1788217686&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=391">
-          <img src="https://ytcards.demolab.com/?id=fDDch9r1gXk&title=Artificial+intelligence+agents+going+rogue+fuel+calls+for+regulation&lang=en&timestamp=1788217686&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=391" alt="Artificial intelligence agents going rogue fuel calls for regulation" title="Artificial intelligence agents going rogue fuel calls for regulation">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=utu5YACZbPE&title=AI+Is+Taking+Over+Physics+and+Nobody+Talks+About+It&lang=en&timestamp=1788276626&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=422">
+          <img src="https://ytcards.demolab.com/?id=utu5YACZbPE&title=AI+Is+Taking+Over+Physics+and+Nobody+Talks+About+It&lang=en&timestamp=1788276626&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=422" alt="AI Is Taking Over Physics and Nobody Talks About It" title="AI Is Taking Over Physics and Nobody Talks About It">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=YL3FAM4rfy8" target="_blank">
+      <a href="https://www.youtube.com/watch?v=bpHecPMLrFA" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=YL3FAM4rfy8&title=Shocking+details+of+OpenAI+models%27+Hugging+Face+hack&lang=en&timestamp=1788188886&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=341">
-          <img src="https://ytcards.demolab.com/?id=YL3FAM4rfy8&title=Shocking+details+of+OpenAI+models%27+Hugging+Face+hack&lang=en&timestamp=1788188886&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=341" alt="Shocking details of OpenAI models' Hugging Face hack" title="Shocking details of OpenAI models' Hugging Face hack">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=bpHecPMLrFA&title=Top+AI+Biotech+Stocks+Set+To+Explode+2026&lang=en&timestamp=1788273026&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=931">
+          <img src="https://ytcards.demolab.com/?id=bpHecPMLrFA&title=Top+AI+Biotech+Stocks+Set+To+Explode+2026&lang=en&timestamp=1788273026&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=931" alt="Top AI Biotech Stocks Set To Explode 2026" title="Top AI Biotech Stocks Set To Explode 2026">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=9avRZ0yCKIE" target="_blank">
+      <a href="https://www.youtube.com/watch?v=S8301cjjyTw" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=9avRZ0yCKIE&title=An+AI+Crash%3F&lang=en&timestamp=1788196086&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=573">
-          <img src="https://ytcards.demolab.com/?id=9avRZ0yCKIE&title=An+AI+Crash%3F&lang=en&timestamp=1788196086&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=573" alt="An AI Crash?" title="An AI Crash?">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=S8301cjjyTw&title=AI+costs+drop+while+demand+surges&lang=en&timestamp=1788283826&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=195">
+          <img src="https://ytcards.demolab.com/?id=S8301cjjyTw&title=AI+costs+drop+while+demand+surges&lang=en&timestamp=1788283826&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=195" alt="AI costs drop while demand surges" title="AI costs drop while demand surges">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=lJuKNE4Qjak" target="_blank">
+      <a href="https://www.youtube.com/watch?v=vbwQByTOoz8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=lJuKNE4Qjak&title=This+AI+Thing+Is+Way+Crazier+Than+You+Thought%21&lang=en&timestamp=1788192486&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=7311">
-          <img src="https://ytcards.demolab.com/?id=lJuKNE4Qjak&title=This+AI+Thing+Is+Way+Crazier+Than+You+Thought%21&lang=en&timestamp=1788192486&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=7311" alt="This AI Thing Is Way Crazier Than You Thought!" title="This AI Thing Is Way Crazier Than You Thought!">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=vbwQByTOoz8&title=Elon+Musk+Warns+Against+AI+Regulation%2C+Predicts+1+Billion+Humanoid+Robots+at+G20+Ministerial+%7C+AI1N&lang=en&timestamp=1788273026&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=755">
+          <img src="https://ytcards.demolab.com/?id=vbwQByTOoz8&title=Elon+Musk+Warns+Against+AI+Regulation%2C+Predicts+1+Billion+Humanoid+Robots+at+G20+Ministerial+%7C+AI1N&lang=en&timestamp=1788273026&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=755" alt="Elon Musk Warns Against AI Regulation, Predicts 1 Billion Humanoid Robots at G20 Ministerial | AI1N" title="Elon Musk Warns Against AI Regulation, Predicts 1 Billion Humanoid Robots at G20 Ministerial | AI1N">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=tpK7TVTOTfg" target="_blank">
+      <a href="https://www.youtube.com/watch?v=Y5bxleubfzI" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=tpK7TVTOTfg&title=AI+expert+analyzes+Bill+Gates%27+essay+on+dangers+of+artificial+intelligence&lang=en&timestamp=1788181686&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=345">
-          <img src="https://ytcards.demolab.com/?id=tpK7TVTOTfg&title=AI+expert+analyzes+Bill+Gates%27+essay+on+dangers+of+artificial+intelligence&lang=en&timestamp=1788181686&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=345" alt="AI expert analyzes Bill Gates' essay on dangers of artificial intelligence" title="AI expert analyzes Bill Gates' essay on dangers of artificial intelligence">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Y5bxleubfzI&title=Oracle+May+Cut+Thousands+More+Jobs+as+AI+Spending+Surges+%7C+Spotlight&lang=en&timestamp=1788269426&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=675">
+          <img src="https://ytcards.demolab.com/?id=Y5bxleubfzI&title=Oracle+May+Cut+Thousands+More+Jobs+as+AI+Spending+Surges+%7C+Spotlight&lang=en&timestamp=1788269426&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=675" alt="Oracle May Cut Thousands More Jobs as AI Spending Surges | Spotlight" title="Oracle May Cut Thousands More Jobs as AI Spending Surges | Spotlight">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=3AhIcqDOOOI" target="_blank">
+      <a href="https://www.youtube.com/watch?v=80nJf0lAmYw" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=3AhIcqDOOOI&title=Ed+Zitron%E2%80%99s+AI+Bubble+Warning+Goes+Mainstream+%28Tech+Bros+Panic%29&lang=en&timestamp=1788174486&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=910">
-          <img src="https://ytcards.demolab.com/?id=3AhIcqDOOOI&title=Ed+Zitron%E2%80%99s+AI+Bubble+Warning+Goes+Mainstream+%28Tech+Bros+Panic%29&lang=en&timestamp=1788174486&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=910" alt="Ed Zitron’s AI Bubble Warning Goes Mainstream (Tech Bros Panic)" title="Ed Zitron’s AI Bubble Warning Goes Mainstream (Tech Bros Panic)">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=80nJf0lAmYw&title=TCS+Just+Changed+the+Game+for+India%27s+Economy%2C+India+Economy%2C+India+AI%2C+Indian+News&lang=en&timestamp=1788316286&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=540">
+          <img src="https://ytcards.demolab.com/?id=80nJf0lAmYw&title=TCS+Just+Changed+the+Game+for+India%27s+Economy%2C+India+Economy%2C+India+AI%2C+Indian+News&lang=en&timestamp=1788316286&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=540" alt="TCS Just Changed the Game for India's Economy, India Economy, India AI, Indian News" title="TCS Just Changed the Game for India's Economy, India Economy, India AI, Indian News">
         </picture>
       </a>
     </td>
