@@ -104,56 +104,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=utu5YACZbPE" target="_blank">
+      <a href="https://www.youtube.com/watch?v=AaEJpKYcxt8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=utu5YACZbPE&title=AI+Is+Taking+Over+Physics+and+Nobody+Talks+About+It&lang=en&timestamp=1788276626&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=422">
-          <img src="https://ytcards.demolab.com/?id=utu5YACZbPE&title=AI+Is+Taking+Over+Physics+and+Nobody+Talks+About+It&lang=en&timestamp=1788276626&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=422" alt="AI Is Taking Over Physics and Nobody Talks About It" title="AI Is Taking Over Physics and Nobody Talks About It">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=AaEJpKYcxt8&title=FULL%3A+Anthropic%E2%80%99s+Tom+Brown+Discusses+AI%E2%80%99s+Explosive+Growth%2C+AGI+%26+Medical+Impact+at+G20+%7C+AI1G&lang=en&timestamp=1788363081&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1746">
+          <img src="https://ytcards.demolab.com/?id=AaEJpKYcxt8&title=FULL%3A+Anthropic%E2%80%99s+Tom+Brown+Discusses+AI%E2%80%99s+Explosive+Growth%2C+AGI+%26+Medical+Impact+at+G20+%7C+AI1G&lang=en&timestamp=1788363081&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1746" alt="FULL: Anthropic’s Tom Brown Discusses AI’s Explosive Growth, AGI & Medical Impact at G20 | AI1G" title="FULL: Anthropic’s Tom Brown Discusses AI’s Explosive Growth, AGI & Medical Impact at G20 | AI1G">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=bpHecPMLrFA" target="_blank">
+      <a href="https://www.youtube.com/watch?v=eD5g6rLb3Hc" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=bpHecPMLrFA&title=Top+AI+Biotech+Stocks+Set+To+Explode+2026&lang=en&timestamp=1788273026&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=931">
-          <img src="https://ytcards.demolab.com/?id=bpHecPMLrFA&title=Top+AI+Biotech+Stocks+Set+To+Explode+2026&lang=en&timestamp=1788273026&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=931" alt="Top AI Biotech Stocks Set To Explode 2026" title="Top AI Biotech Stocks Set To Explode 2026">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=eD5g6rLb3Hc&title=%E2%80%9CYou+Have+to+Use+AI%E2%80%9D%3A+OpenAI+CEO+Altman+Urges+G20+Countries+to+Embrace+Artificial+Intelligence+%7CAI1E&lang=en&timestamp=1788370281&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1245">
+          <img src="https://ytcards.demolab.com/?id=eD5g6rLb3Hc&title=%E2%80%9CYou+Have+to+Use+AI%E2%80%9D%3A+OpenAI+CEO+Altman+Urges+G20+Countries+to+Embrace+Artificial+Intelligence+%7CAI1E&lang=en&timestamp=1788370281&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1245" alt="“You Have to Use AI”: OpenAI CEO Altman Urges G20 Countries to Embrace Artificial Intelligence |AI1E" title="“You Have to Use AI”: OpenAI CEO Altman Urges G20 Countries to Embrace Artificial Intelligence |AI1E">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=S8301cjjyTw" target="_blank">
+      <a href="https://www.youtube.com/watch?v=IDy2SxjMOFM" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=S8301cjjyTw&title=AI+costs+drop+while+demand+surges&lang=en&timestamp=1788283826&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=195">
-          <img src="https://ytcards.demolab.com/?id=S8301cjjyTw&title=AI+costs+drop+while+demand+surges&lang=en&timestamp=1788283826&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=195" alt="AI costs drop while demand surges" title="AI costs drop while demand surges">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=IDy2SxjMOFM&title=FULL+INTERVIEW%3A+Nvidia+CEO+Huang+Says+World+Is+%E2%80%9CPractically%E2%80%9D+Already+at+AGI+During+G20+Talk+%7C+AI1G&lang=en&timestamp=1788359481&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2039">
+          <img src="https://ytcards.demolab.com/?id=IDy2SxjMOFM&title=FULL+INTERVIEW%3A+Nvidia+CEO+Huang+Says+World+Is+%E2%80%9CPractically%E2%80%9D+Already+at+AGI+During+G20+Talk+%7C+AI1G&lang=en&timestamp=1788359481&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2039" alt="FULL INTERVIEW: Nvidia CEO Huang Says World Is “Practically” Already at AGI During G20 Talk | AI1G" title="FULL INTERVIEW: Nvidia CEO Huang Says World Is “Practically” Already at AGI During G20 Talk | AI1G">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=vbwQByTOoz8" target="_blank">
+      <a href="https://www.youtube.com/watch?v=vS5bLsHEE3g" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=vbwQByTOoz8&title=Elon+Musk+Warns+Against+AI+Regulation%2C+Predicts+1+Billion+Humanoid+Robots+at+G20+Ministerial+%7C+AI1N&lang=en&timestamp=1788273026&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=755">
-          <img src="https://ytcards.demolab.com/?id=vbwQByTOoz8&title=Elon+Musk+Warns+Against+AI+Regulation%2C+Predicts+1+Billion+Humanoid+Robots+at+G20+Ministerial+%7C+AI1N&lang=en&timestamp=1788273026&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=755" alt="Elon Musk Warns Against AI Regulation, Predicts 1 Billion Humanoid Robots at G20 Ministerial | AI1N" title="Elon Musk Warns Against AI Regulation, Predicts 1 Billion Humanoid Robots at G20 Ministerial | AI1N">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=vS5bLsHEE3g&title=Beyond+Fear%3A+A+Catholic+Vision+for+Artificial+Intelligence+EWTN+News+Special&lang=en&timestamp=1788391881&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=31">
+          <img src="https://ytcards.demolab.com/?id=vS5bLsHEE3g&title=Beyond+Fear%3A+A+Catholic+Vision+for+Artificial+Intelligence+EWTN+News+Special&lang=en&timestamp=1788391881&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=31" alt="Beyond Fear: A Catholic Vision for Artificial Intelligence EWTN News Special" title="Beyond Fear: A Catholic Vision for Artificial Intelligence EWTN News Special">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=Y5bxleubfzI" target="_blank">
+      <a href="https://www.youtube.com/watch?v=dnSpKF5pWNQ" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Y5bxleubfzI&title=Oracle+May+Cut+Thousands+More+Jobs+as+AI+Spending+Surges+%7C+Spotlight&lang=en&timestamp=1788269426&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=675">
-          <img src="https://ytcards.demolab.com/?id=Y5bxleubfzI&title=Oracle+May+Cut+Thousands+More+Jobs+as+AI+Spending+Surges+%7C+Spotlight&lang=en&timestamp=1788269426&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=675" alt="Oracle May Cut Thousands More Jobs as AI Spending Surges | Spotlight" title="Oracle May Cut Thousands More Jobs as AI Spending Surges | Spotlight">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=dnSpKF5pWNQ&title=How+Close+Are+We+to+True+Artificial+General+Intelligence%3F+%7C+OpenAI%E2%80%99s+Greg+Brockman+Speaks+to+TIME&lang=en&timestamp=1788366681&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3278">
+          <img src="https://ytcards.demolab.com/?id=dnSpKF5pWNQ&title=How+Close+Are+We+to+True+Artificial+General+Intelligence%3F+%7C+OpenAI%E2%80%99s+Greg+Brockman+Speaks+to+TIME&lang=en&timestamp=1788366681&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3278" alt="How Close Are We to True Artificial General Intelligence? | OpenAI’s Greg Brockman Speaks to TIME" title="How Close Are We to True Artificial General Intelligence? | OpenAI’s Greg Brockman Speaks to TIME">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=80nJf0lAmYw" target="_blank">
+      <a href="https://www.youtube.com/watch?v=_VE7LHqmaB0" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=80nJf0lAmYw&title=TCS+Just+Changed+the+Game+for+India%27s+Economy%2C+India+Economy%2C+India+AI%2C+Indian+News&lang=en&timestamp=1788316286&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=540">
-          <img src="https://ytcards.demolab.com/?id=80nJf0lAmYw&title=TCS+Just+Changed+the+Game+for+India%27s+Economy%2C+India+Economy%2C+India+AI%2C+Indian+News&lang=en&timestamp=1788316286&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=540" alt="TCS Just Changed the Game for India's Economy, India Economy, India AI, Indian News" title="TCS Just Changed the Game for India's Economy, India Economy, India AI, Indian News">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=_VE7LHqmaB0&title=Cloudflare+CEO%3A+We%27re+Ready+To+Block+Millions+of+Websites+From+AI+%E2%80%94+With+Matthew+Prince&lang=en&timestamp=1788366681&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3067">
+          <img src="https://ytcards.demolab.com/?id=_VE7LHqmaB0&title=Cloudflare+CEO%3A+We%27re+Ready+To+Block+Millions+of+Websites+From+AI+%E2%80%94+With+Matthew+Prince&lang=en&timestamp=1788366681&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3067" alt="Cloudflare CEO: We're Ready To Block Millions of Websites From AI — With Matthew Prince" title="Cloudflare CEO: We're Ready To Block Millions of Websites From AI — With Matthew Prince">
         </picture>
       </a>
     </td>
