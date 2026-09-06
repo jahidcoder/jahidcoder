@@ -105,56 +105,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=AaEJpKYcxt8" target="_blank">
+      <a href="https://www.youtube.com/watch?v=M03GQp4Z21M" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=AaEJpKYcxt8&title=FULL%3A+Anthropic%E2%80%99s+Tom+Brown+Discusses+AI%E2%80%99s+Explosive+Growth%2C+AGI+%26+Medical+Impact+at+G20+%7C+AI1G&lang=en&timestamp=1788363081&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1746">
-          <img src="https://ytcards.demolab.com/?id=AaEJpKYcxt8&title=FULL%3A+Anthropic%E2%80%99s+Tom+Brown+Discusses+AI%E2%80%99s+Explosive+Growth%2C+AGI+%26+Medical+Impact+at+G20+%7C+AI1G&lang=en&timestamp=1788363081&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1746" alt="FULL: Anthropic’s Tom Brown Discusses AI’s Explosive Growth, AGI & Medical Impact at G20 | AI1G" title="FULL: Anthropic’s Tom Brown Discusses AI’s Explosive Growth, AGI & Medical Impact at G20 | AI1G">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=M03GQp4Z21M&title=Trump+Knows+What%E2%80%99s+at+Stake%2C+Accepts+Defeat+After+Seeing+Shock+Options+to+Block+China%27s+AI+Leap%3F&lang=en&timestamp=1788622318&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=522">
+          <img src="https://ytcards.demolab.com/?id=M03GQp4Z21M&title=Trump+Knows+What%E2%80%99s+at+Stake%2C+Accepts+Defeat+After+Seeing+Shock+Options+to+Block+China%27s+AI+Leap%3F&lang=en&timestamp=1788622318&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=522" alt="Trump Knows What’s at Stake, Accepts Defeat After Seeing Shock Options to Block China's AI Leap?" title="Trump Knows What’s at Stake, Accepts Defeat After Seeing Shock Options to Block China's AI Leap?">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=eD5g6rLb3Hc" target="_blank">
+      <a href="https://www.youtube.com/watch?v=fDCM0_uhk7E" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=eD5g6rLb3Hc&title=%E2%80%9CYou+Have+to+Use+AI%E2%80%9D%3A+OpenAI+CEO+Altman+Urges+G20+Countries+to+Embrace+Artificial+Intelligence+%7CAI1E&lang=en&timestamp=1788370281&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1245">
-          <img src="https://ytcards.demolab.com/?id=eD5g6rLb3Hc&title=%E2%80%9CYou+Have+to+Use+AI%E2%80%9D%3A+OpenAI+CEO+Altman+Urges+G20+Countries+to+Embrace+Artificial+Intelligence+%7CAI1E&lang=en&timestamp=1788370281&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1245" alt="“You Have to Use AI”: OpenAI CEO Altman Urges G20 Countries to Embrace Artificial Intelligence |AI1E" title="“You Have to Use AI”: OpenAI CEO Altman Urges G20 Countries to Embrace Artificial Intelligence |AI1E">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=fDCM0_uhk7E&title=THE+AI+BAN%3A+WHAT+WORLD+ARE+WE+PREPARING+KIDS+FOR%3F&lang=en&timestamp=1788579118&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2515">
+          <img src="https://ytcards.demolab.com/?id=fDCM0_uhk7E&title=THE+AI+BAN%3A+WHAT+WORLD+ARE+WE+PREPARING+KIDS+FOR%3F&lang=en&timestamp=1788579118&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2515" alt="THE AI BAN: WHAT WORLD ARE WE PREPARING KIDS FOR?" title="THE AI BAN: WHAT WORLD ARE WE PREPARING KIDS FOR?">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=IDy2SxjMOFM" target="_blank">
+      <a href="https://www.youtube.com/watch?v=4WM5m2bXJ6A" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=IDy2SxjMOFM&title=FULL+INTERVIEW%3A+Nvidia+CEO+Huang+Says+World+Is+%E2%80%9CPractically%E2%80%9D+Already+at+AGI+During+G20+Talk+%7C+AI1G&lang=en&timestamp=1788359481&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2039">
-          <img src="https://ytcards.demolab.com/?id=IDy2SxjMOFM&title=FULL+INTERVIEW%3A+Nvidia+CEO+Huang+Says+World+Is+%E2%80%9CPractically%E2%80%9D+Already+at+AGI+During+G20+Talk+%7C+AI1G&lang=en&timestamp=1788359481&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2039" alt="FULL INTERVIEW: Nvidia CEO Huang Says World Is “Practically” Already at AGI During G20 Talk | AI1G" title="FULL INTERVIEW: Nvidia CEO Huang Says World Is “Practically” Already at AGI During G20 Talk | AI1G">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=4WM5m2bXJ6A&title=Howard+Lutnick+BUSTS+Himself&lang=en&timestamp=1788625918&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=289">
+          <img src="https://ytcards.demolab.com/?id=4WM5m2bXJ6A&title=Howard+Lutnick+BUSTS+Himself&lang=en&timestamp=1788625918&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=289" alt="Howard Lutnick BUSTS Himself" title="Howard Lutnick BUSTS Himself">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=vS5bLsHEE3g" target="_blank">
+      <a href="https://www.youtube.com/watch?v=iEe2Ufk5DnA" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=vS5bLsHEE3g&title=Beyond+Fear%3A+A+Catholic+Vision+for+Artificial+Intelligence+EWTN+News+Special&lang=en&timestamp=1788391881&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=31">
-          <img src="https://ytcards.demolab.com/?id=vS5bLsHEE3g&title=Beyond+Fear%3A+A+Catholic+Vision+for+Artificial+Intelligence+EWTN+News+Special&lang=en&timestamp=1788391881&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=31" alt="Beyond Fear: A Catholic Vision for Artificial Intelligence EWTN News Special" title="Beyond Fear: A Catholic Vision for Artificial Intelligence EWTN News Special">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=iEe2Ufk5DnA&title=Why+opposition+to+AI+data+centers+is+growing+in+the+US+%7C+DW+Reporter&lang=en&timestamp=1788607918&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=907">
+          <img src="https://ytcards.demolab.com/?id=iEe2Ufk5DnA&title=Why+opposition+to+AI+data+centers+is+growing+in+the+US+%7C+DW+Reporter&lang=en&timestamp=1788607918&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=907" alt="Why opposition to AI data centers is growing in the US | DW Reporter" title="Why opposition to AI data centers is growing in the US | DW Reporter">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=dnSpKF5pWNQ" target="_blank">
+      <a href="https://www.youtube.com/watch?v=2Y8WskA3UNc" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=dnSpKF5pWNQ&title=How+Close+Are+We+to+True+Artificial+General+Intelligence%3F+%7C+OpenAI%E2%80%99s+Greg+Brockman+Speaks+to+TIME&lang=en&timestamp=1788366681&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3278">
-          <img src="https://ytcards.demolab.com/?id=dnSpKF5pWNQ&title=How+Close+Are+We+to+True+Artificial+General+Intelligence%3F+%7C+OpenAI%E2%80%99s+Greg+Brockman+Speaks+to+TIME&lang=en&timestamp=1788366681&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3278" alt="How Close Are We to True Artificial General Intelligence? | OpenAI’s Greg Brockman Speaks to TIME" title="How Close Are We to True Artificial General Intelligence? | OpenAI’s Greg Brockman Speaks to TIME">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=2Y8WskA3UNc&title=AI+%26+The+Human+Brain%3A+Are+We+Losing+Our+Intelligence%3F+%7C+Dr+Sweta+Adatia&lang=en&timestamp=1788615118&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=894">
+          <img src="https://ytcards.demolab.com/?id=2Y8WskA3UNc&title=AI+%26+The+Human+Brain%3A+Are+We+Losing+Our+Intelligence%3F+%7C+Dr+Sweta+Adatia&lang=en&timestamp=1788615118&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=894" alt="AI & The Human Brain: Are We Losing Our Intelligence? | Dr Sweta Adatia" title="AI & The Human Brain: Are We Losing Our Intelligence? | Dr Sweta Adatia">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=_VE7LHqmaB0" target="_blank">
+      <a href="https://www.youtube.com/watch?v=Xosdn-bA1XU" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=_VE7LHqmaB0&title=Cloudflare+CEO%3A+We%27re+Ready+To+Block+Millions+of+Websites+From+AI+%E2%80%94+With+Matthew+Prince&lang=en&timestamp=1788366681&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3067">
-          <img src="https://ytcards.demolab.com/?id=_VE7LHqmaB0&title=Cloudflare+CEO%3A+We%27re+Ready+To+Block+Millions+of+Websites+From+AI+%E2%80%94+With+Matthew+Prince&lang=en&timestamp=1788366681&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3067" alt="Cloudflare CEO: We're Ready To Block Millions of Websites From AI — With Matthew Prince" title="Cloudflare CEO: We're Ready To Block Millions of Websites From AI — With Matthew Prince">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Xosdn-bA1XU&title=What+AI+Is+Doing+to+Books+Will+Surprise+You%21%21+%F0%9F%98%B2%F0%9F%93%9A%F0%9F%A4%96+%7C+Soban+Attari+%7C+Future+of+Artificial+Intelligence&lang=en&timestamp=1788604318&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=991">
+          <img src="https://ytcards.demolab.com/?id=Xosdn-bA1XU&title=What+AI+Is+Doing+to+Books+Will+Surprise+You%21%21+%F0%9F%98%B2%F0%9F%93%9A%F0%9F%A4%96+%7C+Soban+Attari+%7C+Future+of+Artificial+Intelligence&lang=en&timestamp=1788604318&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=991" alt="What AI Is Doing to Books Will Surprise You!! 😲📚🤖 | Soban Attari | Future of Artificial Intelligence" title="What AI Is Doing to Books Will Surprise You!! 😲📚🤖 | Soban Attari | Future of Artificial Intelligence">
         </picture>
       </a>
     </td>
