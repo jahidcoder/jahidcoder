@@ -108,56 +108,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=lHN9CwN1qcE" target="_blank">
+      <a href="https://www.youtube.com/watch?v=E2eHvDp4nyI" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=lHN9CwN1qcE&title=Anthropic+researcher+quits%2C+says+AI+could+%27kill+us+all%27&lang=en&timestamp=1788986374&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=77">
-          <img src="https://ytcards.demolab.com/?id=lHN9CwN1qcE&title=Anthropic+researcher+quits%2C+says+AI+could+%27kill+us+all%27&lang=en&timestamp=1788986374&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=77" alt="Anthropic researcher quits, says AI could 'kill us all'" title="Anthropic researcher quits, says AI could 'kill us all'">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=E2eHvDp4nyI&title=AI+could+be+used+to+create+bioweapons%2C+tech+researchers+warn.+A+doctor+reacts.&lang=en&timestamp=1789137708&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=124">
+          <img src="https://ytcards.demolab.com/?id=E2eHvDp4nyI&title=AI+could+be+used+to+create+bioweapons%2C+tech+researchers+warn.+A+doctor+reacts.&lang=en&timestamp=1789137708&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=124" alt="AI could be used to create bioweapons, tech researchers warn. A doctor reacts." title="AI could be used to create bioweapons, tech researchers warn. A doctor reacts.">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=y-1Euhv7hSs" target="_blank">
+      <a href="https://www.youtube.com/watch?v=JQHiJz8YqmI" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=y-1Euhv7hSs&title=AI+researcher+quits+job+and+issues+warning+about+the+technology&lang=en&timestamp=1788971974&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=122">
-          <img src="https://ytcards.demolab.com/?id=y-1Euhv7hSs&title=AI+researcher+quits+job+and+issues+warning+about+the+technology&lang=en&timestamp=1788971974&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=122" alt="AI researcher quits job and issues warning about the technology" title="AI researcher quits job and issues warning about the technology">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=JQHiJz8YqmI&title=AI+Could+Kill+Humanity+by+2030%3F+The+People+Building+AI+Are+Now+Warning+the+World%3F&lang=en&timestamp=1789130508&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=499">
+          <img src="https://ytcards.demolab.com/?id=JQHiJz8YqmI&title=AI+Could+Kill+Humanity+by+2030%3F+The+People+Building+AI+Are+Now+Warning+the+World%3F&lang=en&timestamp=1789130508&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=499" alt="AI Could Kill Humanity by 2030? The People Building AI Are Now Warning the World?" title="AI Could Kill Humanity by 2030? The People Building AI Are Now Warning the World?">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=gN2FULNSWBw" target="_blank">
+      <a href="https://www.youtube.com/watch?v=PepwZ1bUhAU" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=gN2FULNSWBw&title=Computer+Scientist+Exposes+OpenAI%27s+Real+Financial+Crisis+-+Dr.+Cal+Newport&lang=en&timestamp=1788950374&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=9509">
-          <img src="https://ytcards.demolab.com/?id=gN2FULNSWBw&title=Computer+Scientist+Exposes+OpenAI%27s+Real+Financial+Crisis+-+Dr.+Cal+Newport&lang=en&timestamp=1788950374&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=9509" alt="Computer Scientist Exposes OpenAI's Real Financial Crisis - Dr. Cal Newport" title="Computer Scientist Exposes OpenAI's Real Financial Crisis - Dr. Cal Newport">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=PepwZ1bUhAU&title=The+biggest+real-world+risks+of+AI+as+researchers+warn+about+rapid+growth&lang=en&timestamp=1789152108&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=399">
+          <img src="https://ytcards.demolab.com/?id=PepwZ1bUhAU&title=The+biggest+real-world+risks+of+AI+as+researchers+warn+about+rapid+growth&lang=en&timestamp=1789152108&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=399" alt="The biggest real-world risks of AI as researchers warn about rapid growth" title="The biggest real-world risks of AI as researchers warn about rapid growth">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=O_EWbnkjXdk" target="_blank">
+      <a href="https://www.youtube.com/watch?v=etkKceMRaDA" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=O_EWbnkjXdk&title=How+AI+is+transforming+weather+prediction&lang=en&timestamp=1788971974&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2665">
-          <img src="https://ytcards.demolab.com/?id=O_EWbnkjXdk&title=How+AI+is+transforming+weather+prediction&lang=en&timestamp=1788971974&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2665" alt="How AI is transforming weather prediction" title="How AI is transforming weather prediction">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=etkKceMRaDA&title=Elon+Musk%3A+We%27re+%27Summoning+the+Demon%27+with+Artificial+Intelligence&lang=en&timestamp=1789166508&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=402">
+          <img src="https://ytcards.demolab.com/?id=etkKceMRaDA&title=Elon+Musk%3A+We%27re+%27Summoning+the+Demon%27+with+Artificial+Intelligence&lang=en&timestamp=1789166508&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=402" alt="Elon Musk: We're 'Summoning the Demon' with Artificial Intelligence" title="Elon Musk: We're 'Summoning the Demon' with Artificial Intelligence">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=xaz6ynSzE0A" target="_blank">
+      <a href="https://www.youtube.com/watch?v=IJE8y7AIO0M" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=xaz6ynSzE0A&title=Anthropic+developer+quits%2C+cites+AI%27s+existential+threat+to+humankind&lang=en&timestamp=1789007974&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=297">
-          <img src="https://ytcards.demolab.com/?id=xaz6ynSzE0A&title=Anthropic+developer+quits%2C+cites+AI%27s+existential+threat+to+humankind&lang=en&timestamp=1789007974&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=297" alt="Anthropic developer quits, cites AI's existential threat to humankind" title="Anthropic developer quits, cites AI's existential threat to humankind">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=IJE8y7AIO0M&title=Why+Are+AI+Experts+So+Convinced+We%E2%80%99re+All+Going+To+Die%3F&lang=en&timestamp=1789134108&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=644">
+          <img src="https://ytcards.demolab.com/?id=IJE8y7AIO0M&title=Why+Are+AI+Experts+So+Convinced+We%E2%80%99re+All+Going+To+Die%3F&lang=en&timestamp=1789134108&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=644" alt="Why Are AI Experts So Convinced We’re All Going To Die?" title="Why Are AI Experts So Convinced We’re All Going To Die?">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=rInKzctfZkg" target="_blank">
+      <a href="https://www.youtube.com/watch?v=tKQBcdRw21s" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=rInKzctfZkg&title=Anthropic+researcher+quits%2C+warns+AI+%22could+kill+all+of+us+by+the+end+of+the+decade%22&lang=en&timestamp=1788989974&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=325">
-          <img src="https://ytcards.demolab.com/?id=rInKzctfZkg&title=Anthropic+researcher+quits%2C+warns+AI+%22could+kill+all+of+us+by+the+end+of+the+decade%22&lang=en&timestamp=1788989974&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=325" alt="Anthropic researcher quits, warns AI &quot;could kill all of us by the end of the decade&quot;" title="Anthropic researcher quits, warns AI &quot;could kill all of us by the end of the decade&quot;">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=tKQBcdRw21s&title=Anthropic+researcher+quits+as+fears+of+AI-driven+human+extinction+grow+%7C+DW+News&lang=en&timestamp=1789180908&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=567">
+          <img src="https://ytcards.demolab.com/?id=tKQBcdRw21s&title=Anthropic+researcher+quits+as+fears+of+AI-driven+human+extinction+grow+%7C+DW+News&lang=en&timestamp=1789180908&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=567" alt="Anthropic researcher quits as fears of AI-driven human extinction grow | DW News" title="Anthropic researcher quits as fears of AI-driven human extinction grow | DW News">
         </picture>
       </a>
     </td>
