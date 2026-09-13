@@ -109,56 +109,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=E2eHvDp4nyI" target="_blank">
+      <a href="https://www.youtube.com/watch?v=w6ksjerbwd4" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=E2eHvDp4nyI&title=AI+could+be+used+to+create+bioweapons%2C+tech+researchers+warn.+A+doctor+reacts.&lang=en&timestamp=1789137708&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=124">
-          <img src="https://ytcards.demolab.com/?id=E2eHvDp4nyI&title=AI+could+be+used+to+create+bioweapons%2C+tech+researchers+warn.+A+doctor+reacts.&lang=en&timestamp=1789137708&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=124" alt="AI could be used to create bioweapons, tech researchers warn. A doctor reacts." title="AI could be used to create bioweapons, tech researchers warn. A doctor reacts.">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=w6ksjerbwd4&title=New+AI+warnings+cast+shadow+over+Anthropic%27s+expansion+in+Mass.&lang=en&timestamp=1789228163&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=172">
+          <img src="https://ytcards.demolab.com/?id=w6ksjerbwd4&title=New+AI+warnings+cast+shadow+over+Anthropic%27s+expansion+in+Mass.&lang=en&timestamp=1789228163&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=172" alt="New AI warnings cast shadow over Anthropic's expansion in Mass." title="New AI warnings cast shadow over Anthropic's expansion in Mass.">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=JQHiJz8YqmI" target="_blank">
+      <a href="https://www.youtube.com/watch?v=vPXCm74-nNY" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=JQHiJz8YqmI&title=AI+Could+Kill+Humanity+by+2030%3F+The+People+Building+AI+Are+Now+Warning+the+World%3F&lang=en&timestamp=1789130508&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=499">
-          <img src="https://ytcards.demolab.com/?id=JQHiJz8YqmI&title=AI+Could+Kill+Humanity+by+2030%3F+The+People+Building+AI+Are+Now+Warning+the+World%3F&lang=en&timestamp=1789130508&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=499" alt="AI Could Kill Humanity by 2030? The People Building AI Are Now Warning the World?" title="AI Could Kill Humanity by 2030? The People Building AI Are Now Warning the World?">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=vPXCm74-nNY&title=Why+artificial+intelligence+is+overhyped+%7C+Simon+Baron-Cohen&lang=en&timestamp=1789228163&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1436">
+          <img src="https://ytcards.demolab.com/?id=vPXCm74-nNY&title=Why+artificial+intelligence+is+overhyped+%7C+Simon+Baron-Cohen&lang=en&timestamp=1789228163&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1436" alt="Why artificial intelligence is overhyped | Simon Baron-Cohen" title="Why artificial intelligence is overhyped | Simon Baron-Cohen">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=PepwZ1bUhAU" target="_blank">
+      <a href="https://www.youtube.com/watch?v=CRhPapC4bss" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=PepwZ1bUhAU&title=The+biggest+real-world+risks+of+AI+as+researchers+warn+about+rapid+growth&lang=en&timestamp=1789152108&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=399">
-          <img src="https://ytcards.demolab.com/?id=PepwZ1bUhAU&title=The+biggest+real-world+risks+of+AI+as+researchers+warn+about+rapid+growth&lang=en&timestamp=1789152108&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=399" alt="The biggest real-world risks of AI as researchers warn about rapid growth" title="The biggest real-world risks of AI as researchers warn about rapid growth">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=CRhPapC4bss&title=AI+Experts+Warn+It+Could+Kill+Us.+Here%E2%80%99s+How.&lang=en&timestamp=1789220963&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=958">
+          <img src="https://ytcards.demolab.com/?id=CRhPapC4bss&title=AI+Experts+Warn+It+Could+Kill+Us.+Here%E2%80%99s+How.&lang=en&timestamp=1789220963&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=958" alt="AI Experts Warn It Could Kill Us. Here’s How." title="AI Experts Warn It Could Kill Us. Here’s How.">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=etkKceMRaDA" target="_blank">
+      <a href="https://www.youtube.com/watch?v=k7XlZkqgr7M" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=etkKceMRaDA&title=Elon+Musk%3A+We%27re+%27Summoning+the+Demon%27+with+Artificial+Intelligence&lang=en&timestamp=1789166508&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=402">
-          <img src="https://ytcards.demolab.com/?id=etkKceMRaDA&title=Elon+Musk%3A+We%27re+%27Summoning+the+Demon%27+with+Artificial+Intelligence&lang=en&timestamp=1789166508&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=402" alt="Elon Musk: We're 'Summoning the Demon' with Artificial Intelligence" title="Elon Musk: We're 'Summoning the Demon' with Artificial Intelligence">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=k7XlZkqgr7M&title=BREAKING+NEWS%3A+Anthropic+CEO+Issues+Public+Message+To+AI+Competitors+Following+Jacob+Coxon%27s+Warning&lang=en&timestamp=1789228163&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=60">
+          <img src="https://ytcards.demolab.com/?id=k7XlZkqgr7M&title=BREAKING+NEWS%3A+Anthropic+CEO+Issues+Public+Message+To+AI+Competitors+Following+Jacob+Coxon%27s+Warning&lang=en&timestamp=1789228163&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=60" alt="BREAKING NEWS: Anthropic CEO Issues Public Message To AI Competitors Following Jacob Coxon's Warning" title="BREAKING NEWS: Anthropic CEO Issues Public Message To AI Competitors Following Jacob Coxon's Warning">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=IJE8y7AIO0M" target="_blank">
+      <a href="https://www.youtube.com/watch?v=XrL-e_svXA4" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=IJE8y7AIO0M&title=Why+Are+AI+Experts+So+Convinced+We%E2%80%99re+All+Going+To+Die%3F&lang=en&timestamp=1789134108&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=644">
-          <img src="https://ytcards.demolab.com/?id=IJE8y7AIO0M&title=Why+Are+AI+Experts+So+Convinced+We%E2%80%99re+All+Going+To+Die%3F&lang=en&timestamp=1789134108&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=644" alt="Why Are AI Experts So Convinced We’re All Going To Die?" title="Why Are AI Experts So Convinced We’re All Going To Die?">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=XrL-e_svXA4&title=A+10%25+chance+AI+ends+us&lang=en&timestamp=1789231763&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=201">
+          <img src="https://ytcards.demolab.com/?id=XrL-e_svXA4&title=A+10%25+chance+AI+ends+us&lang=en&timestamp=1789231763&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=201" alt="A 10% chance AI ends us" title="A 10% chance AI ends us">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=tKQBcdRw21s" target="_blank">
+      <a href="https://www.youtube.com/watch?v=tsfVq6MU9Zo" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=tKQBcdRw21s&title=Anthropic+researcher+quits+as+fears+of+AI-driven+human+extinction+grow+%7C+DW+News&lang=en&timestamp=1789180908&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=567">
-          <img src="https://ytcards.demolab.com/?id=tKQBcdRw21s&title=Anthropic+researcher+quits+as+fears+of+AI-driven+human+extinction+grow+%7C+DW+News&lang=en&timestamp=1789180908&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=567" alt="Anthropic researcher quits as fears of AI-driven human extinction grow | DW News" title="Anthropic researcher quits as fears of AI-driven human extinction grow | DW News">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=tsfVq6MU9Zo&title=Victor+Davis+Hanson%3A+The+Terrifying+Power+of+Artificial+Intelligence&lang=en&timestamp=1789210163&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5135">
+          <img src="https://ytcards.demolab.com/?id=tsfVq6MU9Zo&title=Victor+Davis+Hanson%3A+The+Terrifying+Power+of+Artificial+Intelligence&lang=en&timestamp=1789210163&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=5135" alt="Victor Davis Hanson: The Terrifying Power of Artificial Intelligence" title="Victor Davis Hanson: The Terrifying Power of Artificial Intelligence">
         </picture>
       </a>
     </td>
