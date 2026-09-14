@@ -110,56 +110,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=w6ksjerbwd4" target="_blank">
+      <a href="https://www.youtube.com/watch?v=7-4PXTdhPjw" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=w6ksjerbwd4&title=New+AI+warnings+cast+shadow+over+Anthropic%27s+expansion+in+Mass.&lang=en&timestamp=1789228163&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=172">
-          <img src="https://ytcards.demolab.com/?id=w6ksjerbwd4&title=New+AI+warnings+cast+shadow+over+Anthropic%27s+expansion+in+Mass.&lang=en&timestamp=1789228163&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=172" alt="New AI warnings cast shadow over Anthropic's expansion in Mass." title="New AI warnings cast shadow over Anthropic's expansion in Mass.">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=7-4PXTdhPjw&title=Calls+grow+to+slow+down+artificial+intelligence+development&lang=en&timestamp=1789354656&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=124">
+          <img src="https://ytcards.demolab.com/?id=7-4PXTdhPjw&title=Calls+grow+to+slow+down+artificial+intelligence+development&lang=en&timestamp=1789354656&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=124" alt="Calls grow to slow down artificial intelligence development" title="Calls grow to slow down artificial intelligence development">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=vPXCm74-nNY" target="_blank">
+      <a href="https://www.youtube.com/watch?v=GZAlYS8jyTU" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=vPXCm74-nNY&title=Why+artificial+intelligence+is+overhyped+%7C+Simon+Baron-Cohen&lang=en&timestamp=1789228163&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1436">
-          <img src="https://ytcards.demolab.com/?id=vPXCm74-nNY&title=Why+artificial+intelligence+is+overhyped+%7C+Simon+Baron-Cohen&lang=en&timestamp=1789228163&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1436" alt="Why artificial intelligence is overhyped | Simon Baron-Cohen" title="Why artificial intelligence is overhyped | Simon Baron-Cohen">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=GZAlYS8jyTU&title=Anthropic+employee+warns+AI+development+pace+could+be+%27catastrophic+to+humanity%27&lang=en&timestamp=1789315056&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=533">
+          <img src="https://ytcards.demolab.com/?id=GZAlYS8jyTU&title=Anthropic+employee+warns+AI+development+pace+could+be+%27catastrophic+to+humanity%27&lang=en&timestamp=1789315056&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=533" alt="Anthropic employee warns AI development pace could be 'catastrophic to humanity'" title="Anthropic employee warns AI development pace could be 'catastrophic to humanity'">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=CRhPapC4bss" target="_blank">
+      <a href="https://www.youtube.com/watch?v=h0x7KpG4Lf0" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=CRhPapC4bss&title=AI+Experts+Warn+It+Could+Kill+Us.+Here%E2%80%99s+How.&lang=en&timestamp=1789220963&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=958">
-          <img src="https://ytcards.demolab.com/?id=CRhPapC4bss&title=AI+Experts+Warn+It+Could+Kill+Us.+Here%E2%80%99s+How.&lang=en&timestamp=1789220963&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=958" alt="AI Experts Warn It Could Kill Us. Here’s How." title="AI Experts Warn It Could Kill Us. Here’s How.">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=h0x7KpG4Lf0&title=Anthropic+CEO+Dario+Amodei%3A+%22For+too+long+the+industry+lied%22+about+AI+risks&lang=en&timestamp=1789307856&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=300">
+          <img src="https://ytcards.demolab.com/?id=h0x7KpG4Lf0&title=Anthropic+CEO+Dario+Amodei%3A+%22For+too+long+the+industry+lied%22+about+AI+risks&lang=en&timestamp=1789307856&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=300" alt="Anthropic CEO Dario Amodei: &quot;For too long the industry lied&quot; about AI risks" title="Anthropic CEO Dario Amodei: &quot;For too long the industry lied&quot; about AI risks">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=k7XlZkqgr7M" target="_blank">
+      <a href="https://www.youtube.com/watch?v=Fsmqh4t9Kls" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=k7XlZkqgr7M&title=BREAKING+NEWS%3A+Anthropic+CEO+Issues+Public+Message+To+AI+Competitors+Following+Jacob+Coxon%27s+Warning&lang=en&timestamp=1789228163&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=60">
-          <img src="https://ytcards.demolab.com/?id=k7XlZkqgr7M&title=BREAKING+NEWS%3A+Anthropic+CEO+Issues+Public+Message+To+AI+Competitors+Following+Jacob+Coxon%27s+Warning&lang=en&timestamp=1789228163&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=60" alt="BREAKING NEWS: Anthropic CEO Issues Public Message To AI Competitors Following Jacob Coxon's Warning" title="BREAKING NEWS: Anthropic CEO Issues Public Message To AI Competitors Following Jacob Coxon's Warning">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Fsmqh4t9Kls&title=AI+leaders+issue+urgent+warning+over+self-improving+models+%7C+9+News+Australia&lang=en&timestamp=1789293456&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=114">
+          <img src="https://ytcards.demolab.com/?id=Fsmqh4t9Kls&title=AI+leaders+issue+urgent+warning+over+self-improving+models+%7C+9+News+Australia&lang=en&timestamp=1789293456&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=114" alt="AI leaders issue urgent warning over self-improving models | 9 News Australia" title="AI leaders issue urgent warning over self-improving models | 9 News Australia">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=XrL-e_svXA4" target="_blank">
+      <a href="https://www.youtube.com/watch?v=eXDVmCQj1Vo" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=XrL-e_svXA4&title=A+10%25+chance+AI+ends+us&lang=en&timestamp=1789231763&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=201">
-          <img src="https://ytcards.demolab.com/?id=XrL-e_svXA4&title=A+10%25+chance+AI+ends+us&lang=en&timestamp=1789231763&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=201" alt="A 10% chance AI ends us" title="A 10% chance AI ends us">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=eXDVmCQj1Vo&title=Tech+Leaders+Call+for+Slowdown+in+the+AI+Race&lang=en&timestamp=1789304256&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=151">
+          <img src="https://ytcards.demolab.com/?id=eXDVmCQj1Vo&title=Tech+Leaders+Call+for+Slowdown+in+the+AI+Race&lang=en&timestamp=1789304256&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=151" alt="Tech Leaders Call for Slowdown in the AI Race" title="Tech Leaders Call for Slowdown in the AI Race">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=tsfVq6MU9Zo" target="_blank">
+      <a href="https://www.youtube.com/watch?v=VlQpxmtsduM" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=tsfVq6MU9Zo&title=Victor+Davis+Hanson%3A+The+Terrifying+Power+of+Artificial+Intelligence&lang=en&timestamp=1789210163&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5135">
-          <img src="https://ytcards.demolab.com/?id=tsfVq6MU9Zo&title=Victor+Davis+Hanson%3A+The+Terrifying+Power+of+Artificial+Intelligence&lang=en&timestamp=1789210163&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=5135" alt="Victor Davis Hanson: The Terrifying Power of Artificial Intelligence" title="Victor Davis Hanson: The Terrifying Power of Artificial Intelligence">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=VlQpxmtsduM&title=It%E2%80%99s+important+to+%E2%80%98keep+your+eyes+open%E2%80%99%3A+Coxon+on+AI+development&lang=en&timestamp=1789318656&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=334">
+          <img src="https://ytcards.demolab.com/?id=VlQpxmtsduM&title=It%E2%80%99s+important+to+%E2%80%98keep+your+eyes+open%E2%80%99%3A+Coxon+on+AI+development&lang=en&timestamp=1789318656&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=334" alt="It’s important to ‘keep your eyes open’: Coxon on AI development" title="It’s important to ‘keep your eyes open’: Coxon on AI development">
         </picture>
       </a>
     </td>
