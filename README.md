@@ -113,56 +113,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=USz5wwfQg8w" target="_blank">
+      <a href="https://www.youtube.com/watch?v=wDiihXDorIY" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=USz5wwfQg8w&title=China+wants+to+CONTROL+AI%3A+Expert&lang=en&timestamp=1789894599&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=281">
-          <img src="https://ytcards.demolab.com/?id=USz5wwfQg8w&title=China+wants+to+CONTROL+AI%3A+Expert&lang=en&timestamp=1789894599&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=281" alt="China wants to CONTROL AI: Expert" title="China wants to CONTROL AI: Expert">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=wDiihXDorIY&title=The+AI+Challenges+Businesses+Are+Actually+Focused+On+Right+Now&lang=en&timestamp=1790002434&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1617">
+          <img src="https://ytcards.demolab.com/?id=wDiihXDorIY&title=The+AI+Challenges+Businesses+Are+Actually+Focused+On+Right+Now&lang=en&timestamp=1790002434&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1617" alt="The AI Challenges Businesses Are Actually Focused On Right Now" title="The AI Challenges Businesses Are Actually Focused On Right Now">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=1QsWb5wDS0Y" target="_blank">
+      <a href="https://www.youtube.com/watch?v=W4HuvlDca_s" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=1QsWb5wDS0Y&title=GROWING+concerns+about+US+stockpiles+as+Taiwan+invasion+worries+linger&lang=en&timestamp=1789937799&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=464">
-          <img src="https://ytcards.demolab.com/?id=1QsWb5wDS0Y&title=GROWING+concerns+about+US+stockpiles+as+Taiwan+invasion+worries+linger&lang=en&timestamp=1789937799&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=464" alt="GROWING concerns about US stockpiles as Taiwan invasion worries linger" title="GROWING concerns about US stockpiles as Taiwan invasion worries linger">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=W4HuvlDca_s&title=Another+AI+agent+went+rogue+days+before+Trump+meets+with+Xi&lang=en&timestamp=1789995234&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=303">
+          <img src="https://ytcards.demolab.com/?id=W4HuvlDca_s&title=Another+AI+agent+went+rogue+days+before+Trump+meets+with+Xi&lang=en&timestamp=1789995234&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=303" alt="Another AI agent went rogue days before Trump meets with Xi" title="Another AI agent went rogue days before Trump meets with Xi">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=jiY4WSYtIfw" target="_blank">
+      <a href="https://www.youtube.com/watch?v=ty0nfXbeuHw" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=jiY4WSYtIfw&title=Is+AI+Evolving+Beyond+Human+Control%3F+%7C+WION+News&lang=en&timestamp=1789908999&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=189">
-          <img src="https://ytcards.demolab.com/?id=jiY4WSYtIfw&title=Is+AI+Evolving+Beyond+Human+Control%3F+%7C+WION+News&lang=en&timestamp=1789908999&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=189" alt="Is AI Evolving Beyond Human Control? | WION News" title="Is AI Evolving Beyond Human Control? | WION News">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ty0nfXbeuHw&title=Bill+Gates+announces+new+coalition+for+global+AI+access&lang=en&timestamp=1790002434&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=589">
+          <img src="https://ytcards.demolab.com/?id=ty0nfXbeuHw&title=Bill+Gates+announces+new+coalition+for+global+AI+access&lang=en&timestamp=1790002434&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=589" alt="Bill Gates announces new coalition for global AI access" title="Bill Gates announces new coalition for global AI access">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=ABEvQj1VlyQ" target="_blank">
+      <a href="https://www.youtube.com/watch?v=4S9BjeBxe1M" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ABEvQj1VlyQ&title=%E2%80%98YOUR+JOB+COULD+BE+NEXT%E2%80%A6%E2%80%99%3A+Obama%E2%80%99s+Brutal+Warning+On+Artificial+Intelligence%3B+Trump+Still+Silent&lang=en&timestamp=1789941399&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=736">
-          <img src="https://ytcards.demolab.com/?id=ABEvQj1VlyQ&title=%E2%80%98YOUR+JOB+COULD+BE+NEXT%E2%80%A6%E2%80%99%3A+Obama%E2%80%99s+Brutal+Warning+On+Artificial+Intelligence%3B+Trump+Still+Silent&lang=en&timestamp=1789941399&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=736" alt="‘YOUR JOB COULD BE NEXT…’: Obama’s Brutal Warning On Artificial Intelligence; Trump Still Silent" title="‘YOUR JOB COULD BE NEXT…’: Obama’s Brutal Warning On Artificial Intelligence; Trump Still Silent">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=4S9BjeBxe1M&title=Trump+has+%27ENORMOUS+LEVERAGE%27+over+China%3A+Gordon+Chang&lang=en&timestamp=1789995234&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=457">
+          <img src="https://ytcards.demolab.com/?id=4S9BjeBxe1M&title=Trump+has+%27ENORMOUS+LEVERAGE%27+over+China%3A+Gordon+Chang&lang=en&timestamp=1789995234&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=457" alt="Trump has 'ENORMOUS LEVERAGE' over China: Gordon Chang" title="Trump has 'ENORMOUS LEVERAGE' over China: Gordon Chang">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=wgwRWZVjo14" target="_blank">
+      <a href="https://www.youtube.com/watch?v=G4fQZwdcPPg" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=wgwRWZVjo14&title=Gov.+Wes+Moore+calls+for+bipartisan+federal+oversight+on+artificial+intelligence&lang=en&timestamp=1789960779&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=125">
-          <img src="https://ytcards.demolab.com/?id=wgwRWZVjo14&title=Gov.+Wes+Moore+calls+for+bipartisan+federal+oversight+on+artificial+intelligence&lang=en&timestamp=1789960779&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=125" alt="Gov. Wes Moore calls for bipartisan federal oversight on artificial intelligence" title="Gov. Wes Moore calls for bipartisan federal oversight on artificial intelligence">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=G4fQZwdcPPg&title=Republican%2C+Democratic+strategists+react+to+AI+becoming+an+issue+for+midterm+voters&lang=en&timestamp=1789998834&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=479">
+          <img src="https://ytcards.demolab.com/?id=G4fQZwdcPPg&title=Republican%2C+Democratic+strategists+react+to+AI+becoming+an+issue+for+midterm+voters&lang=en&timestamp=1789998834&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=479" alt="Republican, Democratic strategists react to AI becoming an issue for midterm voters" title="Republican, Democratic strategists react to AI becoming an issue for midterm voters">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=FSI-cC0v5VQ" target="_blank">
+      <a href="https://www.youtube.com/watch?v=XqITfP4JJwU" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=FSI-cC0v5VQ&title=Far-left+Dems+DOUBLE+DOWN+on+push+to+regulate+AI&lang=en&timestamp=1789916199&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=710">
-          <img src="https://ytcards.demolab.com/?id=FSI-cC0v5VQ&title=Far-left+Dems+DOUBLE+DOWN+on+push+to+regulate+AI&lang=en&timestamp=1789916199&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=710" alt="Far-left Dems DOUBLE DOWN on push to regulate AI" title="Far-left Dems DOUBLE DOWN on push to regulate AI">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=XqITfP4JJwU&title=Levin%3A+Don%27t+listen+to+the+%27DOOM-SAYERS%27&lang=en&timestamp=1789984434&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1041">
+          <img src="https://ytcards.demolab.com/?id=XqITfP4JJwU&title=Levin%3A+Don%27t+listen+to+the+%27DOOM-SAYERS%27&lang=en&timestamp=1789984434&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1041" alt="Levin: Don't listen to the 'DOOM-SAYERS'" title="Levin: Don't listen to the 'DOOM-SAYERS'">
         </picture>
       </a>
     </td>
