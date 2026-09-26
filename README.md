@@ -115,56 +115,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=WDUx29fOy1g" target="_blank">
+      <a href="https://www.youtube.com/watch?v=3zcaezFYGds" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=WDUx29fOy1g&title=AI+Expert+Reveals+The+Exploitation+Behind+AI&lang=en&timestamp=1790269175&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1843">
-          <img src="https://ytcards.demolab.com/?id=WDUx29fOy1g&title=AI+Expert+Reveals+The+Exploitation+Behind+AI&lang=en&timestamp=1790269175&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1843" alt="AI Expert Reveals The Exploitation Behind AI" title="AI Expert Reveals The Exploitation Behind AI">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=3zcaezFYGds&title=Bill+Gates+says+AI+%27powerful+enough%27+to+cause+%27a+billion+deaths%27&lang=en&timestamp=1790334292&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=79">
+          <img src="https://ytcards.demolab.com/?id=3zcaezFYGds&title=Bill+Gates+says+AI+%27powerful+enough%27+to+cause+%27a+billion+deaths%27&lang=en&timestamp=1790334292&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=79" alt="Bill Gates says AI 'powerful enough' to cause 'a billion deaths'" title="Bill Gates says AI 'powerful enough' to cause 'a billion deaths'">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=JIQoL0F_rb4" target="_blank">
+      <a href="https://www.youtube.com/watch?v=ZmbTKdjsKIk" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=JIQoL0F_rb4&title=Should+U.N.+Help+Set+Global+AI+Rules%3F+AI+Tech+Billionaires+Address+Security+Council&lang=en&timestamp=1790261975&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=998">
-          <img src="https://ytcards.demolab.com/?id=JIQoL0F_rb4&title=Should+U.N.+Help+Set+Global+AI+Rules%3F+AI+Tech+Billionaires+Address+Security+Council&lang=en&timestamp=1790261975&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=998" alt="Should U.N. Help Set Global AI Rules? AI Tech Billionaires Address Security Council" title="Should U.N. Help Set Global AI Rules? AI Tech Billionaires Address Security Council">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ZmbTKdjsKIk&title=Software+developer+says+there%27s+a+%22dangerous+gap+opening+up%22+between+AI+power+and+alignment&lang=en&timestamp=1790377492&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=333">
+          <img src="https://ytcards.demolab.com/?id=ZmbTKdjsKIk&title=Software+developer+says+there%27s+a+%22dangerous+gap+opening+up%22+between+AI+power+and+alignment&lang=en&timestamp=1790377492&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=333" alt="Software developer says there's a &quot;dangerous gap opening up&quot; between AI power and alignment" title="Software developer says there's a &quot;dangerous gap opening up&quot; between AI power and alignment">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=5iKDNyDHL4o" target="_blank">
+      <a href="https://www.youtube.com/watch?v=dO6wytBx7dQ" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=5iKDNyDHL4o&title=Trump-Xi+summit+dismisses+calls+for+global+oversight+%E2%80%A2+FRANCE+24+English&lang=en&timestamp=1790279975&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2670">
-          <img src="https://ytcards.demolab.com/?id=5iKDNyDHL4o&title=Trump-Xi+summit+dismisses+calls+for+global+oversight+%E2%80%A2+FRANCE+24+English&lang=en&timestamp=1790279975&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2670" alt="Trump-Xi summit dismisses calls for global oversight • FRANCE 24 English" title="Trump-Xi summit dismisses calls for global oversight • FRANCE 24 English">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=dO6wytBx7dQ&title=Artificial+Intelligence+%7C+Why+Is+AI+Now+A+Threat+To+Global+Peace+And+Security%3F&lang=en&timestamp=1790363092&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1177">
+          <img src="https://ytcards.demolab.com/?id=dO6wytBx7dQ&title=Artificial+Intelligence+%7C+Why+Is+AI+Now+A+Threat+To+Global+Peace+And+Security%3F&lang=en&timestamp=1790363092&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1177" alt="Artificial Intelligence | Why Is AI Now A Threat To Global Peace And Security?" title="Artificial Intelligence | Why Is AI Now A Threat To Global Peace And Security?">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=IdcjplwJUQ8" target="_blank">
+      <a href="https://www.youtube.com/watch?v=ULMYG5f7ERw" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=IdcjplwJUQ8&title=What+Safeguarding+Nukes+Can+Teach+Us+About+Safeguarding+A.I.&lang=en&timestamp=1790261975&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2196">
-          <img src="https://ytcards.demolab.com/?id=IdcjplwJUQ8&title=What+Safeguarding+Nukes+Can+Teach+Us+About+Safeguarding+A.I.&lang=en&timestamp=1790261975&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2196" alt="What Safeguarding Nukes Can Teach Us About Safeguarding A.I." title="What Safeguarding Nukes Can Teach Us About Safeguarding A.I.">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ULMYG5f7ERw&title=%E0%A6%8F%E0%A6%86%E0%A6%87+%E0%A6%A6%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A7%87+%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A6%9C%E0%A7%81%E0%A6%A1%E0%A6%BC%E0%A7%87+%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE%E0%A6%B0+%E0%A6%9B%E0%A6%95+%E0%A6%B8%E0%A6%B6%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0+%E0%A6%97%E0%A7%8B%E0%A6%B7%E0%A7%8D%E0%A6%A0%E0%A7%80%E0%A6%A6%E0%A7%87%E0%A6%B0+%7C+Artificial+Intelligence+%7C+Kalbela&lang=en&timestamp=1790391892&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=213">
+          <img src="https://ytcards.demolab.com/?id=ULMYG5f7ERw&title=%E0%A6%8F%E0%A6%86%E0%A6%87+%E0%A6%A6%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A7%87+%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A6%9C%E0%A7%81%E0%A6%A1%E0%A6%BC%E0%A7%87+%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE%E0%A6%B0+%E0%A6%9B%E0%A6%95+%E0%A6%B8%E0%A6%B6%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0+%E0%A6%97%E0%A7%8B%E0%A6%B7%E0%A7%8D%E0%A6%A0%E0%A7%80%E0%A6%A6%E0%A7%87%E0%A6%B0+%7C+Artificial+Intelligence+%7C+Kalbela&lang=en&timestamp=1790391892&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=213" alt="এআই দিয়ে বিশ্বজুড়ে হামলার ছক সশস্ত্র গোষ্ঠীদের | Artificial Intelligence | Kalbela" title="এআই দিয়ে বিশ্বজুড়ে হামলার ছক সশস্ত্র গোষ্ঠীদের | Artificial Intelligence | Kalbela">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=8Qa9xhElvps" target="_blank">
+      <a href="https://www.youtube.com/watch?v=CR04QUoLX5I" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=8Qa9xhElvps&title=Trump+to+host+Xi+Jinping+at+White+House+to+discuss+AI%2C+trade+deals&lang=en&timestamp=1790254775&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=130">
-          <img src="https://ytcards.demolab.com/?id=8Qa9xhElvps&title=Trump+to+host+Xi+Jinping+at+White+House+to+discuss+AI%2C+trade+deals&lang=en&timestamp=1790254775&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=130" alt="Trump to host Xi Jinping at White House to discuss AI, trade deals" title="Trump to host Xi Jinping at White House to discuss AI, trade deals">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=CR04QUoLX5I&title=Trump-Xi+AI+Talks%3A+US-China+Leaders+Push+Cooperation+On+Artificial+Intelligence+%7C+NewsX&lang=en&timestamp=1790359492&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=106">
+          <img src="https://ytcards.demolab.com/?id=CR04QUoLX5I&title=Trump-Xi+AI+Talks%3A+US-China+Leaders+Push+Cooperation+On+Artificial+Intelligence+%7C+NewsX&lang=en&timestamp=1790359492&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=106" alt="Trump-Xi AI Talks: US-China Leaders Push Cooperation On Artificial Intelligence | NewsX" title="Trump-Xi AI Talks: US-China Leaders Push Cooperation On Artificial Intelligence | NewsX">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=QkwKn1qhTtQ" target="_blank">
+      <a href="https://www.youtube.com/watch?v=8sX9jvZnoO8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=QkwKn1qhTtQ&title=What+the+%27Godfather+of+AI%27+Thinks+Humanity+Should+Do&lang=en&timestamp=1790247575&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1870">
-          <img src="https://ytcards.demolab.com/?id=QkwKn1qhTtQ&title=What+the+%27Godfather+of+AI%27+Thinks+Humanity+Should+Do&lang=en&timestamp=1790247575&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1870" alt="What the 'Godfather of AI' Thinks Humanity Should Do" title="What the 'Godfather of AI' Thinks Humanity Should Do">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=8sX9jvZnoO8&title=Empowering+Plans%3A+P252+%E2%80%93+Artificial+Intelligence+and+the+No+Surprises+Act&lang=en&timestamp=1790352292&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=841">
+          <img src="https://ytcards.demolab.com/?id=8sX9jvZnoO8&title=Empowering+Plans%3A+P252+%E2%80%93+Artificial+Intelligence+and+the+No+Surprises+Act&lang=en&timestamp=1790352292&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=841" alt="Empowering Plans: P252 – Artificial Intelligence and the No Surprises Act" title="Empowering Plans: P252 – Artificial Intelligence and the No Surprises Act">
         </picture>
       </a>
     </td>
