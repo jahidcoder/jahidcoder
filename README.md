@@ -116,56 +116,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=3zcaezFYGds" target="_blank">
+      <a href="https://www.youtube.com/watch?v=jqnIbBEmBWM" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=3zcaezFYGds&title=Bill+Gates+says+AI+%27powerful+enough%27+to+cause+%27a+billion+deaths%27&lang=en&timestamp=1790334292&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=79">
-          <img src="https://ytcards.demolab.com/?id=3zcaezFYGds&title=Bill+Gates+says+AI+%27powerful+enough%27+to+cause+%27a+billion+deaths%27&lang=en&timestamp=1790334292&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=79" alt="Bill Gates says AI 'powerful enough' to cause 'a billion deaths'" title="Bill Gates says AI 'powerful enough' to cause 'a billion deaths'">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=jqnIbBEmBWM&title=Global+National%3A+Sept.+26%2C+2026+%7C+New+concerns+over+artificial+intelligence+as+more+agents+go+rogue&lang=en&timestamp=1790475505&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1288">
+          <img src="https://ytcards.demolab.com/?id=jqnIbBEmBWM&title=Global+National%3A+Sept.+26%2C+2026+%7C+New+concerns+over+artificial+intelligence+as+more+agents+go+rogue&lang=en&timestamp=1790475505&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1288" alt="Global National: Sept. 26, 2026 | New concerns over artificial intelligence as more agents go rogue" title="Global National: Sept. 26, 2026 | New concerns over artificial intelligence as more agents go rogue">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=ZmbTKdjsKIk" target="_blank">
+      <a href="https://www.youtube.com/watch?v=MI9gnRBM3Qo" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ZmbTKdjsKIk&title=Software+developer+says+there%27s+a+%22dangerous+gap+opening+up%22+between+AI+power+and+alignment&lang=en&timestamp=1790377492&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=333">
-          <img src="https://ytcards.demolab.com/?id=ZmbTKdjsKIk&title=Software+developer+says+there%27s+a+%22dangerous+gap+opening+up%22+between+AI+power+and+alignment&lang=en&timestamp=1790377492&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=333" alt="Software developer says there's a &quot;dangerous gap opening up&quot; between AI power and alignment" title="Software developer says there's a &quot;dangerous gap opening up&quot; between AI power and alignment">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=MI9gnRBM3Qo&title=Bill+Gates+Warns+AI+Could+Cause+Catastrophic+Harm+%7C+WION&lang=en&timestamp=1790425105&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=193">
+          <img src="https://ytcards.demolab.com/?id=MI9gnRBM3Qo&title=Bill+Gates+Warns+AI+Could+Cause+Catastrophic+Harm+%7C+WION&lang=en&timestamp=1790425105&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=193" alt="Bill Gates Warns AI Could Cause Catastrophic Harm | WION" title="Bill Gates Warns AI Could Cause Catastrophic Harm | WION">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=dO6wytBx7dQ" target="_blank">
+      <a href="https://www.youtube.com/watch?v=8atC65dfSm4" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=dO6wytBx7dQ&title=Artificial+Intelligence+%7C+Why+Is+AI+Now+A+Threat+To+Global+Peace+And+Security%3F&lang=en&timestamp=1790363092&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1177">
-          <img src="https://ytcards.demolab.com/?id=dO6wytBx7dQ&title=Artificial+Intelligence+%7C+Why+Is+AI+Now+A+Threat+To+Global+Peace+And+Security%3F&lang=en&timestamp=1790363092&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1177" alt="Artificial Intelligence | Why Is AI Now A Threat To Global Peace And Security?" title="Artificial Intelligence | Why Is AI Now A Threat To Global Peace And Security?">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=8atC65dfSm4&title=Gates+under+fire+for+%E2%80%98scaremongering%E2%80%99+over+artificial+intelligence&lang=en&timestamp=1790479105&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=55">
+          <img src="https://ytcards.demolab.com/?id=8atC65dfSm4&title=Gates+under+fire+for+%E2%80%98scaremongering%E2%80%99+over+artificial+intelligence&lang=en&timestamp=1790479105&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=55" alt="Gates under fire for ‘scaremongering’ over artificial intelligence" title="Gates under fire for ‘scaremongering’ over artificial intelligence">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=ULMYG5f7ERw" target="_blank">
+      <a href="https://www.youtube.com/watch?v=nZO5pF-GTIQ" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ULMYG5f7ERw&title=%E0%A6%8F%E0%A6%86%E0%A6%87+%E0%A6%A6%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A7%87+%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A6%9C%E0%A7%81%E0%A6%A1%E0%A6%BC%E0%A7%87+%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE%E0%A6%B0+%E0%A6%9B%E0%A6%95+%E0%A6%B8%E0%A6%B6%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0+%E0%A6%97%E0%A7%8B%E0%A6%B7%E0%A7%8D%E0%A6%A0%E0%A7%80%E0%A6%A6%E0%A7%87%E0%A6%B0+%7C+Artificial+Intelligence+%7C+Kalbela&lang=en&timestamp=1790391892&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=213">
-          <img src="https://ytcards.demolab.com/?id=ULMYG5f7ERw&title=%E0%A6%8F%E0%A6%86%E0%A6%87+%E0%A6%A6%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A7%87+%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A6%9C%E0%A7%81%E0%A6%A1%E0%A6%BC%E0%A7%87+%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE%E0%A6%B0+%E0%A6%9B%E0%A6%95+%E0%A6%B8%E0%A6%B6%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0+%E0%A6%97%E0%A7%8B%E0%A6%B7%E0%A7%8D%E0%A6%A0%E0%A7%80%E0%A6%A6%E0%A7%87%E0%A6%B0+%7C+Artificial+Intelligence+%7C+Kalbela&lang=en&timestamp=1790391892&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=213" alt="এআই দিয়ে বিশ্বজুড়ে হামলার ছক সশস্ত্র গোষ্ঠীদের | Artificial Intelligence | Kalbela" title="এআই দিয়ে বিশ্বজুড়ে হামলার ছক সশস্ত্র গোষ্ঠীদের | Artificial Intelligence | Kalbela">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=nZO5pF-GTIQ&title=%27It%27s+Actually+Much+More+Elegant%27%3A+Trump+Says+He+Spoke+To+Xi+About+Renaming+AI+To+Super+Intelligence&lang=en&timestamp=1790443105&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=109">
+          <img src="https://ytcards.demolab.com/?id=nZO5pF-GTIQ&title=%27It%27s+Actually+Much+More+Elegant%27%3A+Trump+Says+He+Spoke+To+Xi+About+Renaming+AI+To+Super+Intelligence&lang=en&timestamp=1790443105&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=109" alt="'It's Actually Much More Elegant': Trump Says He Spoke To Xi About Renaming AI To Super Intelligence" title="'It's Actually Much More Elegant': Trump Says He Spoke To Xi About Renaming AI To Super Intelligence">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=CR04QUoLX5I" target="_blank">
+      <a href="https://www.youtube.com/watch?v=RvWhNWort34" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=CR04QUoLX5I&title=Trump-Xi+AI+Talks%3A+US-China+Leaders+Push+Cooperation+On+Artificial+Intelligence+%7C+NewsX&lang=en&timestamp=1790359492&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=106">
-          <img src="https://ytcards.demolab.com/?id=CR04QUoLX5I&title=Trump-Xi+AI+Talks%3A+US-China+Leaders+Push+Cooperation+On+Artificial+Intelligence+%7C+NewsX&lang=en&timestamp=1790359492&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=106" alt="Trump-Xi AI Talks: US-China Leaders Push Cooperation On Artificial Intelligence | NewsX" title="Trump-Xi AI Talks: US-China Leaders Push Cooperation On Artificial Intelligence | NewsX">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=RvWhNWort34&title=Trump+Rejects+Iran+Proposal%2C+Discusses+Ukraine%2C+China+AI+and+Cuba+%7C+Dawn+News+English&lang=en&timestamp=1790443105&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=406">
+          <img src="https://ytcards.demolab.com/?id=RvWhNWort34&title=Trump+Rejects+Iran+Proposal%2C+Discusses+Ukraine%2C+China+AI+and+Cuba+%7C+Dawn+News+English&lang=en&timestamp=1790443105&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=406" alt="Trump Rejects Iran Proposal, Discusses Ukraine, China AI and Cuba | Dawn News English" title="Trump Rejects Iran Proposal, Discusses Ukraine, China AI and Cuba | Dawn News English">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=8sX9jvZnoO8" target="_blank">
+      <a href="https://www.youtube.com/watch?v=bIJWAKCH1qI" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=8sX9jvZnoO8&title=Empowering+Plans%3A+P252+%E2%80%93+Artificial+Intelligence+and+the+No+Surprises+Act&lang=en&timestamp=1790352292&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=841">
-          <img src="https://ytcards.demolab.com/?id=8sX9jvZnoO8&title=Empowering+Plans%3A+P252+%E2%80%93+Artificial+Intelligence+and+the+No+Surprises+Act&lang=en&timestamp=1790352292&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=841" alt="Empowering Plans: P252 – Artificial Intelligence and the No Surprises Act" title="Empowering Plans: P252 – Artificial Intelligence and the No Surprises Act">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=bIJWAKCH1qI&title=Artificial+Intelligence+and+the+Struggle+for+Humanity+%7C+Pray+Vote+Stand+Summit+2026&lang=en&timestamp=1790446705&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1811">
+          <img src="https://ytcards.demolab.com/?id=bIJWAKCH1qI&title=Artificial+Intelligence+and+the+Struggle+for+Humanity+%7C+Pray+Vote+Stand+Summit+2026&lang=en&timestamp=1790446705&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1811" alt="Artificial Intelligence and the Struggle for Humanity | Pray Vote Stand Summit 2026" title="Artificial Intelligence and the Struggle for Humanity | Pray Vote Stand Summit 2026">
         </picture>
       </a>
     </td>
